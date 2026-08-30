@@ -66,6 +66,10 @@ Anitelos is an early-stage open research framework and living RFC. To maintain a
 > Neither means universally true, human-equivalent, safe in every environment,
 > or permanently canonical. Every layer remains challengeable and supersedable.
 
+The first genuine raw conversation is preserved at
+[`commons/drops/2026/raw-chat-001-a-little-idea-for-humanity/`](commons/drops/2026/raw-chat-001-a-little-idea-for-humanity/).
+It remains unverified and requires privacy review before any public release.
+
 ---
 
 ## 📚 Foundational Documentation & Specifications

@@ -1,0 +1,35 @@
+drop_id: raw-chat-001-a-little-idea-for-humanity
+status: CANDIDATE_GRAPH_EXTRACT
+source_anchoring: pending
+
+edges:
+  - source: individual_ai_continuity
+    relation: COMPLEMENTS
+    target: human_knowledge_commons
+  - source: individual_ai_continuity
+    relation: MUST_REMAIN_DISTINCT_FROM
+    target: public_human_profile
+  - source: cosmic_wiki
+    relation: SERVES_PRIMARY_AUDIENCE
+    target: humans
+  - source: node_library
+    relation: CONNECTS
+    target: claims_evidence_questions_and_people
+  - source: local_private_context
+    relation: MAY_INFORM_WITHOUT_AUTOMATICALLY_PUBLISHING
+    target: personal_relevance
+  - source: advertising_surveillance
+    relation: CONTRADICTS
+    target: sovereign_relevance
+  - source: linux_community_participation
+    relation: POSSIBLE_NOT_PROMISED
+    target: anitelos_ecosystem
+  - source: modular_max_mojo_support
+    relation: POSSIBLE_NOT_PROMISED
+    target: reference_runtime
+  - source: strong_reciprocal_licensing
+    relation: TENSION_WITH
+    target: broad_adoption
+  - source: implementation
+    relation: DOES_NOT_IMPLY
+    target: permanent_truth

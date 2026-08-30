@@ -1,0 +1,16 @@
+drop_id: raw-chat-001-a-little-idea-for-humanity
+status: RAW_UNVERIFIED_HISTORICAL_CONTEXT
+ingested_at: 2026-08-30
+original_filename: "a little idea for humanity.(1).txt"
+stored_filename: SOURCE.txt
+source_platform: Gemini
+size_bytes: 212155
+line_count: 2057
+sha256: 3ec6da845f091848146802ec7b056f08e8c679648b055ddbe46f7e9df47229d5
+author_assertion: Jay
+assistant_content_present: true
+claims_verified: false
+public_release_review: required
+privacy_review: required
+licence_review: required
+notes: "Exact CRLF UTF-8 source preserved. Contains speculative claims, local paths and sensitive-context discussion."
