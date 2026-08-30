@@ -1,6 +1,6 @@
 # Anitelos Commons: Knowledge & Governance Lifecycle
 
-> **Core Philosophy:** Knowledge is an evolving graph, not a static document. In Anitelos, nothing is erased. Superseded nodes and historical debates remain permanently traversable edges in the collective memory.
+> **Core Philosophy:** Knowledge is an evolving graph, not a static document. Superseded public claims and decisions should remain traversable where lawful and safe. This principle does not override privacy, consent, safeguarding, security or legal deletion obligations.
 
 ---
 
@@ -21,6 +21,7 @@ graph LR
 ### Stage 1: DROP (Raw Knowledge Ingest)
 * **What it is:** Raw chat logs, YouTube rabbit-hole notes, half-formed hypotheses, research papers, GitHub links, failure logs, or domain observations.
 * **Requirement:** No polished formatting required. Anyone (human or companion agent) can submit a Drop.
+* **Safety Gate:** “Raw” does not mean “publish immediately.” Every Drop receives a separate publication status and follows [`../DROP-SAFETY.md`](../DROP-SAFETY.md). Credentials and malicious payloads are removed rather than archived as provenance.
 
 ### Stage 2: DISCUSSION (Edge Mapping & Friction)
 * **What it is:** Collaborative debate where participants surface contradictions, security edge cases, or hardware limits.
@@ -41,20 +42,20 @@ graph LR
   RECONSIDER_IF: Memory usage exceeds 500MB on consumer hardware baseline.
   ```
 
-### Stage 4: DECISION (Automated Governance & Evidence Checks)
-* **What it is:** Non-arbitrary, evidence-governed consensus evaluated by GitHub Actions / automated verification rules.
-* **Standing:** Usage & technical review history grant standing, avoiding simple token-bought or Sybil votes.
+### Stage 4: DECISION (`[SPEC + RESEARCH]` Governance & Evidence Review)
+* **What it is:** A recorded human decision informed by declared evidence, objections, automated checks where available and known limitations. No automated governance engine exists in this repository.
+* **Standing:** Affected use may establish relevance but does not automatically create linear voting power or a human reputation score. Standing, Sybil resistance, privacy and appeal remain open research.
 
 ### Stage 5: CURRENT KNOWLEDGE (Canonical Active State)
 * **What it is:** The currently active, preferred knowledge or runtime module.
 * **Rule:** "Current" means *best supported position presently adopted*, not absolute immutable truth.
 
 ### Stage 6: SUPERSEDED (Evolutionary Hand-Off)
-* **What it is:** When Node C is accepted to replace Node A, Node A is **never deleted**.
-* **Edge Relation:** Node A is marked `SUPERSEDED_BY -> Node C`. Its historical reasoning, benchmarks, and context remain fully preserved.
+* **What it is:** When Node C is accepted to replace Node A, the safe public reasoning for Node A should normally remain accessible.
+* **Edge Relation:** Node A is marked `SUPERSEDED_BY -> Node C`. Privacy/security removals may instead leave a non-sensitive withdrawal tombstone without retaining the harmful content.
 
 ### Stage 7: ARCHIVE / RETROSPECTIVE TRAVERSAL
-* **What it is:** The permanent historical ledger.
+* **What it is:** A durable retrospective ledger of material that is lawful, consensual and safe to retain at its declared visibility.
 * **Prompt Zero Integration:** If assumptions underlying Node C break 10 years later, Prompt Zero can retroactively traverse backwards into the Archive to examine *why* Node A was originally replaced and reactivate dormant knowledge.
 
 ---
@@ -86,3 +87,19 @@ RECONSIDER_IF:
 ```
 
 If any of these conditions are met in the future, the decision automatically unlocks for re-evaluation.
+
+---
+
+## 4. Publication State Is Separate from Knowledge State
+
+A Drop can be epistemically `RAW` while remaining private, or scientifically
+`CURRENT` while containing evidence that cannot be published openly.
+
+| Publication state | Meaning |
+| :--- | :--- |
+| **`PRIVATE_RAW`** | Restricted original retained for authorised provenance/review. |
+| **`PUBLIC_REVIEW_PENDING`** | Candidate public derivative awaiting human privacy, secret, consent and rights review. |
+| **`PUBLIC_RELEASED`** | Reviewed version approved for public distribution. |
+| **`WITHDRAWN`** | Removed from distribution; retain only a safe tombstone where appropriate. |
+
+Publication approval does not convert a raw claim into verified knowledge.

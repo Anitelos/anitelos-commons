@@ -82,6 +82,7 @@ It remains unverified and requires privacy review before any public release.
 * **[COMMONS-COVENANT.md](COMMONS-COVENANT.md)** — Non-Enclosure Covenant & Non-Adversarial Data Protection Guarantee.
 * **[GOVERNANCE.md](GOVERNANCE.md)** — Founder Progression Roadmap, Anti-Tone-Policing & Sortition Security Audits.
 * **[CONTRIBUTING.md](CONTRIBUTING.md)** — How to submit Drops, analogies, and formal RFC proposals.
+* **[DROP-SAFETY.md](DROP-SAFETY.md)** — Contributor-wide privacy, secret, consent and publication review policy.
 * **[LEGAL-DESIGN-NOTES.md](LEGAL-DESIGN-NOTES.md)** — Legal design intent & data anti-detriment guarantees.
 * **[LICENSING.md](LICENSING.md)** — Current and intended licence boundaries, including treatment of legacy Anikai material.
 * **[docs/GENESIS-CONSISTENCY-AUDIT-2026-08-30.md](docs/GENESIS-CONSISTENCY-AUDIT-2026-08-30.md)** — Evidence-based audit, repairs applied and remaining work.

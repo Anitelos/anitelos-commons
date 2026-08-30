@@ -24,6 +24,9 @@ credentials, private third parties, intimate material and information that Jay
 did not intend to publish. Preserve the private original and record any public
 redactions transparently rather than silently rewriting history.
 
+This is the repository-wide rule for all contributors, not a special warning
+about Jay's ideas or ethics. See [`../../../../DROP-SAFETY.md`](../../../../DROP-SAFETY.md).
+
 ## Files
 
 - `SOURCE.txt` — exact source conversation.
