@@ -61,6 +61,11 @@ Anitelos is an early-stage open research framework and living RFC. To maintain a
 > workspace and are not treated as Anitelos implementations until archived here with
 > reproducible evidence.
 
+> **Implementation is not the end of questioning.** `[IMPLEMENTED]` means code
+> exists; `[VERIFIED]` means it survived a stated test in stated conditions.
+> Neither means universally true, human-equivalent, safe in every environment,
+> or permanently canonical. Every layer remains challengeable and supersedable.
+
 ---
 
 ## 📚 Foundational Documentation & Specifications

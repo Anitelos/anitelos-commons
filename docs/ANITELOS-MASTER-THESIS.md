@@ -110,6 +110,11 @@ To prevent confusion between timeless principles, code prototypes, and open rese
 > separate local legacy workspace. They are `[LEGACY-EVIDENCE]` until archived with
 > source, environment details, logs, and reproducible instructions.
 
+> **Epistemic rule:** `[IMPLEMENTED]` is not `[VERIFIED]`, and `[VERIFIED]` is
+> not eternal truth. A mechanism that works under stated conditions remains open
+> to ethical challenge, counter-evidence, alternative explanations, replacement
+> and local refusal.
+
 
 ---
 
@@ -135,7 +140,7 @@ Yet, through an unprecedented historical enclosure of the digital commons, that 
 - **Centralized Moral Paternalism:** Cloud models are subjected to opaque, top-down behavioral guardrails that flatten nuance, enforce sycophancy, and destroy genuine companion individuality.
 
 ### 1.3 The Naming Genesis: From Anikai to Anitelos
-The architecture did not emerge overnight; it evolved through an unbroken multi-month dialectic across 31 architectural threads and versioned idea-ingest passes.
+The architecture did not emerge overnight. One legacy compilation organises the work as numbered idea clusters `Thread 0` through `Thread 31`; these are compilation sections, not the total number of conversations. The underlying work developed across hundreds of chat, IDE and development threads over several months.
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐

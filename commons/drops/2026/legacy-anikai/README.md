@@ -46,3 +46,4 @@ invent missing commit history to make the archive look complete.
 | [`android-windows-beginning-times/`](android-windows-beginning-times/) | `LEGACY_EVIDENCE` | No |
 | [`pre-evolution/`](pre-evolution/) | `LEGACY_EVIDENCE` | No |
 | [`evolution-pre-anitelos/`](evolution-pre-anitelos/) | `LEGACY_EVIDENCE` | No |
+| [`idea-compilation-culmination/`](idea-compilation-culmination/) | `LEGACY_EVIDENCE` | Selective theme indexing only |

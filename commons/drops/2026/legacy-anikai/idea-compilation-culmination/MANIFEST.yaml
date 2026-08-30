@@ -1,0 +1,14 @@
+drop_id: legacy-anikai-idea-compilation-culmination
+status: LEGACY_EVIDENCE
+ingested_at: 2026-08-30
+original_filename: "ANIKAI-IDEA-COMPILATION(1).md"
+stored_filename: SOURCE.md
+size_bytes: 353821
+line_count: 5504
+sha256: a3a4205b15a1ca3a676bc77dfb85910104ad56a41d53b3c84a4f199b63ac4922
+source_workspace: local-anikai
+remote_accessible: false
+content_reviewed: selectively_indexed
+licence_review: required
+author_assertion: Jay
+notes: "Exact source preserved. Headings and named themes indexed; claims not validated."
