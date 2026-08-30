@@ -1,0 +1,13 @@
+drop_id: legacy-anikai-android-windows-beginning-times
+status: LEGACY_EVIDENCE
+ingested_at: 2026-08-30
+original_filename: "anikai android and windows beginning times.zip"
+stored_filename: SOURCE.zip
+size_bytes: 760148
+sha256: cb40b96a28cd874cb907ec0e136eb216d5eb5afce3c35b9a7437a8fce29b81be
+source_workspace: local-anikai
+remote_accessible: false
+content_reviewed: false
+licence_review: required
+author_assertion: Jay
+notes: "Preserved without document-by-document inspection. ZIP integrity verified."

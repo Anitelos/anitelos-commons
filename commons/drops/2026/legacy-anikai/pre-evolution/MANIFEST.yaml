@@ -1,0 +1,13 @@
+drop_id: legacy-anikai-pre-evolution
+status: LEGACY_EVIDENCE
+ingested_at: 2026-08-30
+original_filename: "pre evolution.zip"
+stored_filename: SOURCE.zip
+size_bytes: 53359
+sha256: e8e184ac95623f4c4be7ded4a83a41cc4e03534d1099b8d0f93a3854d9429382
+source_workspace: local-anikai
+remote_accessible: false
+content_reviewed: false
+licence_review: required
+author_assertion: Jay
+notes: "Preserved without document-by-document inspection. ZIP integrity verified."

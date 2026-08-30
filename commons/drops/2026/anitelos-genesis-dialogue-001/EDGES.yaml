@@ -1,0 +1,27 @@
+# Genesis Dialogue 001: Machine-Readable Graph Edges
+drop_id: anitelos-genesis-dialogue-001
+timestamp: 2026-08-30T05:00:00Z
+status: EVOLVED_GRAPH_EXTRACT
+
+edges:
+  - source: "forgot_word_indirect"
+    relation: "REMINDS_OF"
+    target: "indirect_lighting_global_illumination"
+  - source: "indirect_lighting_global_illumination"
+    relation: "INFORMS"
+    target: "associative_retrieval_mechanism"
+  - source: "oil_in_water_analogy"
+    relation: "REMINDS_OF"
+    target: "temporal_half_life_decay"
+  - source: "temporal_half_life_decay"
+    relation: "INSPIRED"
+    target: "ingredient_principle"
+  - source: "ingredient_principle"
+    relation: "SUPERSEDES"
+    target: "binary_academic_filtering"
+  - source: "human_social_credit_score"
+    relation: "CONTRADICTS"
+    target: "sovereign_privacy_invariant"
+  - source: "component_outcome_attribution"
+    relation: "SUPERSEDES"
+    target: "human_social_credit_score"
