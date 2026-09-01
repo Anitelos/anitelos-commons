@@ -402,6 +402,16 @@ A release may end. A model may fail. A storage strategy may become obsolete. Non
 
 > **Anitelos does not complete the circle. It preserves the method by which each generation may draw closer. In that sense, the architecture is itself pi: finitely expressed at every moment, never finally exhausted.**
 
+### Follow the relation until the carrier reaches its boundary
+
+Human discovery has always been a relay. A person becomes tired, hungry, distracted, bored, ill or old. A student lacks the equipment of an institution. A researcher changes fields. A company closes. None of those boundaries means that the question itself has ended.
+
+Modern AI research shows how a new technological domain can shorten parts of that relay. ReLU rose to prominence in deep learning around 2010–2011; GELU was proposed in 2016; SwiGLU was evaluated for Transformer feed-forward layers in 2020. They were not produced in one sudden year. What later accelerated was their global movement through papers, open implementations, benchmarks, students, model builders, hardware engineers and users.
+
+That acceleration is not automatically wisdom. A large crowd can reproduce a bias or race toward the wrong objective. The advantage appears when more kinds of participant can inspect the evidence, test different environments and preserve negative results as well as successes.
+
+> **Follow the relation until the present carrier reaches its boundary. Preserve the path so another can continue without beginning from zero.**
+
 The same should apply to END Theory and Anitelos. Their value would not lie in being the last description. It would lie in leaving enough reasoning, provenance and challengeable structure for later contributors to outdate them intelligently.
 
 ### Hard questions without hidden answers

@@ -565,6 +565,16 @@ As a bounded design analogy, Anitelos is **pi-shaped**. Its invariants define a 
 
 > **Every implementation is finite. The relation it follows remains unfinished.**
 
+#### 4.8.1.1 The relay principle
+
+Research continuity cannot depend upon an indefinitely available person, institution or runtime. Contributors have ordinary cognitive and bodily limits; organisations close; hardware generations expire. A robust Commons must allow work to pause at one carrier and resume at another without treating the carrier's boundary as the end of the inquiry.
+
+The activation-function lineage provides a bounded example. ReLU became prominent in deep learning around 2010–2011, GELU was proposed in 2016, and SwiGLU was evaluated for Transformer feed-forward layers in 2020. The sequence was not completed in one year. Its later diffusion illustrates how papers, code, shared benchmarks, students, researchers, infrastructure developers and model users can compress evaluation and adoption across geographic and institutional domains.
+
+This does not establish that more participants or faster adoption necessarily produce truth. Replication, environment records, negative results, dissent and comparison against simpler alternatives remain required.
+
+> **Follow the relation until the current carrier reaches its boundary; preserve enough lineage for another carrier to continue.**
+
 Anitelos should therefore preserve assumptions, evidence, environment and supersession paths—not only conclusions. A future contributor should be able to discover why a node once looked sufficient and which new edge made it incomplete.
 
 #### 4.8.2 Layer Three as a falsifiable research programme
