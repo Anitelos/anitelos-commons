@@ -65,6 +65,15 @@ General relativity predicts singular behaviour under stated conditions, while th
 
 Quantum-bounce models demonstrate that continuation can be formulated mathematically under particular assumptions; they do not establish that real black holes produce new universes. [Example Physical Review Letters model](https://link.aps.org/doi/10.1103/PhysRevLett.134.101501)
 
+### Stellar collapse is not combustion
+
+A stellar-mass black hole can form when the core of a sufficiently massive star can no longer maintain pressure against gravitational collapse. Nuclear burning and the core's composition help determine how that loss of support occurs, but black-hole formation is not chemical combustion and matter is not known to be simply “crushed out of existence.” Some collapses may produce visible supernovae; others may collapse more directly.
+
+At ordinary densities, electromagnetic interactions and quantum-mechanical pressure help stabilise matter. In a neutron star, neutron degeneracy pressure and nuclear interactions can resist further collapse. Above the relevant mass limit, no known stable stellar configuration prevents continued collapse. Classical general relativity then predicts singular behaviour, but that does not provide a tested quantum description of the final interior state.
+
+> **The scientifically responsible ending is not “an infinitely small point explains everything.” It is that the classical description becomes incomplete where quantum gravity is expected to matter.**
+
+Black holes therefore offer END a boundary image, not physical confirmation: an apparent final state in one description may reveal where the map stops answering. [NASA on black-hole types](https://science.nasa.gov/universe/black-holes/types/) · [Einstein Online on changing space and time inside a black hole](https://www.einstein-online.info/en/spotlight/changing_places/)
 ## Questions for deeper reviewers
 
 1. Which END analogies commit a category error between physics, information and human meaning?

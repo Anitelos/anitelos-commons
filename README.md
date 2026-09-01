@@ -17,6 +17,7 @@ experiment derived from it—not proof of the theory and not a completed answer.
 6. Use **[Ego, Mouth, Organs and Familiars](docs/EGO-ORGAN-FAMILIAR-ROLE-HYGIENE.md)** for the role boundary and proposed Organ interruption mechanism.
 7. Read **[External Drop Bridge](docs/EXTERNAL-DROP-BRIDGE.md)** for the proposed `@anitelos` path from ordinary web discussion into the seven-stage lifecycle.
 8. Challenge **[Proof, Model, Metaphor & Myth](docs/COSMOLOGY-PROOF-MODEL-METAPHOR-MYTH.md)** where END touches cosmology without claiming scientific proof.
+9. Explore **[Layer Three — From Possibility to Consequence](docs/LAYER-THREE-POSSIBILITY-TO-CONSEQUENCE.md)** for the proposed bridge from private possibility and fiction to shared representation, testing and material consequence.
 
 For an agent-assisted audit, use **[Prompt Zero](PROMPT-ZERO.md)**. It instructs
 the reviewing system to separate evidence, specification, hypothesis and
@@ -55,6 +56,7 @@ Anitelos is an early-stage open research framework and living RFC. For transpare
 * **[docs/END-THEORY.md](docs/END-THEORY.md)** — Public-review edition of Edge–Node Domain Theory: relational meaning, continuity, inherited knowledge and Anitelos as a temporary experiment.
 * **[docs/END-THEORY-TRAIL-MAP.md](docs/END-THEORY-TRAIL-MAP.md)** — Public conceptual lineage showing the prototypes, objections and revisions that shaped the proposition.
 * **[docs/COSMOLOGY-PROOF-MODEL-METAPHOR-MYTH.md](docs/COSMOLOGY-PROOF-MODEL-METAPHOR-MYTH.md)** — `[DROP + RESEARCH]` Cosmology questions, scientific pushbacks and evidence boundaries.
+* **[docs/LAYER-THREE-POSSIBILITY-TO-CONSEQUENCE.md](docs/LAYER-THREE-POSSIBILITY-TO-CONSEQUENCE.md)** — `[DROP + RESEARCH]` The transition from private possibility and fiction to shared symbolic objects, scrutiny and consequence.
 * **[docs/EDGE-NODE-UNIVERSE-VISUAL-TREATMENT.md](docs/EDGE-NODE-UNIVERSE-VISUAL-TREATMENT.md)** — Cinematic visual treatment for the theory and Commons.
 * **[docs/experience/](docs/experience/)** — `[PROTOTYPE]` Interactive modular scene player with the Cold Open key art, production states, transcripts and theory links.
 * **[docs/EDGE-NODE-UNIVERSE-PRODUCTION-MAP.md](docs/EDGE-NODE-UNIVERSE-PRODUCTION-MAP.md)** — Replaceable scene order, visual grammar, narration and evidence boundaries.

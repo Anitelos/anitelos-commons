@@ -203,6 +203,29 @@ This phase clarified a methodological rule:
 
 > **The myth may open the question. The model must expose its assumptions. Observation decides what nature permits us to claim.**
 
+## Phase 13 — Layer Three and the cost of rediscovery
+
+A later sequence of questions asked what exists between private possibility and public consequence. Fiction supplied the clearest pressure test: an imagined person is not physically alive, yet a story can become a durable symbolic object whose effects are physically and socially real.
+
+This produced **Layer Three** as a research label, not a newly discovered substance or dimension:
+
+> private possibility → shared representation → scrutiny and experiment → consequence
+
+π then separated a stable node from an expanding domain. Its value does not grow, while possible representations, proofs, uses and cultural relationships remain open-ended. Atomic boundaries supplied a different correction: objects resist unrestricted overlap through interactions and quantum constraints, not because an invisible hard object sits between them. The analogy suggested that constraints can be relationally consequential without becoming proof of one universal mechanism.
+
+The discussion also rejected several tempting shortcuts:
+
+- the repeated usefulness of three layers does not make three a privileged cosmic number;
+- a graph edge cannot formally exist without endpoints, though an observed trace may precede identification of its source;
+- dark matter is an inference from gravitational effects, not an END void or unidentified Layer Three node;
+- “fractal” and “scale-free” require mathematical evidence;
+- and unresolved questions should not be declared permanently unsolvable.
+
+The practical return was archival. When a question remains private and fades, a later mind may have to rediscover the route from zero. That does not justify retaining every transcript forever. It motivates safe transformation: summaries, typed edges, uncertainty, provenance, half-life policies and user-directed preservation sufficient for later inquiry without converting the Vault into a local singularity.
+
+> **The purpose of continuity is not to prevent all forgetting. It is to reduce avoidable rediscovery while preserving the right to let private material fade.**
+
+This phase is expanded in [Layer Three — From Possibility to Consequence](LAYER-THREE-POSSIBILITY-TO-CONSEQUENCE.md).
 ## Where the trail remains open
 
 This reconstruction remains challengeable. Important unresolved questions include:

@@ -79,6 +79,25 @@ The same node may mean different things across domains. A software patch can be 
 
 This does not make every interpretation equally correct. It means that a system seeking a sensible decision should not confuse technical authority with complete knowledge of human consequence.
 
+## Layer Three: where possibility becomes examinable
+
+END distinguishes an entity from its representation and from the consequences that representation may later produce. An imagined person is not physically alive, yet a story can alter language, conduct and institutions. A hypothesis may be wrong while the experiment designed to test it creates useful knowledge. A proposed machine may not exist while its diagram already coordinates real labour.
+
+> **A nonexistent referent does not imply a nonexistent node. A fiction can be false as description and real as a cultural cause.**
+
+Anitelos uses **Layer Three** as a working name for the transition through which private possibility becomes a shared symbolic object that can be inspected, related, challenged, tested and revised. It is not proposed as a new physical dimension or substance.
+
+The passage is not `fiction → truth`. It is:
+
+> **possibility → representation → relation → scrutiny → experiment → consequence → revision**
+
+Three connected examples sharpen the proposition:
+
+- π is a fixed value whose representations and human knowledge domain can continue to gain edges: the node need not move for its reachable meaning to expand;
+- ordinary material boundaries arise through interactions and quantum constraints rather than miniature hard shells: a consequential relation need not be another visible object;
+- continuity can revisit a pattern without repeating it identically: later states inherit changed conditions and branch from what came before.
+
+These are bounded analogies, not evidence that mathematics, matter, cognition and society share one hidden mechanism. The fuller research Drop is [Layer Three — From Possibility to Consequence](LAYER-THREE-POSSIBILITY-TO-CONSEQUENCE.md).
 ## The Strong END Hypothesis: knowledge as relational continuity
 
 The strongest form of END Theory proposes that **knowledge is the most consequential continuity available to existence**.
