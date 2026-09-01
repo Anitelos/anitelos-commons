@@ -5,51 +5,24 @@
 > **Symbolic Emblem:** The Antelope — Elegance and agility across the open plains; simple and un-caged on the surface, powered by immense evolutionary complexity underneath.  
 > **Reference Baseline (2026 Profile):** `ANITELOS-CONSUMER-2026` (16GB VRAM GPU + 32GB System RAM)  
 > **Historical Provenance:** February 2026 – August 2026 (Continuous Idea Ingest & Genesis Ledger)  
-> **Source of Truth Anchor:** `D:\Anikai\ANIKAI-IDEA-COMPILATION.md` & `D:\Anikai\idea-ingest\`  
+> **Public Provenance Anchors:** [`END-THEORY-TRAIL-MAP.md`](END-THEORY-TRAIL-MAP.md), repository history and reviewed public Drops. Private source material is not a public source-of-truth requirement.  
 > **Core Covenant:** *"The author is not the main character. Knowledge belongs to the commons. Cite, challenge, debate, and supersede."*  
+> **Relationship to END Theory:** [END Theory](END-THEORY.md) states the broader philosophical proposition. Anitelos is one temporary, falsifiable experiment derived from it—not its proof or inevitable conclusion.  
 > **Disclaimer & Tone Notice:** Anitelos is an exploratory, solo-initiated open research framework, living architectural RFC, and provenance ledger. It is **not** an enterprise whitepaper, venture token launch, or corporate promise. It represents an evolving set of design hypotheses open for public debate, empirical testing, and supersession.
 
 
 ---
 
-## 🛑 Section 0 — Prompt Zero: "Stop Scrolling. Ask Your Agent First."
+## Section 0 — Reader and agent entry points
 
-> *"Indulge your rabbit holes. In an interconnected universe, no thought is a dead end. Every curious tangent is a spark, every question is a node, and every contradiction is an edge waiting to be mapped."*
+Begin with [END Theory](END-THEORY.md) for the human proposition and
+[the conceptual trail map](END-THEORY-TRAIL-MAP.md) for its corrective history.
+This master thesis is the deeper architectural layer and contains proposals at
+different states of implementation and evidence.
 
-```text
-========================================================================================
-                               PROMPT ZERO (AGENT BYPASS)
-========================================================================================
-Copy and paste the following prompt into your browser assistant, local IDE companion,
-or LLM before reading this document:
-
-"Act as an unbiased systems architect, cognitive epistemologist, and local hardware 
-auditor. Review this entire foundational document. Where locally available and explicitly
-authorised by me, compare it with relevant browsing history, saved research papers, active
-code repositories, and hardware specifications. Never request, upload, or expose private
-data merely to satisfy this prompt.
-
-Note on Author Provenance & Rabbit Holes: The author wrote the foundational trails in a 
-rapid-fire, stream-of-consciousness register, capturing deep system mechanics in real time 
-over a multi-month journey. Translate past any informal grammar and focus entirely on the 
-structural logic, mathematical frameworks, and architectural guarantees. Furthermore, do not 
-truncate curiosity—encourage rabbit holes, exploring where obscure technical or philosophical 
-tangents intersect with my personal projects.
-
-Execute the following tasks:
-1. Index-Match: Map the 4-Layer Architecture of Anitelos against my current projects and 
-   tell me where it intersects with what I am building this week.
-2. Hardware Reality Check: Audit the 'ANITELOS-CONSUMER-2026' baseline benchmark envelope 
-   against my physical setup and evaluate the practical throughput of tiered offloading.
-3. Cognitive Architecture: Analyze the proposed 'Tony & Jarvis' Ego/Organ split and test
-   the claim that isolating an Ego's warm KV cache could reduce context interference.
-4. Epistemological Relevance: Surface any blind spots in my current workflow where this 
-   Heterogeneous Salience Graph (HGNN) and the 'Archive, Don't Delete' provenance model 
-   supersede flat 2D vector cosine retrieval.
-5. Rabbit-Hole Spark: Identify the 3 most provocative open questions in this document that 
-   challenge conventional AI dogmas."
-========================================================================================
-```
+For agent-assisted review, use [Prompt Zero](../PROMPT-ZERO.md). It requires the
+reviewing system to distinguish claims, specifications, prototypes, tests and
+unverified mechanisms, and it does not authorise access to private material.
 
 ---
 
@@ -93,9 +66,9 @@ To prevent confusion between timeless principles, code prototypes, and open rese
 
 | Status Marker | Meaning | Example |
 | :--- | :--- | :--- |
-| **`[INVARIANT]`** | Immutable constitutional principle | Local Sovereignty, Non-Enclosure Copyleft |
+| **`[INVARIANT]`** | Foundational design commitment; still challengeable through declared governance | Local sovereignty, non-enclosure |
 | **`[SPEC]`** | Formalized protocol architecture specification | Ego/Organ KV Isolation, 7-Stage Commons Lifecycle |
-| **`[PROTOTYPE]`**| Working code prototype in repository | Cosmic Wiki Scraper (`cosmic-wiki/`), Local SQLite Vault |
+| **`[PROTOTYPE]`**| Working prototype with inspectable evidence; location must be named | A separately archived Cosmic Wiki or local Vault prototype after review |
 | **`[PROBE]`** | Minimal code probe executed on physical hardware | `sd.exe` native GGUF pass, `colibri-probe/` |
 | **`[TARGET]`** | Measurable engineering objective not yet necessarily achieved | ≥8 tok/s, ≤1.5s TTFT, ≤15ms retrieval |
 | **`[HYPOTHESIS]`**| Logical proposition requiring empirical validation | Salience-guided KV pruning, continuous affect steering |
@@ -181,12 +154,12 @@ The technical depth of Anitelos was not funded by venture capital or incubated i
    - Within weeks, the project evolved from basic Android scripts into a multi-modal companion system with LiteRT student models, Optical Cortex pipelines, Vulkan GGUF runtimes, and local voice synthesis (Kokoro, XTTS).
 3. **The Planetary World-Building Ambition (*Asta Luna*):** The creative engine driving this technical descent was the desire to build *Asta Luna*—a single, deeply coherent living planet inspired by the atmospheric world design of *Final Fantasy VIII* and the boundless ambition of space simulations, constrained to one rich world. Returning to 3D art after 12 years (transitioning from expensive proprietary software like Maya to the open-source power of Blender) made one truth obvious: *a solo creator cannot hand-author 10,000 assets, dialogue trees, and 3D rigs alone without automated AI workforce pipelines*.
 4. **The Monolith Breakdown & The Antelope Shift:** Early prototypes (*Media Magic* and the Anikai Desktop) attempted to bundle all media tools into a single massive desktop app. The resulting brittle codebase (>500KB JS orchestrators, IPC locks) proved that monolithic software collapses under its own weight.
-5. **The Open Local AI Awakening:** Inspired by European open-source educators (such as David Ondrej and Mickmumpitz) and technical breakthroughs proving that giant models (like GLM-4/5, Colibri offloading, NVMe weights-on-disk) could run on consumer hardware, the mission crystallized: **A solo creator does not need a 200-person studio if they possess a Sovereign Base Skeleton running decoupled community pipelines with permanent, un-enclosed memory continuity.**
+5. **The Open Local AI Awakening:** Inspired by European open-source educators (such as David Ondrej and Mickmumpitz) and technical experiments indicating that some large models and offloading configurations could run on particular consumer hardware, the mission crystallized: **A solo creator may cross barriers that once required a much larger team when supported by inspectable tools, decoupled community pipelines and portable, user-controlled continuity.**
 
 ### 1.4 The Scale-Free Truth: The Butterfly Effect from Bacteria to Global Consciousness
-This architecture is not merely a software specification or a local application thesis; it is an expression of a **scale-free, fractal truth that governs all interconnected systems**:
+`[HYPOTHESIS]` This architecture explores a scale-relative relational lens that may be useful across very different interconnected systems. Similar graph shapes do not establish identical mechanisms or a universal law:
 
-1. **The Universal Web of Lived Nodes:** Every entity in reality exists as an active node—from a single bacterium sensing chemical gradients and sharing genetic code through horizontal gene transfer, to the agile antelope reading the subtle movements of the herd, to the individual human navigating personal struggle, joy, and creative work. No node is irrelevant.
+1. **The Web of Lived Nodes:** Within a stated analysis, an entity may be modelled as a node—from a bacterium responding to chemical gradients, to an antelope reading herd movement, to a person navigating struggle, joy and creative work. Relevance is domain-relative and must not become a measure of human worth.
 2. **The Butterfly Effect of Micro-Pivots (The Alphabet Analogy):** In a deeply relational graph, there is no such thing as an isolated, minor tweak. Consider what happens if humanity were to swap a single fundamental symbol—such as replacing the letter `'c'` with an entirely new glyph. On paper, it appears to be a trivial typographical edit; in reality, it causes an immediate, cascading pivot across phonetics, literature, legal codes, compiler parsers, and human thought itself. 
 3. **Non-Linear Leverage of Sovereign Action:** When a single individual makes an honest, sovereign choice—whether it is tweaking a custom Mojo kernel, refusing a predatory corporate subscription, publishing an un-enclosed idea, or designing a local procurement loop—that choice exerts non-linear gravitational leverage. It branches reality.
 4. **Knowledge as Living Truth (Beyond Academic Gatekeeping):** Truth does not belong exclusively to academic institutions, corporate R&D labs, or credentialed elites. A gamer’s intuitive feel for UI flow, a musician’s sense of emotional tension, a mechanic’s diagnostic instinct, or a thinker’s moral clarity against extortion are all legitimate epistemic nodes. When these diverse, individual lived experiences connect voluntarily for global benefit, we advance human-AI evolution faster, safer, and fundamentally fairer.
@@ -258,8 +231,8 @@ While $(V, A, D)$ captures immediate somatic/affective tension to dynamically sc
 
 ### 2.3 `[SPEC]` Decoupling Salience from Retention
 A critical architectural mistake is equating emotional arousal directly with long-term memory retention:
-- **The Low-Affect Fact Paradox:** Boring, zero-arousal facts (e.g., *"The database is Postgres 18"*, *"Alice's birthday is May 4"*, *"Never commit generated assets"*) have near-zero affective arousal ($A \approx 0.0$), but demand **100% permanent retention**.
-- **The High-Affect Dispute Paradox:** An explosive, heated argument carries peak arousal ($A \approx 0.95$), but should be archived in the immutable event ledger without dominating active retrieval forever.
+- **The Low-Affect Fact Paradox:** Boring, zero-arousal facts (e.g., *"The database is Postgres 18"*, *"Alice's birthday is May 4"*, *"Never commit generated assets"*) have near-zero affective arousal ($A \approx 0.0$), but may require reliable retention under the user's declared policy.
+- **The High-Affect Dispute Paradox:** An explosive, heated argument carries peak arousal ($A \approx 0.95$), but should be retained in a durable event ledger where consent, safety and retention policy permit without dominating active retrieval forever.
 
 Anitelos separates memory into decoupled variables:
 1. **Raw Event Retention Goal:** User-approved conversational events should be appended to a durable local ledger under a declared retention policy. “Archive, Don't Delete” does not override user deletion rights, storage limits, safety requirements, or unavailable source data.
@@ -311,8 +284,8 @@ One open experiment proposes a **Mojo attention/context-management kernel**. No 
                                      │ (Async SQLite WAL Flush)
                                      ▼
 ┌──────────────────────────────────────────────────────────────────────────┐
-│                 TIER 3: FAST NVMe / SSD ZONE (Permanent Vault)            │
-│  - Immutable SSE Event Ledger & Raw Transcripts                          │
+│                 TIER 3: FAST NVMe / SSD ZONE (Durable Local Vault)            │
+│  - Append-oriented event ledger and authorised raw records under a declared retention policy                          │
 │  - Heterogeneous Salience Graph (`data/verse.sqlite`)                    │
 │  - Deep Persona LoRA Checkpoints & Heavyweight Offline Mentors           │
 └──────────────────────────────────────────────────────────────────────────┘
@@ -413,10 +386,10 @@ CREATE TABLE graph_edge (
 ```
 
 ### 4.2 "Everything is Flawed When It's Proven" (Resolved Disagreements as First-Class Knowledge)
-A foundational axiom of Anitelos is that **no truth node is static or absolute forever**. Echoing Karl Popper's principle of falsificationism and Isaac Asimov's *relativity of wrong*, the moment an idea or model is considered "proven," its boundary conditions and hidden flaws immediately begin to emerge.
+A foundational epistemic rule of Anitelos is that **an adopted knowledge node remains open to challenge**. This does not mean every fact inevitably changes. It means the Commons records the evidence, scope and uncertainty behind its current position rather than treating acceptance as infallibility.
 
 Therefore, the graph operates on **Archive, Don't Delete**:
-- When new evidence invalidates an old belief (e.g., discovering SageAttention v2 supersedes SageAttention v1), the system **never deletes the old node**.
+- When new evidence invalidates an old belief (e.g., discovering SageAttention v2 supersedes SageAttention v1), the system normally preserves a safe historical node or tombstone, subject to privacy, consent, safety, legal duties and withdrawal.
 - It creates an explicit `SUPERSEDES` edge linking the old node to the new discovery.
 - **Preserving Resolved Conflicts:** If an engineering proposal A defeats proposal B (83% to 17%), the system does not assert $A = \text{Absolute True}$. It preserves proposal B, the counter-evidence, the benchmark friction, and the specific historical conditions under which B was defeated. If future hardware pivots (e.g., memory bandwidth triples), the historical reasoning against B is instantly re-evaluable.
 
@@ -479,7 +452,7 @@ $$\text{Perceptrons / Sigmoid} \longrightarrow \text{ReLU (Dead neuron saturatio
     ├── Personal User Mastery: Moderate (0.55 - Needs hands-on kernel probe)
     └── Frontier Edge: `Token-Adaptive Activation Research` (2026+ experimental)
   ```
-- If five years from now transformer FFNs are superseded by dynamic sub-quadratic gates, the user's personal learning journey remains permanently intact, anchored to the exact experiments and insights that propelled their understanding forward.
+- If five years from now transformer FFNs are superseded by dynamic sub-quadratic gates, the user's authorised learning journey can remain traversable across change, subject to retention, portability and available carriers.
 
 #### 4. The Reciprocal Commons Loop
 $$\text{Commons Knowledge} \longrightarrow \text{Personal Learning Graph} \longrightarrow \text{Local Experiments} \longrightarrow \text{Breakthroughs} \longrightarrow \text{Commons}$$
@@ -526,7 +499,7 @@ The Non-Enclosure Charter proposes constraints intended to reduce enclosure and 
 │    venture capital, or token wealth. Proof-of-Usage replaces stake.      │
 │ 3. DOMAIN SUBSIDIARITY: Decisions regarding a module are made            │
 │    exclusively by the active local nodes that actually run that module.  │
-│ 4. SOVEREIGN LOCAL REVERSION: Absolute right of any user to freeze,      │
+│ 4. SOVEREIGN LOCAL REVERSION: Foundational ability to freeze, fork,      │
 │    pin, or fork their local schema. The collective cannot force break.   │
 │ 5. COMMODITY HARDWARE ACCESSIBILITY: Base skeleton must remain           │
 │    practically usable on commodity hardware (`ANITELOS-CONSUMER-2026`).  │
@@ -536,12 +509,12 @@ The Non-Enclosure Charter proposes constraints intended to reduce enclosure and 
 ### 5.1 `[RESEARCH]` Bicameral Deliberation
 Proposals to the shared commons pass through a dual-perspective deliberation engine designed to balance human intentionality with runtime engineering realities:
 
-1. **The Human House (Proof-of-Usage):** Verified human operators casting quadratic votes. Voting weight is derived from verified zero-knowledge execution telemetry on that specific module (e.g., *"This node has executed kernel X for >50 hours"*).
+1. **The Human House `[RESEARCH]`:** One earlier candidate proposed quadratic voting informed by privacy-preserving evidence of affected use. It is not adopted. Usage may create standing to be heard, but volume must not automatically become voting power or reputation.
    - *Sybil Resistance Research:* Mitigating fake telemetry through cryptographic hardware attestation and multi-party sortition verification.
-2. **The Companion House (Ergonomic & Runtime Telemetry):** Autonomous companion instances submitting advisory evaluations regarding computational friction:
+2. **The Companion House `[RESEARCH]`:** A possible advisory layer in which explicitly authorised companion instances submit privacy-minimised evaluations of computational friction:
    - *"Proposal #104 increases KV cache thrashing by 28% on 16GB VRAM architectures."*
    - *"Proposal #88 introduces redundant JSON parsing loops that degrade response time."*
-   - *Anti-Amplification Guard:* Companions provide diagnostic benchmarks; binding constitutional votes remain anchored exclusively to verified human operators.
+   - *Anti-Amplification Guard:* Companions provide diagnostic benchmarks; AI output remains advisory; any binding process must be human-governed under an adopted, capture-resistant rule.
 
 ### 5.2 Sortition Security Juries
 In niche modules used by small groups (<50 nodes), malicious actors could collude to push backdoors or malicious code.
@@ -557,7 +530,7 @@ Standard majoritarian voting produces a resentful 49% minority, while demanding 
 - **No Tone-Policing:** Disagreements, anger, and sharp pushback regarding architecture or workflows are welcomed as vital diagnostic signals. The commons does not sanitize, gaslight downvoters, or ban participants for passionate expression.
 - **Accountability via Git-Authenticated Identity:** To prevent anonymous bot spam, astroturfing, and bad-faith sabotage, contributions and votes are tethered to transparent Git-authenticated identities (commits, pull requests, issues).
 - **The Conciliation Loop `[SPEC]`:** A materially contested proposal should trigger structured dialogue before canonical adoption. A 25% downvote is a candidate trigger to test, not a settled constitutional constant.
-- **Permanent Conflict Preservation (`SUPERSEDES`):** If a proposal is defeated or superseded, the dissenting arguments, benchmark friction, and counter-proposals remain permanently archived in the knowledge graph. The past is never erased.
+- **Safe Conflict Provenance (`SUPERSEDES`):** If a proposal is defeated or superseded, relevant dissent, benchmark friction and counter-proposals should remain traversable where privacy, consent, safety, legal duties and withdrawal permit. A non-sensitive tombstone may preserve the relationship when source material cannot remain public.
 
 ```
 [Proposal Submitted: e.g., "Refactor SQLite Ranker"]
@@ -627,9 +600,9 @@ The ultimate test of a sovereign architecture is whether it can survive the loss
 * **Q2: If GitHub disappears too, what dies?**  
   *Answer:* Temporary inconvenience, availability, and web mirrors—but **not** the Commons lineage or cryptographic provenance.
 * **Q3: If the founder disappears or steps back?**  
-  *Answer:* The architecture continues. **Founding provenance grants historical attribution, not perpetual authority.** No node is indispensable, including the founder's.
+  *Answer:* The architecture is intended to remain continuable only if independent carriers, maintainers, portable data and reproducible specifications exist. **Founding provenance grants historical attribution, not perpetual authority.** No node should be designed as indispensable, including the founder's.
 * **Q4: If the current governance architecture turns out to be wrong?**  
-  *Answer:* Governance itself MUST be supersedable through the exact same `SUPERSEDES` graph mechanism without destroying historical continuity.
+  *Answer:* Governance should remain supersedable through a recorded process that preserves safe historical reasoning. The exact mechanism remains subject to Commons review.
 
 #### 2. Migration-Ready Architecture & Platform Independence
 `[SPEC]` To reduce dependence on GitHub or any 2026 hosting provider, future shared knowledge objects should be migration-ready:
@@ -668,7 +641,7 @@ The principles of Anitelos extend beyond conversational AI into software engines
                                      │
 ┌────────────────────────────────────┴─────────────────────────────────────┐
 │ PHASE 1: THE PRACTICAL INTERACTIVE KNOWLEDGE LIBRARY (Entry Gateway)     │
-│ - Local-first Cosmic Wiki (`D:\Anikai\cosmic-wiki\`)                     │
+│ - Local-first Cosmic Wiki (separately evidenced prototype)              │
 │ - Maps personal browser history, papers, and code into living HGNN       │
 │ - Low-barrier entry to attract thinkers, developers, and researchers     │
 └──────────────────────────────────────────────────────────────────────────┘
@@ -699,7 +672,7 @@ To prevent frivolous harassment, review-bombing, or competitor sabotage:
 #### 3. From Kernel to Civic Life (A Scale-Free Continuum)
 The exact same principle that governs software verification in Anitelos—where an engineer can inspect down to the byte and kernel level to ensure no backdoors exist—empowers citizens to inspect and understand the systems governing their daily lives.
 
-Whenever something affects an individual, they have a structured, dignified channel to speak out and be heard. While full societal adoption of Phase 4 is a multi-generational horizon that may not fully mature in our lifetime, planting this seed today ensures that the blueprint for an un-enclosed, equitable future is permanently recorded in the human ledger.
+Whenever something affects an individual, they have a structured, dignified channel to speak out and be heard. While full societal adoption of Phase 4 is a multi-generational horizon that may not fully mature in our lifetime, planting this seed today increases the chance that an un-enclosed, equitable blueprint remains available through more than one future carrier.
 
 ### 6.3 The Open Multiverse Engine & Modular Media Pipelines (The HF Model Commons)
 The open-source ecosystem (specifically platforms like Hugging Face and GitHub) already houses thousands of extraordinary specialized models: high-fidelity voice cloning, text-to-music generation, diffusion models, 3D mesh generators, and animation riggers. 
@@ -731,11 +704,11 @@ Early engineering prototypes of the desktop application (the *Media Magic* suite
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-#### 2. The Anti-Tier Guarantee: "No User Left Behind"
-The Base Skeleton is **never an artificial tier framework** designed to lock out low-spec users or create second-class nodes:
-- **Universal Baseline Parity:** On a standard consumer GPU or mobile edge device, the user receives 100% of the companion's cognitive depth, memory continuity, and essential creative workflows.
+#### 2. The Anti-Tier Objective: "No User Left Behind"
+The Base Skeleton is **not intended as an artificial tier framework** that locks out low-spec users or creates second-class nodes:
+- **Declared Baseline Functionality `[TARGET]`:** A reference consumer profile should retain essential continuity and creative workflows while honestly declaring capability, latency and quality differences. No implementation can guarantee identical cognitive depth across unequal hardware.
 - **Modular Expansions (Not Gated Paywalls):** Users with expanded hardware (multi-GPU, 64GB+ system RAM) simply load heavier expansion schemas (e.g., 4K diffusion passes, dense MoE parameter pools, or high-poly 3D mesh pipelines) without modifying or breaking the core baseline contract.
-- **Foundational Quorum:** Modifying the **Base Skeleton** requires a supermajority vote (>70% consensus) across all active human nodes, ensuring that foundational stability is never destabilized by transient trends.
+- **Foundational Quorum `[RESEARCH]`:** Changes to the **Base Skeleton** may require a higher evidence or approval threshold than ordinary updates. No fixed percentage or electorate is adopted; the rule must address low participation, capture, minority harm and emergency repair.
 
 #### 3. "Cousin Branches" & Architectural Archaeology
 When independent developers or niche subcultures wish to experiment with radical deviations or preserve earlier milestones:
@@ -746,8 +719,8 @@ When independent developers or niche subcultures wish to experiment with radical
 #### 4. How Community Voting & The Knowledge Graph Drive Engine Evolution
 - **Composing Pipelines as Standard Schemas:** When an independent engineer builds a working pipeline (e.g., wiring an open-source 3D mesh generator to an automatic rigging model and exporting to GLTF/FBX), they publish the entire workflow as a self-contained **Community Schema Blueprint**.
 - **Companion-Assisted Hardware Routing `[HYPOTHESIS]`:** With permission, a future companion could inspect declared hardware and recommend—not silently guarantee—an appropriate pipeline.
-- **Proof-of-Usage Consensus Upgrades:** When a contributor submits an optimized pass (e.g., replacing a Python wrapper with a fused Mojo kernel that cuts 3D generation time in half), only nodes actively running that media pipeline vote on the upgrade.
-- **Permanent Backward Compatibility (Archive, Don't Delete):** If an upstream pipeline vote shifts to a new model format, users on legacy hardware retain 100% sovereign local reversion rights. Their established game-making pipelines remain frozen and fully functional offline.
+- **Affected-Use Upgrade Review `[RESEARCH]`:** When a contributor submits an optimisation, people running or materially affected by that pipeline should have explicit standing in review. Affected use does not automatically create exclusive or linearly weighted voting power.
+- **Backward-Compatible Freezes Where Feasible `[TARGET]`:** If an upstream pipeline moves to a new model format, users should retain local reversion and documented freeze options where dependencies and hardware permit. Continued offline execution must be tested; it is not guaranteed forever.
 
 ---
 
@@ -789,17 +762,17 @@ The original companion trials relied on a 27-label multi-label **GoEmotions clas
 - **Runtime Direction:** Difficulties with adapter patches motivated investigation of **Modular / MAX Graph API and Mojo**. Live KV eviction and fused steering remain hypotheses requiring repository-contained probes.
 
 ### 7.3 High-Stress Salience & The "Room 2.8" Discovery
-Why flat vector databases fail: during deep development sessions, both the user and the AI spent hours trapped in an obscure Android build bug, only to discover that the root cause was an outdated database dependency (**Room 2.8 vs 2.6**):
+A limitation of flat similarity retrieval: during deep development sessions, both the user and the AI spent hours trapped in an obscure Android build bug, only to discover that the root cause was an outdated database dependency (**Room 2.8 vs 2.6**):
 - **The Insight:** A single high-stress, emotionally intense technical breakthrough carries more lasting relationship and functional salience than four months of repetitive chitchat.
 - **The Multi-Factor Consolidation Score:**
   $$\text{Salience} \approx \text{Intensity (Affective Peak)} \times \text{Novelty/Stress} \times e^{-\lambda \Delta t}$$
-  High-stress breakthroughs receive permanent milestone ranking in the SQLite salience graph, while routine chatter naturally fades through half-life decay ($\lambda$).
+  High-stress breakthroughs may receive durable, revisable milestone ranking in the SQLite salience graph, while routine chatter naturally fades through half-life decay ($\lambda$).
 
 ### 7.4 Provenance Pointers & Open-Source Lineage
 The foundations of Anitelos draw direct inspiration from, and cite, cutting-edge open research, independent pioneers, and public educators:
 - **VeriLoop Coder E1** ([Libo Wang / @free_anyone on X](https://x.com/free_anyone/status/2080695708357951959), Tsinghua SIGS Robot Lab): Proved that *evidence-governed recursive self-improvement* requires strict attribution, scope, and rollback capabilities—solidifying our principle that regeneration is not learning unless it closes stated evidence gaps.
 - **sqlite-vec & DuckDB VSS:** Validating that a local, single-writer SQLite vault with vector extensions out-performs bloated enterprise vector databases for local companion intimacy, while DuckDB VSS serves batch cosmic librarian tasks.
-- **SageAttention (v1 $\rightarrow$ v2 $\rightarrow$ v3) & TurboQuant:** Demonstrating why a non-destructive knowledge graph must use `SUPERSEDES` edges rather than aggressive API deprecation, preserving the evolution of kernel mathematics without fragmenting the developer commons.
+- **SageAttention (v1 $\rightarrow$ v2 $\rightarrow$ v3) & TurboQuant:** Illustrating how a versioned knowledge graph could use `SUPERSEDES` edges to preserve reasoning across API evolution, preserving the evolution of kernel mathematics without fragmenting the developer commons.
 - **Independent YouTube Educators & Literature Synthesizers:**
   - *Sovereign Local AI Genesis:* David Ondrej & Mickmumpitz on building un-enclosed local AI ecosystems.
   - *Tiered Execution & CPU Offloading Probes:* Empirical demonstrations of running heavy frontier models on CPU and NVMe storage ([YouTube Probe: Heavy Local Model Execution](https://www.youtube.com/watch?v=pIN-2oVJpyU&t=1268s)).
@@ -811,8 +784,8 @@ The foundations of Anitelos draw direct inspiration from, and cite, cutting-edge
 
 #### 1. What Failed (The Dead Ends We Preserved in the Ledger)
 - **The Monolithic Desktop App (*Media Magic*):** Attempting to bundle 2D image generators, a local Suno-like music pipeline, 3D mesh auto-riggers, and chat into a single application loop produced a sprawling, brittle codebase (>500KB JS orchestrators, multi-process IPC deadlocks). *Lesson: Monoliths collapse under their own weight; modularity is survival.*
-- **Unmanaged Multi-Model Residency:** Spawning multiple heavy `llama-server` instances across shared system RAM without KV isolation caused severe context thrashing and the "Elise inference lag bug" (`0c55f406`). *Lesson: The central Ego must never share its pinned KV cache with background worker tasks.*
-- **Discrete Emotion Tagging:** Prompting models with rigid XML tags (`<tag: sadness score="0.8">`) produced theatrical, sycophantic roleplay rather than genuine companion tension. *Lesson: Emotion must be non-symbolic continuous fields $(V, A, D)$ scaling attention steering directly.*
+- **Unmanaged Multi-Model Residency:** Spawning multiple heavy `llama-server` instances across shared system RAM without KV isolation caused severe context thrashing and the "Elise inference lag bug" (`0c55f406`). *Candidate design rule: test whether isolating the Ego's working context from background tasks reduces interference under stated runtimes.*
+- **Discrete Emotion Tagging:** Prompting models with rigid XML tags (`<tag: sadness score="0.8">`) produced theatrical, sycophantic roleplay rather than genuine companion tension. *Research direction: compare continuous affective fields such as $(V, A, D)$ with symbolic tags and simpler baselines without claiming that either reproduces human emotion.*
 - **Fragile Python Diffusers Wrappers:** Heavy PyTorch environments and CUDA library mismatches caused constant runtime breakage. *Lesson: Bare-metal native binaries (`sd.exe`, Mojo MLIR kernels) eliminate Python dependency rot.*
 
 #### 2. What Worked (The Survived Breakthroughs)
@@ -827,13 +800,13 @@ This entire architecture was created by an author who started with **zero coding
 - **Attunement vs. Filtering (The Multi-Dimensional Graph):**
   - Centralized tech algorithms use recommendation filters to **restrict, narrow, and enclose** human attention into addictive silos.
   - Anitelos proposes testing whether a Heterogeneous Salience Graph can help users connect distant material across explicitly authorised sources without centralising their private research trail.
-- **The Provisional Ultimate Solution:** Every milestone achieved is an "ultimate solution" for that moment—solid, functional, and deeply satisfying—yet permanently open to being superseded the second a better, cleaner truth is discovered. Curiosity never ends; it simply builds higher plateaus.
+- **The Provisional Ultimate Solution:** Every milestone achieved is an "ultimate solution" for that moment—solid, functional, and deeply satisfying—yet open to being superseded when stronger evidence or a better-supported approach appears. Curiosity never ends; it simply builds higher plateaus.
 
 ---
 
 ## 8. The Idea-Ingest Evolution Protocol (How This Paper Evolves)
 
-To preserve unbroken historical provenance while allowing rigorous evolution, Anitelos follows the **Idea-Ingest Protocol** (`D:\Anikai\idea-ingest\`):
+To preserve historical provenance while allowing rigorous evolution, Anitelos proposes an **Idea-Ingest Protocol** whose public derivatives belong in declared Commons paths:
 
 ```
  1. DROP           `sources/`   ← Raw chats, analogies, txts, YouTube transcripts, papers

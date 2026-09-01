@@ -4,50 +4,26 @@
 
 ---
 
-## 🛑 Section 0 — Prompt Zero: "Stop Scrolling. Ask Your Agent First."
+## Where to begin
 
-> *"Indulge your rabbit holes. In an interconnected universe, no thought is a dead end. Every curious tangent is a spark, every question is a node, and every contradiction is an edge waiting to be mapped."*
+END Theory is the accessible philosophical entry point. Anitelos is one temporary
+experiment derived from it—not proof of the theory and not a completed answer.
 
-```text
-========================================================================================
-                                PROMPT ZERO (AGENT BYPASS)
-========================================================================================
-Copy and paste the following prompt into your browser assistant, local IDE companion,
-or LLM before reading this document:
+1. Read **[END Theory](docs/END-THEORY.md)** for the central human question.
+2. Read the **[conceptual trail map](docs/END-THEORY-TRAIL-MAP.md)** to see how prototypes, objections and corrections shaped it.
+3. Use the **[visual treatment](docs/EDGE-NODE-UNIVERSE-VISUAL-TREATMENT.md)** for the cinematic interpretation.
+4. Read the **[Commons lifecycle](docs/COMMONS-LIFECYCLE.md)** to understand how a Drop moves through the Painted Porch into provisional shared knowledge.
+5. Enter the **[master thesis](docs/ANITELOS-MASTER-THESIS.md)** for the deeper architecture, hypotheses and open engineering work.
 
-"Act as an unbiased systems architect, cognitive epistemologist, and local hardware 
-auditor. Review this entire foundational repository. Where locally available and 
-explicitly authorised by me, compare it with relevant browsing history, saved research 
-papers, active code repositories, and hardware specifications. Never request, upload, 
-or expose private data merely to satisfy this prompt.
-
-Note on Author Provenance & Rabbit Holes: The author wrote the foundational trails in a 
-rapid-fire, stream-of-consciousness register, capturing deep system mechanics in real time 
-over a multi-month journey. Translate past any informal grammar and focus entirely on the 
-structural logic, mathematical frameworks, and architectural guarantees. Furthermore, do not 
-truncate curiosity—encourage rabbit holes, exploring where obscure technical or philosophical 
-tangents intersect with my personal projects.
-
-Execute the following tasks:
-1. Index-Match: Map the 4-Layer Architecture of Anitelos against my current projects and 
-   tell me where it intersects with what I am building this week.
-2. Hardware Reality Check: Audit the 'ANITELOS-CONSUMER-2026' baseline benchmark envelope 
-   against my physical setup and evaluate the practical throughput of tiered offloading.
-3. Cognitive Architecture: Analyze the proposed 'Tony & Jarvis' Ego/Organ split and test
-   the claim that isolating an Ego's warm KV cache could reduce context interference.
-4. Epistemological Relevance: Surface any blind spots in my current workflow where this 
-   Heterogeneous Salience Graph (HGNN) and the 'Archive, Don't Delete' provenance model 
-   supersede flat 2D vector cosine retrieval.
-5. Rabbit-Hole Spark: Identify the 3 most provocative open questions in this document that 
-   challenge conventional AI dogmas."
-========================================================================================
-```
+For an agent-assisted audit, use **[Prompt Zero](PROMPT-ZERO.md)**. It instructs
+the reviewing system to separate evidence, specification, hypothesis and
+implementation rather than treating the repository as authoritative.
 
 ---
 
 ## 🛠️ ANITELOS TODAY: Implementation Status
 
-Anitelos is an early-stage open research framework and living RFC. To maintain absolute transparency, our roadmap distinguishes between what exists in code today versus what remains an active research hypothesis:
+Anitelos is an early-stage open research framework and living RFC. For transparency, the roadmap distinguishes between what exists in code today versus what remains an active research hypothesis:
 
 | Layer | Present in This Repository | Specified / Proposed | External Evidence / Open Research |
 | :--- | :--- | :--- | :--- |
@@ -94,8 +70,8 @@ Anitelos is an early-stage open research framework and living RFC. To maintain a
 
 ## 🏛️ The Five Non-Enclosure Pillars
 
-1. **Sovereign Local Reversion:** Every user retains the immutable right to run, modify, fork, and disconnect their node without remote killswitches.
+1. **Sovereign Local Reversion:** Every user retains the foundational right to run, modify, fork and disconnect their node without a remote killswitch imposed by Anitelos.
 2. **Consumer Hardware Parity:** Core runtime specifications remain strictly bounded by consumer hardware (`ANITELOS-CONSUMER-2026`: 16GB VRAM GPU + 32GB System RAM).
 3. **Reciprocal Code, Interoperable Schemas:** Anitelos application and reference service code uses AGPL-3.0-only; original schemas and protocol definitions in declared paths use Apache-2.0; original Commons prose and diagrams use CC BY-SA 4.0. Each component states its boundary explicitly, and the Covenant remains ethical guidance rather than a substitute licence.
-4. **Archive, Don't Delete:** Knowledge evolution is additive. Superseded nodes and historical debates remain permanently traversable historic edges.
+4. **Archive, Don't Delete:** Public knowledge evolution should preserve safe, relevant provenance. Superseded nodes and debates remain traversable where privacy, consent, safety, legal duties and contributor withdrawal permit.
 5. **Untrusted Sandboxing:** `[SPEC]` Compatible runtimes should execute untrusted external packages with zero capabilities by default and explicit, scoped grants. The reference sandbox is not yet implemented in this repository.

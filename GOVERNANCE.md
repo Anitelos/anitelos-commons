@@ -19,7 +19,7 @@ graph LR
     Community --> Bicameral["Phase 2: Mature Commons\n(Bicameral Sortition Juries)"]
 ```
 
-* **Phase 0 (Founder Stage):** You maintain and steer early development directly from your contributor account (`Anitelos` / `shinobistormjb-tech`) to establish core invariants.
+* **Phase 0 (Founder Stage):** You maintain and steer early development directly through the current project maintainer account to establish core invariants.
 * **Phase 1 (Growing Commons):** `[RESEARCH]` Develop affected-user standing without converting usage volume into linear voting power or human reputation scores.
 * **Phase 2 (Mature Commons):** `[RESEARCH]` Explore bicameral deliberation in which AI provides advisory evidence, humans cast binding votes, and independently selected reviewers audit security-sensitive patches.
 

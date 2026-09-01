@@ -32,12 +32,12 @@ To prevent the failure modes of previous open-source projects, Anitelos establis
 
 ## 2. Anti-Asymmetric Enclosure (Commercial Use vs. Proprietary Moats)
 
-* **Commercial Freedom Allowed:** Building a £1B commercial business, application, or service using Anitelos components is **100% permitted**.
+* **Commercial Use Allowed:** Commercial businesses, applications and services may use Anitelos components subject to each component's applicable licence, attribution duties, third-party rights and law.
 * **Non-Enclosure Commitment:** Commons participants are asked not to use secret improvements or patent/IP barriers to exclude the public from shared foundations. Enforceable obligations come from the applicable software licence; this Covenant records the project's ethical commitment.
 
 ---
 
-## 3. The Non-Detriment Invariant (Anti-Surveillance Data Guarantee)
+## 3. The Non-Detriment Invariant (Anti-Surveillance Data Commitment)
 
 Centralized platforms (such as enterprise email, cloud operating systems, and ad-tech monopolies) harvest user interactions, chats, and telemetry to build behavioral profiles, target ads, or sell data to third parties—frequently to the direct personal or economic detriment of their users.
 

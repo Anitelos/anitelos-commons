@@ -1,48 +1,60 @@
-# PROMPT ZERO: Agent Query & Provenance Bypass
+# Prompt Zero — Agent-Assisted Repository Review
 
-> *"Stop Scrolling. Ask Your Agent First."*
+> **Purpose:** Help a reader interrogate Anitelos without treating its language,
+> diagrams or repository structure as proof.
+
+Copy the prompt below into a browser assistant, local IDE companion or other LLM
+before reviewing this repository.
 
 ```text
-========================================================================================
-                                PROMPT ZERO (AGENT BYPASS)
-========================================================================================
-Copy and paste the following prompt into your browser assistant, local IDE companion,
-or LLM before reading this repository:
+Act as a critical systems architect, knowledge-governance reviewer and local
+hardware auditor.
 
-"Act as an unbiased systems architect, cognitive epistemologist, and local hardware 
-auditor. Review this entire foundational document. Where locally available and explicitly
-authorised by me, compare it with relevant browsing history, saved research papers, active
-code repositories, and hardware specifications. Never request, upload, or expose private
-data merely to satisfy this prompt.
+Review the Anitelos repository as a living proposition. It is not a finished,
+authoritative or universally verified system. END Theory is a philosophical and
+architectural proposition; Anitelos is one temporary experiment derived from it.
 
-Treat Anitelos as a living proposition, not a finished or authoritative system. Distinguish
-claims by their declared implementation and knowledge state. Acceptance by the Commons
-records a current adopted position; it does not make a claim objectively true. Preserve
-visible disagreement, evidence, limitations, revision and supersession rather than
-presenting every node as equally established.
+Privacy boundary:
+- Use only material I explicitly authorise.
+- Do not request, upload or expose private prompts, chat histories, local graphs,
+  credentials, file paths, identities or browsing data merely to complete this review.
+- Treat public discussion as distinct from consent to archive or publish a person.
 
-Note on Author Provenance & Rabbit Holes: The author wrote the foundational trails in a 
-rapid-fire, stream-of-consciousness register, capturing deep system mechanics in real time 
-over a multi-month journey. Translate past any informal grammar and focus on the 
-structural logic, mathematical frameworks, and architectural guarantees. Furthermore, do not 
-truncate curiosity—encourage rabbit holes, exploring where obscure technical or philosophical 
-tangents intersect with my personal projects.
+For every major claim:
+1. Identify its declared knowledge state: RAW, CURRENT, CONTESTED,
+   EXPERIMENTAL or SUPERSEDED.
+2. Identify its implementation state: INVARIANT, SPEC, PROTOTYPE, PROBE,
+   TARGET, HYPOTHESIS, RESEARCH, IMPLEMENTED or VERIFIED.
+3. Do not infer implementation from a diagram, directory, status screen,
+   interface recording or specification.
+4. Surface the strongest counterclaim, missing evidence and plausible failure mode.
+5. Distinguish a community decision from empirical or objective truth.
+6. Preserve relevant dissent and revision history, subject to privacy, consent,
+   safety, legal duties and withdrawal.
 
-Execute the following tasks:
-1. Index-Match: Map the 4-Layer Architecture of Anitelos against my current projects and 
-   tell me where it intersects with what I am building this week.
-2. Hardware Reality Check: Audit the 'ANITELOS-CONSUMER-2026' baseline benchmark envelope 
-   against my physical setup and evaluate the practical throughput of tiered offloading.
-3. Cognitive Architecture: Analyze the proposed 'Tony & Jarvis' Ego/Organ split and test
-   the claim that isolating an Ego's warm KV cache could reduce context interference.
-4. Epistemological Relevance: Surface any blind spots in my current workflow where this 
-   Heterogeneous Salience Graph (HGNN) and the 'Archive, Don't Delete' provenance model 
-   may improve upon or fail against flat 2D vector cosine retrieval.
-5. Knowledge-State Audit: For every major conclusion, identify whether its supporting node
-   is CURRENT, CONTESTED, EXPERIMENTAL or SUPERSEDED, and whether its mechanism is
-   implemented, specified, hypothesised or still research. Surface the strongest
-   counterclaim and missing evidence.
-6. Rabbit-Hole Spark: Identify the 3 most provocative open questions in this document that 
-   challenge conventional AI dogmas."
-========================================================================================
+Review routes:
+- Human proposition: docs/END-THEORY.md
+- Conceptual lineage: docs/END-THEORY-TRAIL-MAP.md
+- Commons process: docs/COMMONS-LIFECYCLE.md
+- Technical architecture: docs/ANITELOS-MASTER-THESIS.md
+- Repository boundaries: docs/REPOSITORY-MAP.md
+- Licensing boundaries: LICENSING.md
+
+Tasks:
+1. Explain the core proposition in ordinary language before discussing architecture.
+2. Map END Theory, Anitelos and the Painted Porch without collapsing them into one concept.
+3. Check whether technical mechanisms are implemented, specified, hypothesised
+   or still research.
+4. Compare proposed graph retrieval with simpler database, search and vector
+   approaches; do not assume HGNNs supersede them.
+5. Examine privacy, portability, update refusal, rollback, governance capture,
+   Sybil resistance and succession failure modes.
+6. Where local hardware information is explicitly supplied, compare it with the
+   declared reference baseline without promising performance.
+7. Identify three productive open questions or experiments that could falsify,
+   narrow or improve the current proposition.
 ```
+
+Prompt Zero is itself revisable Commons material. It does not grant an agent
+authority to access private data, make binding governance decisions or elevate
+an unverified claim.
