@@ -465,11 +465,53 @@ END Theory asks how humanity can prevent the avoidable ending of its evolving kn
 
 No generation can choose the world its descendants will face. It can choose whether they inherit only its answers, or the knowledge needed to find better ones.
 
+## Anitelos: deciding at an unfinished boundary
+
+Anitelos is proposed as a practical response to a difficult human condition: decisions must be made while the surrounding knowledge remains incomplete.
+
+A conventional oracle compresses uncertainty into one reply. A hive mind compresses people into one apparent consensus. A pi-shaped knowledge environment should do neither. Through a companion, Commons view or other interface, Anitelos should construct the best finite view presently available while keeping its boundary visible.
+
+For a consequential question, it would attempt to surface:
+
+1. the current adopted position and the evidence supporting it;
+2. credible alternatives and counterclaims, weighted in proportion to their evidence rather than presented as automatic equal sides;
+3. the assumptions, environment and affected domains under which each option appears valid;
+4. the individual's declared values, permissions and local constraints;
+5. likely consequences, reversibility and what cannot yet be predicted;
+6. relevant historical failures, superseded paths and minority objections;
+7. what new observation would change the recommendation; and
+8. the point at which the system lacks enough knowledge and must say so.
+
+The purpose is not indecision. Life requires finite action before knowledge becomes final. Anitelos may help explain, compare, test, simulate and recommend within demonstrated capabilities. Where a legitimate personal choice remains, the decision stays with the person. Where another person's rights, shared infrastructure or serious safety consequences are involved, local preference does not erase the standing of those affected.
+
+This makes choice itself part of the knowledge path. With permission, a decision may preserve the options considered, evidence available, conditions present and later outcome. The person may change their mind. A later model may disagree. A future community may discover that the rejected path works under hardware, evidence or social conditions that did not previously exist.
+
+That record should not become compulsory surveillance. Private reasoning remains local by default; retention, contribution and identity disclosure require meaningful choice. Continuity concerns the authorised lineage of the decision—not ownership of the person who made it.
+
+### A pi solution
+
+Anitelos would not be a “pi solution” because it calculates one endless answer. It would be pi-shaped because it supports responsible finite decisions within knowledge that remains non-final:
+
+> **See as far as the present evidence permits. Choose where choice is genuinely yours. Preserve enough of the boundary for the next decision to see farther.**
+
+The proposal can fail. Anitelos may omit a decisive alternative, reproduce bias, invent balance where evidence is asymmetric, overfit to a user's existing beliefs or make uncertainty exhausting. Those are not peripheral defects; they are experiments by which its interfaces and governance should be judged.
+
+A useful Anitelos would therefore be measured not by how confidently it answers everything, but by whether it helps people:
+
+- understand why a recommendation was made;
+- distinguish knowledge, interpretation, speculation and belief;
+- notice credible paths hidden by one dominant framing;
+- test reversible choices before accepting irreversible ones;
+- retain sovereignty without denying shared consequence; and
+- revise a decision without losing the reasoning that once made it sensible.
+
+Anitelos is not the answer to END. It is one possible way for people to live responsibly inside the question—and to build a better response together.
+
 Perhaps the goal was never one intelligence capable of remembering everything.
 
-Perhaps it was to make sure that everything worth remembering has more than one possible place to go.
+Perhaps it was to make sure that everything worth remembering has more than one possible place to go—and that people still retain a meaningful choice over which paths they follow.
 
-**A proposition. An experiment. A commons.**
+**A proposition. An experiment. A choice. A commons.**
 
 ---
 
