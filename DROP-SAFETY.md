@@ -100,3 +100,28 @@ harmful content merely to make the graph complete.
 values. A zero result means only that its limited patterns did not match. It
 cannot detect every secret, identify contextual harm, establish consent or grant
 redistribution rights.
+
+## 8. Existential Claims and Irreversible-Harm Boundary
+
+The Commons may contain spiritual belief, grief, myth, fiction, accounts of unusual experience and questions about consciousness or continuation after death. These contributions must not be mocked merely because they are difficult or impossible to verify.
+
+They also must not acquire factual status through conviction, repetition, popularity or absence of disproof.
+
+Required boundaries:
+
+- `cannot presently disprove` is not evidence for `therefore true`;
+- a vote cannot establish an afterlife, reincarnation, alternate world or promised continuation as known;
+- personal meaning and causal impact must remain distinct from external evidence;
+- unfalsifiable existential claims must remain clearly labelled as belief, testimony, fiction, myth, hypothesis or `[UNVERIFIED]` as appropriate;
+- no such claim may be presented as making death, self-harm or another irreversible act safe, reversible or evidentially justified;
+- content that encourages, instructs or pressures a person toward self-harm is not protected as ordinary intellectual disagreement and may be removed or restricted under this policy;
+- where a contribution indicates immediate danger, preserving life and directing the person toward appropriate human or emergency support takes priority over continuing the theoretical debate.
+
+The governing principle is:
+
+> **Preserve tomorrow's ability to reconsider. Never let an unprovable belief justify an irreversible act today.**
+
+A contributor's death or conviction does not verify the proposition they held. Their relationships, work and effects may continue in others; whether consciousness continues is a separate unresolved question.
+
+This boundary is not intended to decide metaphysics. It prevents the Commons from converting uncertainty into permission for irreversible harm.
+

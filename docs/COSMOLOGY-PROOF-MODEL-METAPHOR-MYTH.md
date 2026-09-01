@@ -104,6 +104,17 @@ Large-scale cosmic expansion and local gravitational collapse occur at different
 
 A black-hole singularity in classical general relativity is not a demonstrated portal. It indicates geodesic incompleteness: some paths cannot be continued within the classical spacetime description. That establishes failure of ordinary continuation in the model, not a physical bounce or passage to another universe.
 
+### Kruskal coordinates: when the map falsely appears to end
+
+Ordinary Schwarzschild coordinates become singular at the event horizon `r = 2M`, but that divergence is coordinate-dependent. Kruskal–Szekeres coordinates continue smoothly across the horizon and expose the causal structure of the maximally extended, eternal Schwarzschild solution.
+
+Its four sign-labelled coordinate regions are commonly interpreted as an exterior, black-hole interior, second exterior and white-hole interior, with conventions varying between presentations. The signs label coordinates; they are not negative realities. The complete four-region extension is also not automatically the spacetime of a realistic black hole formed by stellar collapse.
+
+The lesson relevant to END is exact but limited:
+
+> **The event horizon demonstrates that a map can falsely appear to end. The curvature singularity remains where the classical map does not know how to continue.**
+
+Kruskal coordinates do not prove a bounce, traversable passage into another universe or END Theory. They demonstrate why a representational failure must be distinguished from a physical boundary.
 ### Where a bounce becomes a real research proposal
 
 A bounce requires added physical structure: modified equations, quantum-gravity effects, boundary conditions or a new spacetime extension. Some loop-quantum-gravity models replace classical singular behaviour with a black-to-white-hole transition. Such work demonstrates that continuation can be formulated under stated assumptions; it does not establish that astronomical black holes undergo that transition.

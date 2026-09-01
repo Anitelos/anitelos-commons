@@ -240,6 +240,23 @@ Preserving both the intuition and objections produced two research terms:
 The terms do not answer what lies beyond a singularity. They organise the uncertainty. A bounce becomes one candidate requiring additional equations, assumptions and evidence—not the default consequence of a model reaching its limit.
 
 > **Impossibility may sometimes describe the end of what a model knows how to continue. It does not guarantee that existence continues in the form imagination supplies.**
+## Phase 15 — Latent topology, recursive gaps and irreversible belief
+
+A remembered black-hole diagram supplied a practical example of accessible half-life. Its formal name had faded, while a spacetime grid, sign combinations and multiple regions survived as disconnected traces. Reintroducing **Kruskal–Szekeres** made the topology retrievable.
+
+This produced the latent-node formulation:
+
+> **Sometimes knowledge begins not with discovering a new edge, but with discovering what surviving edges may already surround.**
+
+Formal comparison narrowed the claim. A candidate mediator must remain a hypothesis; latent variables, abduction, hypergraphs and relation reification already address related structures. Kruskal coordinates show that one map can falsely appear to end at a horizon, not that every singularity opens another reality.
+
+Fingers and gaps then exposed recursive partitioning. Adding a node can split an existing region, create new boundaries and enlarge the combinatorial possibility space. Applied to language models, a finite token can participate in changing contextual representations across many hidden dimensions. The analogy became: a stable node can gain reachable meanings as relational structure changes.
+
+The human correction was essential. Fewer public edges do not make a person smaller or less valuable. They reduce redundancy of transmission. This motivated **latent continuity** and **accessible half-life**: permitted traces may remain reconstructible after a carrier or context fades, without requiring infinite raw storage.
+
+Finally, a personal account of conviction in an unprovable afterlife claim exposed a safety boundary. A belief can cause irreversible consequences without becoming true. Meaningful spiritual experience belongs in the Porch; inability to disprove it cannot promote it to factual knowledge or justify irreversible harm.
+
+> **Preserve tomorrow's ability to reconsider. No unverified promise of continuation may be used to make an irreversible ending appear evidentially safe.**
 ## Where the trail remains open
 
 This reconstruction remains challengeable. Important unresolved questions include:

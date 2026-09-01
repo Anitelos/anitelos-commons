@@ -120,6 +120,84 @@ The model must not imply that an AI's internal processing is identical to human 
 
 > **Anitelos explores the relational domain through which private thought, fiction and hypothesis can become shared knowledge, coordinated experimentation and material consequence. It does not assume imagined possibilities are true. It supports the processes through which they may be tested, changed, rejected or made real.**
 
+## Latent nodes: when the edges arrive before the name
+
+A domain may preserve several related traces without possessing the concept that makes their relationship intelligible. A remembered grid, four sign combinations and black-hole regions may remain disconnected until the term **Kruskal–Szekeres diagram** supplies a candidate mediator.
+
+This does not require an invisible physical object. It suggests an **unresolved node**:
+
+> **A missing concept whose surrounding relational pattern is already partially present.**
+
+Formal neighbours include latent variables, abductive inference, hypergraphs, line graphs and relation reification. They provide existing ways to infer hidden causes, relate more than two entities, or treat a relationship as a node with its own provenance. Layer Three should not rename that work and claim discovery. Its question is whether a Commons can preserve enough typed traces to notice a candidate mediator across domains while still presenting it as a question.
+
+The safe sequence is:
+
+> **surviving traces → suspected structure → candidate mediator → named concept → validation, splitting or rejection**
+
+A pattern may suggest a node; it cannot guarantee that the proposed node exists or is correct.
+
+## Recursive domains and the new outside
+
+Three marked points on an open line partition it into four regions. Adding a point to a region splits that region again. More generally, `n` internal points on a line create `n + 1` intervals. The count changes with topology: points on a circle do not produce the same outside regions.
+
+The END use is not numerical mysticism. It is a lesson about resolution:
+
+> **A discovery may close one gap at the old resolution while opening several more precise gaps at the new one.**
+
+The number of possible pairwise relationships among `n` nodes is `n(n-1)/2`; the number of possible untyped simple graphs grows as `2^(n(n-1)/2)`. Actual meaning does not grow merely because combinations exist, but each distinguishable node can enlarge the domain of candidate configurations.
+
+> **Every boundary that makes something knowable may also create a new outside.**
+
+Layer Three is therefore recursively inspectable. It is not one indivisible bridge: it contains candidate nodes, competing edges, boundaries and nested domains of its own.
+
+## Tokens and `(d)`-dimensional relational possibility
+
+A language-model token begins as a discrete identifier mapped into a vector in a finite-dimensional representation space. Training does not normally attach a literal list of semantic edges to that token. It adjusts distributed parameters so that occurrences participate in different contextual representations and predictions.
+
+In a Transformer, attention dynamically weights relationships among token positions. The token `bank` can acquire different contextual states near `river`, `account`, `aircraft` or `memory`. The token identity remains fixed while its representation changes through the surrounding sequence and successive model layers.
+
+A bounded END mapping is:
+
+| END abstraction | Model mechanism |
+|---|---|
+| token node | token identifier and embedding |
+| possible edges | learned relational tendencies distributed through parameters |
+| active edges | attention patterns in the present context |
+| domain | current sequence and internal state |
+| `(d)` dimensions | hidden representational features |
+| possible continuation | next-token probability distribution |
+
+More relational structure can open possible continuations and constrain incoherent ones. More exposure is not automatically better: noise, bias, interference and finite capacity can create harmful or unreliable tendencies.
+
+> **A token is finite. Its contextual domain is combinatorial. Training shapes which meanings and continuations become reachable.**
+
+This analogy does not establish that people, Transformers and public knowledge use identical mechanisms.
+
+## Knowledge half-life and latent continuity
+
+A human node does not become smaller because fewer people know it. A private lived domain may be extraordinarily rich while little of it becomes externally reachable.
+
+> **Low connectedness is not low human worth. It is low redundancy of transmission.**
+
+END uses **accessible half-life** as a research metaphor for how quickly a memory or knowledge node becomes difficult to retrieve or reconstruct. Candidate factors include independent carriers, cue diversity, interpretability, reactivation, salience, interference and context loss. Edge count alone is inadequate: a single distinctive experience may persist, repeated noise may mislead, and many associations may interfere.
+
+When an originating carrier disappears, permitted traces may enter a **latent continuity state**: enough structure survives for some meaning or consequence to be reconstructed, but the original experience and full context are no longer accessible.
+
+Anitelos should therefore preserve reconstructibility rather than compulsory immortality. Active material may cool into summaries, typed edges, provenance, uncertainty and reactivation conditions. Private source material may remain local, expire or be deleted according to user choice, consent, safety and law.
+
+> **A life does not become smaller because fewer people witnessed it. It becomes harder for the future to reach when too few of its edges survive.**
+
+## Epistemic plurality, not a proved physical multiverse
+
+Bounded observers can share one physical environment while possessing different nodes, edges, histories and vocabularies. One may recognise a relationship that another cannot yet retrieve. Communication can create overlap without producing identical minds.
+
+END may call this an **epistemic multiverse** or, more cautiously, **epistemic plurality**:
+
+> **Humanity inhabits one shared physical uncertainty through many partially overlapping knowledge worlds.**
+
+This does not establish multiple physical universes. Not knowing an object does not remove it from reality, and believing a proposition does not make it physically true. Shared evidence constrains the different models.
+
+Layer Three is where a relationship can be expressed, translated, tested and incorporated into another domain—without requiring either domain to surrender its complete identity.
 ## Impossibility and the possibility horizon
 
 Layer Three also needs a disciplined way to handle apparent endings. When a model reaches a point it cannot extend, imagination often supplies a continuation: reversal, bounce, branching reality or transformation. The inability of the current model to continue does not make any imagined continuation physically real.
