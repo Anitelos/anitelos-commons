@@ -360,23 +360,47 @@ original host remains in the provenance graph as a past dependency, not a sacred
 
 # Act VI — Intelligence Without the Final Oracle
 
-## Scene 10 — Ego and organs
+## Scene 10 — One mouth, many possible paths
 
-The frame enters a proposed local AI execution graph. A warm central context is surrounded
-by temporary specialist processes. One checks code; one searches local records; one tests
-a claim. They return results and dissolve.
+The frame enters a proposed local execution graph. A warm central field—the **Ego**—holds
+the active relationship and task. Its reply has not yet reached the **Mouth**.
+
+At the edge of the field, a tiny **Familiar** flashes first. It performs one narrow
+reflex: a guard check. The result is a small, labelled signal, not a personality and not
+a speech.
+
+A separate one-shot inference—the **Organ**—opens beside the Ego. It follows a causal
+path the active reasoning missed. The Ego continues rather than freezing. When the Organ
+finishes, its raw working trace falls away; only a compact, provenanced grain waits at a
+boundary in the Ego's private deliberation.
+
+For one beat, two possible replies appear. The Ego rejects one, reshapes the other, and
+only then does a single line travel to the Mouth.
 
 A clear caption reads:
 
-**ROLE HYGIENE / EGO–ORGAN SPLIT — RESEARCH HYPOTHESIS**
+**EGO ≠ MOUTH ≠ ORGAN ≠ FAMILIAR — ROLE SPECIFICATION / ORGAN HYPOTHESIS**
 
-> “What if identity and durable memory remained local while models became
-> interchangeable organs?
+> “A reflex may warn. A separate inference may notice another path.
 >
-> What if specialist processes could act briefly without every tool, task and
-> instruction contaminating one permanent context?
+> Neither becomes the self merely because it arrived first.
 >
-> The architecture is unproven. The experiment is measurable.”
+> What if an intelligence could receive another line of reasoning without surrendering
+> the continuity that must judge it?
+>
+> One centre of decision. One owned mouth. Many optional paths.”
+
+The film visibly distinguishes a soft Organ interruption from a hard safety gate. The
+Organ can place a thought for consideration only at a safe boundary. A declared prompt
+guard or permission rule may pause an external action, but an Organ's opinion cannot
+silently acquire that power.
+
+A small evidence caption notes that an earlier Anikai prototype included a prompt-guard
+Familiar pre-pass. It is presented as **LEGACY EVIDENCE AWAITING REVIEW**, not proof that
+the fuller Organ mechanism works.
+
+> “The architecture is unproven. The old reflex is evidence of lineage, not evidence
+> that the whole mind has been built. The experiment remains measurable.”
 
 The system records a function-use aggregate only after four visible choices:
 

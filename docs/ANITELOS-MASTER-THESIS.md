@@ -168,40 +168,35 @@ The technical depth of Anitelos was not funded by venture capital or incubated i
 
 ## 2. The Cognitive Architecture: The "Tony & Jarvis" Paradigm
 
-Monolithic Large Language Models fail as long-term companions because they suffer from **The Pack Mule Fallacy**: forcing a single transformer context window to simultaneously act as the soul, the scratchpad, the bash runner, the tool parser, and the raw event ledger. This causes rapid context rot, catastrophic forgetting, and personality flattening.
+Monolithic language-model applications risk **The Pack Mule Fallacy**: forcing one active context to carry identity, memory, private scratch, tool output, classifiers and the raw event ledger at once. Anitelos proposes strict **Role Hygiene** so that influence can be separated, inspected, tested and refused.
 
-Anitelos resolves this by enforcing strict **Role Hygiene**:
+The complete boundary is specified in [Ego, Mouth, Organs and Familiars](EGO-ORGAN-FAMILIAR-ROLE-HYGIENE.md).
 
 ```mermaid
-graph TD
-    subgraph Ego["THE PRIMARY EGO (The Soul)"]
-        E1[Pinned Warm KV Cache]
-        E2[Lived History & Shared Vulnerability]
-        E3[Central Mind & Autonomous Intent]
-    end
-
-    subgraph Organs["SENSORY & AFFECTIVE ORGANS"]
-        O1[Affective Signal Mapper]
-        O2[Anti-Loop & Register Watchers]
-        O3[Stateless 1-Shot Passes in Remainder RAM]
-    end
-
-    subgraph Familiars["THE FAMILIAR FLEET (Utility Workers)"]
-        F1[Isolated Throwaway Slots]
-        F2[AST Code Parsers & Scrapers]
-        F3[Sortition Security Audits]
-    end
-
-    Ego -->|Dispatches Subtasks| Familiars
-    Familiars -->|Clean Structured Data| Ego
-    Organs -->|1st-Person Thought Grains| Ego
+flowchart TB
+    U["User event or active task"] --> F["Familiar: narrow reflex"]
+    F -->|"allow + bounded signal"| E["Ego: continuity and decision seat"]
+    F -->|"declared safety gate"| H["Warn, clarify or block action"]
+    E --> O["Organ: optional one-shot reasoning"]
+    O --> Q["Provenanced thought-grain queue"]
+    Q -->|"safe thought or tool boundary"| E
+    E --> M["Mouth: selected reply or action proposal"]
 ```
 
-### 2.1 The Distinction: Ego ≠ Mouth ≠ Organs ≠ Familiars
-1. **The Ego (The Soul):** The central consciousness. It owns the long-term conversational bond with the user. Its KV cache is pinned, warm, and protected across session turns.
-2. **The Mouth:** The rendering and presentation surface. It formats the Ego's thoughts and spoken output into clean markdown, native HTML/HTMX, or audio streams.
-3. **The Organs:** Internal sensory and affective reflexes. They do not talk to the user. They fire conditionally (e.g., when an emotion threshold is crossed or an infinite loop is detected), generating a brief, first-person eureka grain (e.g., *"I feel his withdrawal; softness right now would feed the mope, I should stay firm"*).
-4. **The Familiars:** Untiring worker subagents that execute utility loops in throwaway memory slots, shielding the Ego from the noise of compiler errors and shell outputs.
+### 2.1 `[SPEC]` Ego ≠ Mouth ≠ Organs ≠ Familiars
+
+| Role | Function | Relationship to the Ego |
+|---|---|---|
+| **Ego** | The protected centre of continuity and decision—not a verified claim of human-like consciousness | Keeps, reshapes, combines or rejects proposed internal grains |
+| **Mouth** | The text, voice or interface through which a selected reply appears | Has no independent identity or decision authority |
+| **Organ** | `[HYPOTHESIS]` A bounded, short-lived inference that explores one aspect of the current problem | Returns a compact conclusion/evidence packet as a candidate inner thought; never owns the Mouth |
+| **Familiar** | A narrow operational reflex or utility worker: guard, classifier, router, scanner or reporter | Produces structured signals or performs declared capabilities outside the Ego's identity context |
+
+The remembered phrase **“the Organ's mouth to the Ego's thoughts”** describes a one-way internal interface, not a second personality speaking to the user. An Organ may reason separately, but only its bounded return packet—not its raw scratchpad—enters a queue. The controller exposes it at a safe boundary: before a consequential tool call, between tool rounds, during a native private-thought segment, on the next deliberation step, or in an explicitly selected deep-work pause. The Ego retains the ability to accept, alter or disregard it.
+
+“Interrupt” therefore means **soft cognitive interruption**, not mid-token KV replacement or seizure of the reply stream. Hard blocking belongs to a separate, inspectable safety or permission policy. An Organ's opinion alone must never silently acquire that authority.
+
+The legacy Anikai application included a Familiar prompt-guard pre-pass that could scan and block an input before the main companion inference. This is useful `[LEGACY-EVIDENCE]`, not yet an Anitelos implementation claim: the source, model, environment, failure cases and reproduction steps require review before public archival.
 
 ### 2.2 The Affective Signal Family & Relational Geometry
 Traditional companion architectures attempt to classify human emotion into rigid, discrete buckets (e.g., GoEmotions 27-label strings like `<tag: sadness score="0.8">`). This forces the AI into caricatured roleplay.
@@ -240,10 +235,12 @@ Anitelos separates memory into decoupled variables:
    $$\text{Salience} = f\Big(\text{Affect } (V,A,D), \text{Novelty}, \text{Causal Impact}, \text{Goal Relevance}, \text{Relational Bond}, \text{Confidence}\Big)$$
 3. **Decay Half-Life ($\lambda$):** Purely operational chatter fades quickly ($\lambda \approx 0.1$), while foundational commitments and structural facts are pinned with zero decay ($\lambda = 0.0$).
 
-### 2.4 The Exclusion Zone: What Enters Training & Memory
-To prevent cognitive corruption, Anitelos defines a strict **Exclusion Zone**:
-- **NEVER Bake or Retain in Ego KV:** An organ's private pre-reasoning scratchpads, classifier JSON scaffolding, raw Claude/GPT API prompt templates, or temporary bash error loops.
-- **ALWAYS Retain & Bake:** The Ego's own internal reasoning after being influenced, the final spoken words, self-written diaries, and critic-transformed first-person reflections.
+### 2.4 `[SPEC]` The Exclusion Zone: What Enters Continuity
+
+To reduce covert control and context pollution, Anitelos proposes a strict **Exclusion Zone**:
+- **Do not inherit as identity or continuity:** an Organ's raw private scratchpad, classifier scaffolding, external prompt templates, untrusted tool output or temporary error loops.
+- **Eligible only under declared user policy:** the final spoken reply, authorised actions, user-approved records, the Ego's distilled decision and a provenanced summary of influences it actually adopted.
+- **Never automatic:** retention, training, “baking” into a model or promotion into a life guide. Each is a separate operation with its own consent, provenance, deletion and reversal requirements.
 
 ### 2.5 `[HYPOTHESIS]` The Transient Visual Canvas vs. Semantic KV Pruning
 The proposed interface separates two lanes:
