@@ -15,6 +15,7 @@ experiment derived from it—not proof of the theory and not a completed answer.
 4. Read the **[Commons lifecycle](docs/COMMONS-LIFECYCLE.md)** to understand how a Drop moves through the Painted Porch into provisional shared knowledge.
 5. Enter the **[master thesis](docs/ANITELOS-MASTER-THESIS.md)** for the deeper architecture, hypotheses and open engineering work.
 6. Use **[Ego, Mouth, Organs and Familiars](docs/EGO-ORGAN-FAMILIAR-ROLE-HYGIENE.md)** for the role boundary and proposed Organ interruption mechanism.
+7. Read **[External Drop Bridge](docs/EXTERNAL-DROP-BRIDGE.md)** for the proposed `@anitelos` path from ordinary web discussion into the seven-stage lifecycle.
 
 For an agent-assisted audit, use **[Prompt Zero](PROMPT-ZERO.md)**. It instructs
 the reviewing system to separate evidence, specification, hypothesis and

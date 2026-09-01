@@ -24,6 +24,20 @@ What happens today changes tomorrow. But tomorrow can only understand, test or c
 
 That is the concern beneath **Edge–Node Domain Theory**, or **END Theory**.
 
+## Two meanings of an end
+
+END uses *end* in two deliberately different senses.
+
+The first is **ending**: a carrier disappears, a context is overwritten, a link breaks, an institution closes or a generation loses the route by which knowledge was reached.
+
+The second is **telos**: the purpose toward which a system is organised. The familiar image is an acorn whose end is not merely to stop being an acorn, but to become an oak under conditions that allow it.
+
+Applied carefully, this is not a claim that software has an intrinsic destiny. It is a design question:
+
+> **Are models, platforms and human contributions being treated as instruments for institutional capture—or are technical instruments being organised around human agency, continuity and shared prosperity?**
+
+In Anitelos, models, runtimes, hardware and even the project name are replaceable means. The intended end is that people retain authority over their own continuity while useful, consented knowledge can remain available for others to examine and improve. If a better system serves that end, Anitelos should be capable of yielding to it.
+
 ## A relational proposition
 
 END Theory proposes that human and machine-mediated knowledge can be usefully viewed as evolving networks of entities and relationships.
@@ -41,6 +55,24 @@ The same node may mean different things across domains. A software patch can be 
 > **Expertise reveals some edges. Being affected reveals others.**
 
 This does not make every interpretation equally correct. It means that a system seeking a sensible decision should not confuse technical authority with complete knowledge of human consequence.
+
+## The webbed family tree
+
+A conventional family tree is useful because it shows descent, but its branches usually travel downward and apart. Knowledge behaves less neatly. An objection on one branch may revive an abandoned experiment on another. A later discovery may explain an earlier failure. An analogy from art may help expose a design flaw in software; a hardware limitation may reshape a governance principle.
+
+END pictures this as a **webbed family tree of knowledge**: not a literal geometry of reality, but a reticulated graph in which lineage and lateral connection coexist.
+
+- **Inheritance edges** show what a claim, design or practice developed from.
+- **Lateral edges** connect analogies, contradictions, shared constraints and independent discoveries.
+- **Retroactive edges** record when later knowledge changes how an earlier node is understood.
+- **Supersession edges** show replacement without pretending the earlier route never existed.
+- **Domain dimensions** describe the many axes along which two nodes may be near: time, subject, consequence, hardware, culture, affect, evidence or purpose.
+
+Calling this “(d)-dimensional” is useful shorthand for *more relevant dimensions than a flat diagram can display*. It is not evidence of a new physical dimension or a proved mathematical manifold.
+
+The image matters because a dead end in one era may become an ingredient in another:
+
+> **A branch can stop growing without ceasing to belong to the tree.**
 
 ## Meaning changes when relationships change
 
@@ -172,6 +204,18 @@ It is:
 END Theory must undergo the same process. Existing scholarship may narrow it. Counterexamples may break it. Implementation may reveal assumptions that do not survive contact with reality. A better model may eventually absorb or supersede it.
 
 If the Commons allows that to happen while preserving how and why the change occurred, the experiment succeeds more meaningfully than it would through permanent loyalty to its founder.
+
+### A Porch beyond GitHub
+
+The Painted Porch cannot serve ordinary people if participation requires understanding Git, pull requests or repository culture. Discussion already happens around videos, articles, forums, games and everyday software failures.
+
+A future browser extension or share interface could let a contributor deliberately write **`@anitelos`**, review a local summary of what they said, select the subject and attribution, and approve it as a Drop. The Commons would store a bounded provenance pointer and authorised derivative—not silently copy the surrounding platform or treat public speech as permanent consent.
+
+A video could therefore become the location of a discussion; a comment could become the seed of a proposal; testing and disagreement could create further nodes. Only after the seven-stage lifecycle would a proposition become provisional shared knowledge.
+
+The full mechanism is specified as an open research proposal in [External Drop Bridge](EXTERNAL-DROP-BRIDGE.md). It must solve consent, context, deletion, copyright, platform rules, spam, identity and capture before deployment.
+
+The Archive is intended to be the **stickiest knowledge layer**: decisions, supersession paths, safe reasoning and reconsideration conditions receive the strongest portability and preservation effort. “Sticky” does not mean immortal and does not override privacy or lawful removal. When content must disappear, a safe tombstone may preserve the shape of the decision without preserving the person or withdrawn material.
 
 ## Built through distributed help
 

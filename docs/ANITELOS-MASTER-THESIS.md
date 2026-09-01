@@ -390,6 +390,17 @@ Therefore, the graph operates on **Archive, Don't Delete**:
 - It creates an explicit `SUPERSEDES` edge linking the old node to the new discovery.
 - **Preserving Resolved Conflicts:** If an engineering proposal A defeats proposal B (83% to 17%), the system does not assert $A = \text{Absolute True}$. It preserves proposal B, the counter-evidence, the benchmark friction, and the specific historical conditions under which B was defeated. If future hardware pivots (e.g., memory bandwidth triples), the historical reasoning against B is instantly re-evaluable.
 
+### 4.2.1 `[SPEC]` The Webbed Family Tree
+
+The graph may be understood as a **webbed family tree of knowledge**. Ordinary trees record lineage but struggle with branches that reconnect. Anitelos requires reticulation:
+
+- descent edges preserve which claim, schema or implementation developed from which predecessor;
+- lateral edges connect analogies, shared constraints, contradictions and independent discoveries;
+- retroactive edges record when later evidence reinterprets an earlier failure;
+- supersession edges replace an adopted state without erasing its causal ancestry.
+
+“(d)-dimensional” describes a graph whose proximity may depend on many declared features—time, domain, evidence, hardware, consequence, affect or purpose—not a claim that the database discovers literal higher physical dimensions. A useful interface may project different subsets of these relations without pretending any one 2D or 3D view is the graph itself.
+
 ### 4.3 The Internet as Storage Ocean & The 4-Tier Preservation Chain
 To prevent individual machines from needing to hoard petabytes of data while guarding against dead links, linkrot, and rewritten history:
 
@@ -405,8 +416,8 @@ To prevent individual machines from needing to hoard petabytes of data while gua
            ▼
 [Optional Local Preservation Snapshot: WARC / Markdown] ──► Configurable on-disk cache
 ```
-- Ideas that lack real-world utility or communal resonance naturally undergo **temporal half-life decay ($\lambda$)**, separating out like *"oil in water"*.
-- Essential primary sources are snapshot-cached locally on demand, ensuring immunity from external corporate takedowns.
+- Retrieval priority may decay when a node is not presently relevant, but low present salience does not establish low future value. Archival retention and active recall are separate policies.
+- Authorised primary-source snapshots may be cached locally where rights, storage and safety permit. Replication reduces dependence on one host; it cannot guarantee immunity from loss, corruption or lawful removal.
 
 ### 4.4 Non-Academic Epistemology: Personal Knowledge as Relational Truth
 Conventional institutions gatekeep truth behind formal academic titles, peer-review monopolies, and paywalled journals. Anitelos rejects the dogma that only credentialed elites can author meaningful knowledge:
@@ -421,6 +432,14 @@ When scraping web data, papers, and video transcripts (such as YouTube research 
 - **Epistemic Triangulation (Claim + Evidence + Provenance + Scope):** If a model or unvetted source asserts that *"the sky is red,"* the graph does not issue a dogmatic ban. It represents the claim alongside its evidence edges (`SUPPORTED_BY`, `CONTRADICTS`), its confidence score, its observer node, and its domain scope (e.g., *"True under Martian atmospheric scattering or volcanic sunset; False under Earth daylight Rayleigh conditions"*).
 - **Claim-to-Source Verification Edges:** Scraped video syntheses are decomposed into structured **Claim Nodes** linked directly to their primary DOI/arXiv citations via `CITES_SOURCE` and `EMPIRICAL_PROBE` edges.
 - **Reinforcing Lived Interests:** Ingested digests do not clutter raw memory; they bind to the user’s active project nodes in the Cosmic Wiki HGNN, continually refining the companion's contextual understanding of the user's research trajectory.
+
+### 4.5.1 `[SPEC + RESEARCH]` External Drop Bridge — `@anitelos`
+
+GitHub is a useful first governance substrate but a poor universal doorway for non-developers. A proposed browser extension or operating-system share target would allow an individual to invoke `@anitelos` on a public video, article, forum or comment and prepare a Drop locally.
+
+The contributor previews and edits the summary, subject links, source pointer, attribution and publication state before anything leaves the device. The external statement remains at its original location; the Commons receives a bounded provenance bridge rather than an indiscriminate scrape. Related-node recall remains local by default so the public graph does not become a behavioural history of what each person watches.
+
+The complete proposal and its unresolved platform, consent, context, deletion, spam and provenance questions are defined in [External Drop Bridge](EXTERNAL-DROP-BRIDGE.md).
 
 ### 4.6 The Personalized Research Substrate: Cognitive Mastery & "Repetitive Stickiness"
 Beyond a static repository of facts, the Heterogeneous Salience Graph functions as an **Active Personalized Research and Learning Substrate**:
@@ -453,7 +472,7 @@ $$\text{Perceptrons / Sigmoid} \longrightarrow \text{ReLU (Dead neuron saturatio
 
 #### 4. The Reciprocal Commons Loop
 $$\text{Commons Knowledge} \longrightarrow \text{Personal Learning Graph} \longrightarrow \text{Local Experiments} \longrightarrow \text{Breakthroughs} \longrightarrow \text{Commons}$$
-Every sovereign node learns at their own pace, challenges assumptions locally, and feeds empirical discoveries back to the global commons with full cryptographic attribution.
+Each sovereign node may learn at its own pace, challenge assumptions locally and deliberately contribute empirical findings back to the Commons. Provenance should be inspectable; cryptographic attribution is a future option, not a present guarantee.
 
 ### 4.7 The Anatomy of a "Drop": Associative Knowledge & Provenance Paths
 In centralized knowledge platforms, raw, informal, or intuitive human observations are aggressively discarded as "noise." Anitelos recognizes a fundamental epistemological truth: **Low epistemic weight does not mean zero connective value.**

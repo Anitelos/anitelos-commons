@@ -31,6 +31,15 @@ The lifecycle is therefore **continuous rather than terminal**. Stage 7 preserve
 * **Requirement:** No polished formatting required. Anyone (human or companion agent) can submit a Drop.
 * **Safety Gate:** “Raw” does not mean “publish immediately.” Every Drop receives a separate publication status and follows [`../DROP-SAFETY.md`](../DROP-SAFETY.md). Credentials and malicious payloads are removed rather than archived as provenance.
 
+#### External Drops and `@anitelos`
+
+A Drop need not originate on GitHub. A future consent-based browser extension or share target may allow a contributor to invoke `@anitelos` beside a public video, article, forum or comment. Before transmission, the contributor must be able to preview and edit the proposed summary, source pointer, subject links, attribution and publication state.
+
+The external page remains the original speech location. The Commons stores only the authorised capture packet and its provenance state. Public visibility does not itself grant permission to archive another person's identity or surrounding discussion.
+
+The proposed boundary, packet schema and unresolved platform questions are maintained in [External Drop Bridge](EXTERNAL-DROP-BRIDGE.md).
+
+
 ### Stage 2: THE PAINTED PORCH (Discussion, Edge Mapping & Friction)
 * **What it is:** **The Painted Porch** is the gathering place of the Anitelos Commons: the open deliberative stage where people meet around a Drop, discuss it, challenge assumptions, surface contradictions, add evidence and discover connected ideas. It may be expressed through GitHub discussions, issues, review meetings or future Commons interfaces; the name describes the function, not a single platform.
 * **Why the name:** It recalls the painted public porch of the ancient Athenian agora—a sheltered but open boundary where people gathered and philosophy developed. Anitelos uses it as a human invitation, not as a claim of institutional or philosophical authority.
@@ -73,8 +82,8 @@ The lifecycle is therefore **continuous rather than terminal**. Stage 7 preserve
 * A superseded node may still be useful historically, educationally, or as the starting point for a new proposal if circumstances change.
 
 ### Stage 7: ARCHIVE / RETROSPECTIVE TRAVERSAL
-* **What it is:** A durable retrospective ledger of material that is lawful, consensual and safe to retain at its declared visibility.
-* **Archive does not mean dead:** It records a previous state of the Commons. A later discussion can reference archived material when new evidence or circumstances justify reconsideration.
+* **What it is:** The **stickiest knowledge layer**: a durable retrospective ledger of material that is lawful, consensual and safe to retain at its declared visibility. Archive records receive the strongest practical portability, replication, migration and integrity protections because later states depend on their history.
+* **Archive does not mean dead or immortal:** It records a previous state of the Commons. A later discussion can reference archived material when new evidence or circumstances justify reconsideration. No repository can guarantee permanence, and privacy, security, safeguarding or lawful deletion may require content removal or a safe tombstone.
 * **Prompt Zero Integration:** If assumptions underlying Node C break 10 years later, Prompt Zero can retroactively traverse backwards into the Archive to examine *why* Node A was originally replaced and reactivate dormant knowledge.
 
 ---
