@@ -486,6 +486,17 @@ futures.
 > Perhaps it was to make sure that everything worth remembering has more than one
 > possible place to go.”
 
+The earliest Anitelos node dims. Its edges do not all disappear. One becomes a different
+project, another a practice, another a question carried by someone who never knew the
+founder's name. Each forms a new domain with a direction of its own.
+
+> “Life forms domains. Telos moves through them. Time dissolves their edges.
+> Knowledge carries some of what they began.
+>
+> A telos is not the final end.
+>
+> It is an end capable of beginning others.”
+
 Black.
 
 **THE EDGE-NODE UNIVERSE**

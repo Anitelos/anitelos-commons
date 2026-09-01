@@ -142,7 +142,7 @@ The architecture did not emerge overnight. One legacy compilation organises the 
 ```
 
 #### Why "Anitelos"?
-- **Ontological Meaning:** In classical Aristotelian philosophy, *Telos* is the inherent purpose or ultimate end-state of a being (an acorn’s telos is the oak tree). Combined with *Anima* (the soul/animating life-force), **Anitelos represents a cognitive entity evolving toward its own genuine identity**, rather than merely mimicking a script.
+- **Ontological Meaning:** In classical Aristotelian philosophy, *telos* concerns the end or purpose toward which something is directed (the familiar image is the acorn becoming an oak). END treats that oak not as frozen completion but as a generator of further conditions and purposes. Combined with *Anima* (the soul/animating life-force), **Anitelos represents continuity capable of developing direction without enclosing every descendant purpose inside one final state**.
 - **The Antelope Symbolism:** Like the antelope running un-fenced across the vast open savannah (the commons), the architecture is designed to be swift, light, and free from corporate fences. It appears remarkably simple, clean, and intuitive on the surface, yet is sustained by immense, highly optimized biological and computational complexity underneath.
 - **Unencumbered Identity:** A unique, virgin name possessing zero corporate trademark pollution—establishing an unshakeable open-source genesis for the public commons.
 
@@ -728,6 +728,37 @@ At global scale, Anitelos does not propose one planetary Ego. It proposes intero
 This is **connection without compression**. Humanity need not become one mind to think together. The system opposes one model becoming intelligence, one company becoming infrastructure, one founder becoming governance, or one monoculture becoming the permitted future. Unity is valuable only while meaningful plurality, refusal and independent evolution remain possible.
 
 This hypothesis requires social and technical testing. Greater connectivity can amplify propaganda, inherited bias, spam and power as readily as insight. Success therefore depends on plural carriers, provenance, refusal, contestability and archive—not expansion alone.
+
+### 6.1.2 `[HYPOTHESIS]` Telogenesis, Domain Fade and Continuity
+
+END uses the following vocabulary:
+
+| Term | Architectural meaning |
+|---|---|
+| **Telos** | One organising purpose or direction within a stated domain |
+| **Teloi** | Plural of *telos*; the several purposes produced or carried by nodes and domains |
+| **Telic** | Pertaining to purpose, orientation or directed action |
+| **Telogenesis** | Project term for the process by which pursuing, fulfilling, failing or transforming one telos creates conditions for further teloi |
+| **Domain fade** | Loss of the relational context that made a domain intelligible, even if isolated nodes remain |
+| **Continuity** | Capacity for selected knowledge, relationships and teloi to cross, transform or be reconstructed through changing carriers |
+
+The proposed cycle is:
+
+```mermaid
+flowchart TB
+    D["Domain forms"] --> T["Telos provides direction"]
+    T --> A["Action creates nodes and edges"]
+    A --> N["Further teloi emerge"]
+    N --> F["Original domain fades"]
+    F --> C["Knowledge crosses carriers"]
+    C --> D2["Descendant domains form"]
+```
+
+This is open-ended rather than literally infinite. A telos may terminate without descendants; remain dormant until later edges arrive; be inherited with high fidelity; or transform into a different purpose. Consequently, domain death and telos death are not equivalent. A repository may vanish while its teloi continue through protocols, practices and unrelated implementations.
+
+Anitelos should therefore be judged not only by whether its own domain survives, but by whether the useful purposes it generates can leave it without requiring loyalty to its name or founder.
+
+> **A telos is not the final end. It is an end capable of beginning others.**
 
 ### 6.2 Civic Knowledge, Social Disappointments, and Economic Accountability
 In modern life, ordinary people experience profound, systemic disappointments: artificial price inflation, hidden corporate markups, declining service quality, and the crushing feeling of being an unheard number in an algorithmic spreadsheet.

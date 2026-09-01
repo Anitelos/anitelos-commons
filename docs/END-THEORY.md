@@ -28,15 +28,38 @@ That is the concern beneath **Edge–Node Domain Theory**, or **END Theory**.
 
 END uses *end* in two deliberately different senses.
 
-The first is **ending**: a carrier disappears, a context is overwritten, a link breaks, an institution closes or a generation loses the route by which knowledge was reached.
+The first is **ending**: a carrier disappears, a context is overwritten, a link breaks, an institution closes or a generation loses the route by which knowledge was reached. This often happens through **domain fade**: the nodes may remain, but the relationships, language and lived context that once made them intelligible gradually erode.
 
-The second is **telos**: the purpose toward which a system is organised. The familiar image is an acorn whose end is not merely to stop being an acorn, but to become an oak under conditions that allow it.
+The second is **telos**: a purpose or organising direction. The familiar image is an acorn whose telos is becoming an oak under conditions that allow it. END extends the image: the oak is not a frozen final state. It produces seeds, habitats, materials, memories and conditions from which further purposes can arise.
+
+> **A telos is not the final end. It is an end capable of beginning others.**
+
+The fulfilment, failure or reinterpretation of one telos may create new nodes, domains and **teloi**. This open-ended branching is called **telogenesis** within END Theory. It means generative potential, not a guarantee of literal infinity: some purposes end, some remain dormant and some travel farther than their originating domain could foresee.
+
+The relationship is therefore:
+
+> **domain forms → telos gives direction → action creates relationships → new teloi emerge → time erodes the domain → knowledge may carry its consequences onward**
+
+Domain fade threatens a telos only when no relationship, practice or carrier takes it forward. A project can die while its purpose survives through another project; a purpose can also transform so deeply that its descendant domain develops a different telos.
 
 Applied carefully, this is not a claim that software has an intrinsic destiny. It is a design question:
 
 > **Are models, platforms and human contributions being treated as instruments for institutional capture—or are technical instruments being organised around human agency, continuity and shared prosperity?**
 
-In Anitelos, models, runtimes, hardware and even the project name are replaceable means. The intended end is that people retain authority over their own continuity while useful, consented knowledge can remain available for others to examine and improve. If a better system serves that end, Anitelos should be capable of yielding to it.
+In Anitelos, models, runtimes, hardware and even the project name are replaceable means. Its current telos is that people retain authority over their own continuity while useful, consented knowledge can remain available for others to examine and improve. Pursuing that telos has already generated further teloi in governance, memory, licensing, accessibility and the Commons. If a better system carries them further, Anitelos should be capable of yielding to it.
+
+### Working vocabulary
+
+| Term | Plain meaning in END Theory |
+|---|---|
+| **Telos** | One purpose, orientation or end toward which a domain acts |
+| **Teloi** | The plural of *telos*: multiple purposes or ends |
+| **Telic** | Relating to purpose or directedness |
+| **Telogenesis** | END's name for the process through which pursuing, fulfilling, failing or transforming one telos creates conditions for further teloi |
+| **Domain fade** | The gradual loss of the relationships and context that made a domain intelligible, even when some individual nodes survive |
+| **Continuity** | The ability of selected relationships, knowledge and teloi to travel, transform or be reconstructed across changing carriers |
+
+*Telogenesis* is used here as project vocabulary, not presented as a newly discovered physical law or a universally established philosophical term.
 
 ## A relational proposition
 
@@ -328,9 +351,11 @@ Lived history can be pictured as an immensely dense thread continually unravelli
 
 A star that formed—or did not form—before Earth existed may have altered everything that later became possible here. At a human scale, no two people occupy precisely the same experiential domain. Their bodies, histories, relationships, movements and interpretations differ. Two people can look toward the same galaxy, read the same sentence or use the same technology while encountering different edges around it.
 
-This is a philosophical image, not a physical theory of the multiverse and not an extension or rejection of relativity. END Theory does not need to settle cosmology. Its practical concern is simpler:
+This is a philosophical image, not a physical theory of the multiverse and not an extension or rejection of relativity. END Theory does not need to settle cosmology. Its practical concern is the continuity of telogenesis: whether purposes and the knowledge generated around them retain enough carriers to create further possibilities.
 
 > What do the systems built today make reachable—or unreachable—for the people travelling forward tomorrow?
+
+> **Life forms domains. Telos moves through them. Time dissolves their edges. Knowledge carries some of what they began.**
 
 ## What should remain connected?
 
