@@ -263,6 +263,12 @@ Perhaps it was to make sure that everything worth remembering has more than one 
 
 ## An invitation to the Painted Porch
 
+The name carries two meanings. The **Porch** is the shared gathering domain: an open boundary where people can stop, meet and reason together. **Painted** is the changing hue of lived experience. Every person arrives coloured by a different history, language, body, culture, skill, loss and consequence. The Porch should not bleach those hues into one approved voice; it should let their contrast expose relationships and blind spots that no single viewpoint could reveal.
+
+A hue is not automatically a fact. Evidence may challenge what any participant believes. But understanding the position from which a claim became visible is itself part of understanding the claim.
+
+> **The Porch is shared. The hue is lived. The picture remains revisable.**
+
 This draft is not asking whether you agree with every answer. It is asking what the question looks like from your domain.
 
 You do not need technical credentials. Lived consequence is relevant knowledge. If you respond, examples from your own life are more useful than trying to sound academic.
