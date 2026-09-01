@@ -536,6 +536,73 @@ The raw intuition is honored as an indispensable **intellectual ingredient** wit
 
 ---
 
+### 4.8 `[RESEARCH]` The Open Boundary Principle & Layer Three Challenge Set
+
+END proposes an **Open Boundary Principle**:
+
+> A domain may be complete enough for action at its present resolution while remaining incomplete under resolutions created by later evidence, instruments, concepts and relationships.
+
+This principle must not immunise END from criticism by defining every objection as another layer. For each proposed layer, the research programme must identify:
+
+- what is represented;
+- what enters and leaves the boundary;
+- what physical, computational or social carrier is claimed;
+- which observations support the distinction;
+- which established explanations compete with it; and
+- what result would make the proposed layer unnecessary or false.
+
+#### 4.8.1 Finite bounds and expanding interpretation
+
+Historical cases illustrate the pattern without proving END.
+
+Archimedes bounded pi using inscribed and circumscribed polygons, reaching 96 sides. The method was finite; the represented relation was not exhausted by his calculation. Schwarzschild produced an exact solution to Einstein's equations; later coordinates, collapse theory and observation expanded its physical interpretation and corrected earlier readings of its boundaries.
+
+The disciplined claim is not that prior thinkers were simply wrong. A result can remain valid within its assumptions while later knowledge redraws the domain in which those assumptions sit.
+
+Anitelos should therefore preserve assumptions, evidence, environment and supersession paths—not only conclusions. A future contributor should be able to discover why a node once looked sufficient and which new edge made it incomplete.
+
+#### 4.8.2 Layer Three as a falsifiable research programme
+
+Layer Three should be compared against existing accounts from graph theory, information theory, cognitive science, memory research, archival science and philosophy of knowledge. The term earns value only if it supports predictions or designs that simpler language misses.
+
+Candidate experiments include:
+
+1. compare isolated notes with typed node-and-edge records on later reconstruction and correction;
+2. test whether preserving objections and repeated failures improves later solutions or merely adds retrieval noise;
+3. measure whether “latent-node” suggestions produce independently useful discoveries above a controlled baseline;
+4. compare raw-transcript retention with compact summaries plus provenance under storage, privacy and accuracy constraints;
+5. test whether affected-user edges reveal compatibility failures earlier than expert-only review; and
+6. measure when additional edges improve transfer and when they create interference, confirmation loops or bias.
+
+Negative results are part of the Commons. If an ordinary retrieval method performs as well as the proposed graph, that result should supersede unnecessary machinery.
+
+#### 4.8.3 Challenge without conspiracy capture
+
+| Contribution | Required treatment |
+|---|---|
+| Specialist correction | Preserve the correction, evidence, scope and effect on the claim |
+| Affected lived consequence | Record it as relevant evidence about impact, not automatic proof of mechanism |
+| Minority countermodel | Preserve it with assumptions, predictions and a route to comparison |
+| Conspiracy allegation | Treat it as an unverified Drop until independently supported |
+| Unfalsifiable existential claim | Keep it in philosophy or speculation; do not present it as an implemented or scientific result |
+
+The Commons should neither confuse status with truth nor suspicion with evidence. Criticism becomes knowledge when its source, reasoning and consequences are inspectable.
+
+#### 4.8.4 Questions for adversarial review
+
+1. Is the Open Boundary Principle more than ordinary fallibilism? If so, what unique prediction follows?
+2. Is Layer Three technically necessary, or can established terms describe every proposed mechanism more clearly?
+3. Does salience half-life measure accessibility rather than value—and how will the system prevent low-access nodes from being treated as low-worth people or cultures?
+4. Can a latent node be detected prospectively, or only narrated after a discovery?
+5. Does adding a boundary genuinely create new possibilities, or merely partition existing ones?
+6. Which “possibility horizons” are empirical limits, engineering constraints, logical contradictions or failures of representation?
+7. What evidence would justify introducing a new layer rather than refining a current one?
+8. How can outsiders challenge experts without making every unsupported belief equally distributable?
+9. Can provenance be preserved without creating a reconstructible surveillance archive?
+10. Will Anitelos publish a decisive negative result that makes one of its own central mechanisms unnecessary?
+
+The purpose of Anitelos is not to preserve a founder's interpretation. It is to preserve enough safe lineage that later contributors can outdate it without repeating its entire path from zero.
+
 ## 5. The Sovereign Commons: Governance & Anti-Monopoly Architecture
 
 The Non-Enclosure Charter proposes constraints intended to reduce enclosure and capture. No governance architecture can guarantee those outcomes merely by declaring them.

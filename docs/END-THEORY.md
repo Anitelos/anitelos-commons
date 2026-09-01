@@ -366,6 +366,63 @@ That does not justify abandonment. Natural obsolescence is not the same as failu
 
 Anitelos is therefore not the answer. It is a place in which present answers can be built, tested and eventually superseded together.
 
+## Finite enough to know, never final
+
+END does not require every object, system or domain to be literally infinite. A life can end. A database can have a last row. A circle can have a finite circumference. A theory can specify a bounded case.
+
+The deeper distinction is between a **finite state** and a **final description**.
+
+> **Can a domain be finite enough to describe and act within while remaining non-final under every resolution created by later discovery?**
+
+A boundary answers something: *inside this model, under these conditions, this is what can presently be distinguished.* But discovering a boundary may also expose new relations—between inside and outside, signal and noise, known and unknown, possible and impossible. Those relations become further objects of inquiry.
+
+Nothing needs to be physically endless for inquiry to remain open-ended. Finite states can generate non-final consequences.
+
+### Two unfinished inheritances
+
+Archimedes did not “finish” pi or discover it from nothing. He developed a rigorous way to bound its value by comparing inscribed and circumscribed polygons, carrying the method as far as 96 sides. The relation endured; later notation, proofs and computation created resolutions he did not possess.
+
+Karl Schwarzschild found the first exact solution to Einstein's field equations while serving during the First World War. The mathematics survived him. Its physical meaning did not arrive complete: later coordinate systems distinguished an event-horizon coordinate boundary from the deeper singular behaviour at the centre, while later work on collapse and astronomical observation changed what could responsibly be claimed.
+
+Neither example means an earlier thinker simply failed. It shows something more useful:
+
+> **A discovery can remain true within its domain while becoming incomplete inside a larger one.**
+
+The same should apply to END Theory and Anitelos. Their value would not lie in being the last description. It would lie in leaving enough reasoning, provenance and challengeable structure for later contributors to outdate them intelligently.
+
+### Hard questions without hidden answers
+
+Open inquiry has two symmetrical failure modes.
+
+One is **premature closure**: authority dismisses an unfamiliar question because its language, author or implications sit outside an accepted frame.
+
+The other is **conspiracy capture**: uncertainty, disagreement or correction is treated as evidence that specialists are hiding the answer.
+
+The Painted Porch should permit hard questions without rewarding either reflex:
+
+- claims require evidence, provenance and a stated route to correction;
+- consensus remains challengeable, but conviction alone does not displace it;
+- conspiracy allegations remain Drops until independently supported—they do not gain truth from being provocative;
+- specialists may correct a technical claim without owning the underlying human question;
+- non-specialists may reveal lived consequences and missing edges without those observations automatically becoming technical proof.
+
+A correction is not the death of inquiry. It is a new edge.
+
+### Questions intended to survive this draft
+
+1. What kinds of “impossibility” describe reality, and which describe only the limits of a representation?
+2. Can a relation be structurally present before any participant possesses a concept that names it, or is a “latent node” merely retrospective interpretation?
+3. When a newly discovered boundary creates a new inside and outside, has reality expanded—or only the observer's domain?
+4. What observable result would distinguish Layer Three from ordinary inference, hidden variables, abstraction or metaphor?
+5. What evidence would falsify END's Strong Continuity proposition rather than merely refine its wording?
+6. At a physical singularity, which infinities belong to nature and which signal that a model has exceeded its valid domain?
+7. Can knowledge remain latent without a living interpreter, and what carrier or reconstruction process would make that claim testable?
+8. How should expert evidence, affected experience and minority countermodels interact when none is sufficient alone?
+9. How can a commons resist both institutional enclosure and evidence-free conspiracy without turning either resistance into censorship?
+10. What minimum lineage would allow a future generation to resume an abandoned inquiry without forcing every generation to begin from zero?
+
+The point of Anitelos is not that its originator found the final questions. It is that no originator, model or generation should be able to stop better questions from arriving.
+
 ## The forward thread
 
 Lived history can be pictured as an immensely dense thread continually unravelling forward. Many outcomes may be imaginable, but existence continues through the consequences that actually follow. No observer can return to every vanished branch and compare it with the world that arrived.
