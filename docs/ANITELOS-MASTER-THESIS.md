@@ -56,7 +56,7 @@ A critical failure mode of ambitious technical manifestos is confusing contempor
 │ LAYER IV: THE 2026 REFERENCE IMPLEMENTATION (Contemporary Probes)        │
 │ - Profile: `ANITELOS-CONSUMER-2026` (16GB VRAM, 32GB RAM, ≥8 tok/s).    │
 │ - Contemporary stack: Modular / MAX / Mojo MLIR, sqlite-vec, DuckDB VSS. │
-│ - Models: Gemma-MoE, Qwen-MoE, Kokoro, CosyVoice. (Superseded over time).│
+│ - Models: Follow Pi (\(\pi \)) till the model fails).                    │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
