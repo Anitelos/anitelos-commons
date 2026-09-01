@@ -380,13 +380,19 @@ Nothing needs to be physically endless for inquiry to remain open-ended. Finite 
 
 ### Two unfinished inheritances
 
-Archimedes did not “finish” pi or discover it from nothing. He developed a rigorous way to bound its value by comparing inscribed and circumscribed polygons, carrying the method as far as 96 sides. The relation endured; later notation, proofs and computation created resolutions he did not possess.
+Archimedes did not make pi, finish it or discover its underlying relation from nothing. The ratio already belonged to Euclidean circles. He made more of that relation humanly reachable by rigorously bounding its value with inscribed and circumscribed polygons, carrying the method as far as 96 sides. His calculation was finite; the decimal expansion it approached does not terminate or repeat.
 
-Karl Schwarzschild found the first exact solution to Einstein's field equations while serving during the First World War. The mathematics survived him. Its physical meaning did not arrive complete: later coordinate systems distinguished an event-horizon coordinate boundary from the deeper singular behaviour at the centre, while later work on collapse and astronomical observation changed what could responsibly be claimed.
+More than two millennia later, Karl Schwarzschild found the first exact solution to Einstein's field equations while serving during the First World War. Its physical meaning did not arrive complete. Later coordinate systems distinguished the event horizon's coordinate boundary from the curvature singularity at the centre, while later work on collapse and astronomical observation changed what could responsibly be claimed.
 
-Neither example means an earlier thinker simply failed. It shows something more useful:
+Placed together, they form an instructive tension:
+
+> **One thinker approached the unending through approximation. Another reached an apparent ending through exact mathematics.**
+
+Neither produced reality itself. Each produced a description through which part of reality became reachable. The later history does not prove the earlier thinker foolish; it reveals how much future remained hidden inside what the earlier work got right.
 
 > **A discovery can remain true within its domain while becoming incomplete inside a larger one.**
+
+> **The relation was not made by the thinker. The thinker made it reachable.**
 
 The same should apply to END Theory and Anitelos. Their value would not lie in being the last description. It would lie in leaving enough reasoning, provenance and challengeable structure for later contributors to outdate them intelligently.
 

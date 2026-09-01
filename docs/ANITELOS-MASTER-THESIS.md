@@ -555,9 +555,11 @@ This principle must not immunise END from criticism by defining every objection 
 
 Historical cases illustrate the pattern without proving END.
 
-Archimedes bounded pi using inscribed and circumscribed polygons, reaching 96 sides. The method was finite; the represented relation was not exhausted by his calculation. Schwarzschild produced an exact solution to Einstein's equations; later coordinates, collapse theory and observation expanded its physical interpretation and corrected earlier readings of its boundaries.
+Archimedes bounded pi using inscribed and circumscribed polygons, reaching 96 sides. The method and calculation were finite; the irrational ratio was not exhausted by them. More than two millennia later, Schwarzschild produced an exact solution to Einstein's equations whose deepest classical boundary helped expose where mathematical exactness and physical interpretation must still be distinguished. Later coordinates, collapse theory and observation expanded that interpretation and corrected earlier readings of its boundaries.
 
-The disciplined claim is not that prior thinkers were simply wrong. A result can remain valid within its assumptions while later knowledge redraws the domain in which those assumptions sit.
+The contrast is useful: one thinker approached a non-terminating representation through finite approximation; another reached an apparent ending through exact mathematics. Neither created the relation described. Each made part of it reachable from the conceptual and technical domain available in his time.
+
+The disciplined claim is not that prior thinkers were simply wrong. A result can remain valid within its assumptions while later knowledge redraws the domain in which those assumptions sit. The future may outdate an interpretation without erasing the discovery that enabled it.
 
 Anitelos should therefore preserve assumptions, evidence, environment and supersession paths—not only conclusions. A future contributor should be able to discover why a node once looked sufficient and which new edge made it incomplete.
 
