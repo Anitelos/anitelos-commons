@@ -120,6 +120,21 @@ The model must not imply that an AI's internal processing is identical to human 
 
 > **Anitelos explores the relational domain through which private thought, fiction and hypothesis can become shared knowledge, coordinated experimentation and material consequence. It does not assume imagined possibilities are true. It supports the processes through which they may be tested, changed, rejected or made real.**
 
+## Impossibility and the possibility horizon
+
+Layer Three also needs a disciplined way to handle apparent endings. When a model reaches a point it cannot extend, imagination often supplies a continuation: reversal, bounce, branching reality or transformation. The inability of the current model to continue does not make any imagined continuation physically real.
+
+END calls this limit a **possibility horizon**: the boundary beyond which the present domain cannot yet distinguish ending from transformation.
+
+The accompanying **Strong Continuity Hypothesis** is methodological rather than physical:
+
+> **No apparent ending should automatically be treated as absolute non-continuation. Candidate continuations remain open until evidence distinguishes transformation, inaccessible persistence, branching or genuine ending.**
+
+π gives this a bounded analogy. A calculator may stop producing digits without reaching a final digit or altering π. The analogy demonstrates that the end of an observer's representation need not be the end of its object. It does not demonstrate that every physical history continues.
+
+A gravitational singularity sharpens the boundary: classical general relativity reaches geodesic incompleteness, but a bounce requires further physics. Layer Three is where candidate continuations can be represented and challenged; it is not the physical mechanism that selects or creates them.
+
+See [Cosmology at the Edge of END](COSMOLOGY-PROOF-MODEL-METAPHOR-MYTH.md#the-possibility-horizon-singularity-reversal-and-bounce) for the scientific objections and specialist questions.
 ## Research boundaries and questions
 
 1. Does Layer Three add explanatory value beyond existing work on objective knowledge, collective cognition, cultural transmission and innovation?

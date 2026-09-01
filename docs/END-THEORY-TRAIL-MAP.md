@@ -226,6 +226,20 @@ The practical return was archival. When a question remains private and fades, a 
 > **The purpose of continuity is not to prevent all forgetting. It is to reduce avoidable rediscovery while preserving the right to let private material fade.**
 
 This phase is expanded in [Layer Three — From Possibility to Consequence](LAYER-THREE-POSSIBILITY-TO-CONSEQUENCE.md).
+## Phase 14 — Impossibility became a possibility horizon
+
+The next correction concerned reversal. The non-terminating decimal representation of π inspired an intuition: a finite calculation may stop without reaching the end of the mathematical object. Could an apparent cosmic singularity similarly mark the inability of a domain to continue its description rather than an absolute end?
+
+The analogy initially crossed incompatible categories. π is fixed rather than temporally unfolding; cosmic expansion does not prevent local collapse; a classical singularity does not imply a bounce; and no evidence establishes a passage into other physical realities.
+
+Preserving both the intuition and objections produced two research terms:
+
+- **Strong Continuity Hypothesis:** an apparent ending should not automatically be equated with absolute non-continuation;
+- **possibility horizon:** the boundary beyond which the present domain cannot yet distinguish ending from transformation.
+
+The terms do not answer what lies beyond a singularity. They organise the uncertainty. A bounce becomes one candidate requiring additional equations, assumptions and evidence—not the default consequence of a model reaching its limit.
+
+> **Impossibility may sometimes describe the end of what a model knows how to continue. It does not guarantee that existence continues in the form imagination supplies.**
 ## Where the trail remains open
 
 This reconstruction remains challengeable. Important unresolved questions include:

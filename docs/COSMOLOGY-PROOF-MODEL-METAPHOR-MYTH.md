@@ -74,6 +74,66 @@ At ordinary densities, electromagnetic interactions and quantum-mechanical press
 > **The scientifically responsible ending is not “an infinitely small point explains everything.” It is that the classical description becomes incomplete where quantum gravity is expected to matter.**
 
 Black holes therefore offer END a boundary image, not physical confirmation: an apparent final state in one description may reveal where the map stops answering. [NASA on black-hole types](https://science.nasa.gov/universe/black-holes/types/) · [Einstein Online on changing space and time inside a black hole](https://www.einstein-online.info/en/spotlight/changing_places/)
+## The possibility horizon: singularity, reversal and bounce
+
+### The originating intuition
+
+A calculation of π may be stopped by its calculator, but no final decimal digit has thereby been reached. This suggested a wider question: if cosmic and relational histories continually produce new states, should an apparent terminal singularity be interpreted as absolute ending—or as a boundary beyond which the present model cannot distinguish continuation, transformation and impossibility?
+
+The intuition is preserved here as the **Strong Continuity Hypothesis**:
+
+> **No apparent ending should automatically be treated as absolute non-continuation. Where a domain's present description terminates, possible continuations remain conceptually open until evidence distinguishes transformation, branching, inaccessible persistence or genuine ending.**
+
+END calls that epistemic boundary a **possibility horizon**:
+
+> **The boundary beyond which the present domain cannot yet distinguish ending from transformation.**
+
+This is proposed vocabulary for inquiry, not a second physical event horizon.
+
+### Why π does not establish cosmic continuation
+
+π is a fixed mathematical value, not an object advancing through time. Its non-terminating decimal expansion describes a representation: a finite calculator may stop producing digits without completing or altering π. That makes π a strong analogy for inexhaustible representation by bounded knowers, but it does not show that physical processes cannot terminate, reverse or reach singular behaviour.
+
+> **A finite calculation can stop. The space of valid mathematical continuation does not end with the calculator.**
+
+Whether any physical analogue exists must be established independently.
+
+### Why expansion does not rule out collapse
+
+Large-scale cosmic expansion and local gravitational collapse occur at different scales. Bound structures can form and remain bound while sufficiently distant regions recede. The observed expansion of the Universe therefore does not make stellar collapse or black-hole formation impossible.
+
+A black-hole singularity in classical general relativity is not a demonstrated portal. It indicates geodesic incompleteness: some paths cannot be continued within the classical spacetime description. That establishes failure of ordinary continuation in the model, not a physical bounce or passage to another universe.
+
+### Where a bounce becomes a real research proposal
+
+A bounce requires added physical structure: modified equations, quantum-gravity effects, boundary conditions or a new spacetime extension. Some loop-quantum-gravity models replace classical singular behaviour with a black-to-white-hole transition. Such work demonstrates that continuation can be formulated under stated assumptions; it does not establish that astronomical black holes undergo that transition.
+
+The possibilities therefore remain open but unequal:
+
+- termination of the classical path;
+- an unresolved quantum state;
+- continuation under a future theory;
+- a bounce or extension in a particular quantum-gravity model;
+- or an alternative not yet formulated.
+
+None may be promoted to observation merely because it completes the metaphor.
+
+### “Other realities”
+
+If **other realities** means independently existing physical universes, END currently has no evidence for them. If it means alternative descriptions, lived domains, unrealised futures or candidate models, Layer Three can examine how they are represented and constrained without asserting that every candidate exists physically.
+
+The singularity is then central only **epistemically**: it is the point where the present account loses its ability to distinguish candidate continuations.
+
+### Direct challenges for specialists
+
+1. Does the Strong Continuity Hypothesis assert anything beyond the ordinary refusal to infer non-existence from an incomplete model?
+2. Can “possibility horizon” be defined without confusing epistemic limitation with a physical horizon?
+3. Which singularity theorems most directly constrain the intuition, and where does quantum gravity genuinely reopen the description?
+4. Do bounce models preserve causal order and information without introducing unsupported boundary conditions?
+5. What observation could distinguish a black-to-white-hole transition from conventional black-hole evolution?
+6. Is π an illuminating example of bounded representation, or does it import mathematical necessity into contingent physical history?
+7. What would count as evidence that an apparent ending is genuine rather than merely inaccessible?
+8. Can the hypothesis be falsified, or must it remain a methodological caution rather than a theory of nature?
 ## Questions for deeper reviewers
 
 1. Which END analogies commit a category error between physics, information and human meaning?
