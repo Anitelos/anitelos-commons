@@ -185,6 +185,24 @@ Anitelos is intended as a scaffold for that investigation—not a permanent cent
 
 > A scaffold succeeds when what people build together can stand after the scaffold is removed.
 
+## Phase 12 — Cosmic imagery met its evidence boundary
+
+Questions about dark matter, the observable horizon, the Big Bang, black-hole singularities and a possibly cyclic cosmos extended the imagery of Plural Genesis. The corrections became equally important:
+
+- the observable horizon is not a demonstrated edge of existence;
+- the Big Bang is not modelled as matter exploding from a central pivot into emptiness;
+- cosmic voids are underdense rather than established absolute nothing;
+- dark matter structures through gravity and is distinct from dark energy;
+- bounce, white-hole and cyclic models remain hypotheses;
+- material continuity from the early universe does not establish cosmic purpose;
+- and physics cannot be recruited as proof of END without predictions and tests.
+
+Rather than deleting the imaginative route, the project preserved it beside its strongest objections in [Cosmology at the Edge of END — Proof, Model, Metaphor & Myth](COSMOLOGY-PROOF-MODEL-METAPHOR-MYTH.md).
+
+This phase clarified a methodological rule:
+
+> **The myth may open the question. The model must expose its assumptions. Observation decides what nature permits us to claim.**
+
 ## Where the trail remains open
 
 This reconstruction remains challengeable. Important unresolved questions include:

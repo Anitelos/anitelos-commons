@@ -271,6 +271,8 @@ The word *singularity* also carries a physics metaphor that END must not misuse.
 
 Physics inspires this question; it does not prove END Theory or a multiverse beyond a black hole.
 
+The questions and corrective boundaries around the observable horizon, Big Bang, dark matter, cosmic voids, singularities, cyclic cosmology and knowledge-as-fundamental are preserved separately in [Cosmology at the Edge of END — Proof, Model, Metaphor & Myth](COSMOLOGY-PROOF-MODEL-METAPHOR-MYTH.md). That Drop invites specialist correction without making speculative cosmology a dependency of the main proposition.
+
 ## Plural Genesis: billions of beginnings
 
 A different cosmic image fits the proposition better: not all knowledge collapsing into one singularity, but knowledge undergoing **Plural Genesis**.
