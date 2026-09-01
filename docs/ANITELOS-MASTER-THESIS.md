@@ -594,7 +594,7 @@ Applications and extensions are distributed not as opaque binaries, but as self-
 ### 5.5 Legal Covenant: The Anitelos Non-Enclosure Copyleft Covenant
 To ensure reciprocal protection without ambiguity:
 - **Core Engine & Kernels:** Intended to use **GNU AGPLv3** when code is introduced, with exact component boundaries declared in repository licensing metadata.
-- **User Schemas & Creative Modules:** May be separately licensed under Apache-2.0 or MIT when their directories and distributed files explicitly declare that choice. No permissive licence is implied merely by this thesis.
+- **Schemas & Protocol Definitions:** Original material in declared `schemas/` and `protocols/` paths is licensed under Apache-2.0 to support independent interoperable implementations. Creative/user modules must declare their own licence. No permissive licence is implied outside those boundaries.
 - **Covenant:** Ethical and cultural commitments remain non-binding unless independently expressed in an applicable legal instrument.
 
 ### 5.6 Telemetry Hygiene: Representation & Coverage vs. Pure Volume Bias

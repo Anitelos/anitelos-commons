@@ -1,45 +1,89 @@
 # Anitelos Licensing Boundaries
 
-> **Status:** Initial policy for a documentation-first repository. Obtain
-> qualified open-source/IP legal review before public release or before relying
-> on these notes for a commercial distribution decision.
+> **Status:** Initial multi-licence policy for a documentation-first repository.
+> Obtain qualified open-source, copyright and database-rights review before
+> commercial reliance or enforcement.
 
-## Current Snapshot
+## Controlling rule
 
-The repository currently contains foundational documentation and empty
-implementation placeholders. The root `LICENSE` contains GNU AGPLv3, but the
-presence of that file alone does not clearly communicate the intended licence
-for every future artifact.
+Anitelos uses established licences with explicit component boundaries. The
+presence of a licence text in `LICENSES/` does not apply that licence to every
+file. Apply the most specific valid notice in this order:
 
-Until component-specific notices are added:
+1. file-level SPDX identifier or notice;
+2. nearest directory `LICENSE` or licence notice;
+3. repository-level boundary declared in this document.
 
-- no file should claim that an absent implementation is already AGPL-covered;
-- no schema or creative module should claim Apache-2.0 or MIT merely because the
-  thesis describes those as possible future choices;
-- contributors should not add copied legacy code until its ownership,
-  dependencies and compatible licensing are checked.
+Third-party material retains its original terms. No contributor can relicense
+rights they do not own.
 
-## Intended Boundaries
+## Current `anitelos-commons` boundary
 
-| Material | Intended licence | Required before distribution |
+| Material | Licence | Notes |
 | :--- | :--- | :--- |
-| Anitelos reference core engine and kernels | GNU AGPLv3 | Source headers/notices and a declared directory boundary |
-| Separately distributed public schemas | Apache-2.0 or MIT, chosen explicitly | Matching licence file and SPDX identifier |
-| Separately distributed creative/user modules | Chosen by their author, subject to dependencies | Module-level licence declaration |
-| Documentation | Not yet resolved | Select and declare a documentation licence |
-| Commons Covenant | Ethical/social commitment | Keep distinct from enforceable software licence terms |
-| Legal Design Notes | Non-binding research | Legal review before stronger claims |
+| Original prose and diagrams in `docs/`, `painted-porch/`, root Markdown policy files and the future END Theory | **CC BY-SA 4.0** | Commercial reuse is allowed; shared adaptations must use compatible ShareAlike terms and preserve attribution. |
+| Original schemas and protocol definitions in `schemas/` and `protocols/` | **Apache-2.0** | Chosen to allow independent interoperable implementations. |
+| Reference software introduced to explicitly marked code directories | **AGPL-3.0-only** unless that directory states otherwise | No absent implementation is claimed to be AGPL-covered. |
+| Commons Covenant | Ethical/social commitment | Distinct from enforceable licence conditions. |
+| Legal Design Notes | Non-binding research | Not legal advice or a substitute for review. |
+| Third-party quotations, images, papers, code, models and assets | Their existing terms | Must be identified; inclusion does not relicense them. |
+| Private user knowledge, prompts, local graphs and raw diagnostics | **Not project-licensed** | Rights remain with the relevant user/rights-holder. Never public merely because an Anitelos tool processed them. |
 
-## Legacy Anikai Material
+The canonical licence texts are stored in [`LICENSES/`](LICENSES/).
 
-Anikai/Media Magic files may come from a separate local repository and older
-remote account. Before importing them, record:
+## Ecosystem repository defaults
+
+| Repository | Default for original implementation | Other material |
+| :--- | :--- | :--- |
+| `anitelos-harness` | AGPL-3.0-only | Bundled Apache schemas and CC documentation retain their declared licences. |
+| `anitelos-cosmic-wiki` | AGPL-3.0-only | Wiki application code is software; Commons prose displayed by it retains CC BY-SA where applicable. |
+| `anitelos-node-library` | AGPL-3.0-only | Public aggregate data requires a separate declared data licence after privacy/database-right review. |
+
+AGPL Section 13 concerns modified covered software offered for remote network
+interaction. It does not make every independent service, dataset, schema user or
+separate program part of the covered work merely because it interoperates.
+
+## Schema contribution rule
+
+A contribution made directly to `schemas/` or `protocols/` is accepted under
+Apache-2.0. Code that parses, validates, transports or executes a schema follows
+the licence of the code directory or repository containing that implementation.
+
+Apache-2.0 interoperability is a deliberate Commons decision, not permission to
+misrepresent compatibility, endorsement or provenance.
+
+## Data and telemetry are not software
+
+An open-source client does not make collected data open, anonymous or safe.
+The future Node Library must separately define:
+
+- the licence for released aggregate datasets;
+- contributor authority to submit the underlying data;
+- client-side minimisation and preview;
+- server-side field allow-lists and validation;
+- aggregation thresholds and rare-configuration protection;
+- retention, withdrawal and re-identification testing.
+
+No raw prompt, chat, private node, exact path, username or directly identifying
+event row is intended for the public Node Library. Pseudonymisation is a
+risk-reduction measure, not a guarantee that information is anonymous.
+
+## Contribution certification
+
+By intentionally contributing material for inclusion, a contributor must have
+authority to submit it and agrees that the contribution may be distributed
+under the licence declared for its target path. Sign-off records this
+certification; it does not prove ownership, privacy compliance or factual truth.
+
+## Legacy Anikai material
+
+Before importing Anikai/Media Magic material, record:
 
 1. original path, branch/tag and available commit identifier;
 2. date range and author/ownership information;
 3. third-party dependencies, models and assets;
 4. original licence notices;
-5. whether the material is source evidence, an executable probe, or reusable code.
+5. whether the material is source evidence, an executable probe or reusable code.
 
 Legacy provenance can be archived without automatically relicensing every
 contained dependency or third-party asset.

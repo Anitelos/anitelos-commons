@@ -1,87 +1,131 @@
-# Anitelos & Anikai-Evolution: Unified Monorepo & Subtree Specification
+# Anitelos Ecosystem: Repository & Unified Subtree Specification
 
-> **Purpose:** Defines the structural layout of the Anitelos ecosystem monorepo (`anitelos` / `Anikai-Evolution`), cleanly decoupling collaborative commons, subtrees, execution harnesses, and research ingest labs.
+> **Purpose:** Defines both the real multi-repository Anitelos ecosystem and the
+> optional unified checkout used to develop its components together.
 >
-> **Status:** `[SPEC]` target layout. Paths shown below may be placeholders or
-> planned files. Consult `README.md` → **ANITELOS TODAY** for the contents of the
-> current snapshot.
+> **Status:** `[SPEC]`. The four repositories exist. The Harness, Cosmic Wiki and
+> Node Library are implementation scaffolds; repository creation and a place in
+> this target tree do not mean their proposed mechanisms are implemented.
 
 ---
 
-## 1. Unified Monorepo Tree Layout
+## 1. Canonical repositories
 
-```
+| Repository | Canonical responsibility | Default licence |
+| :--- | :--- | :--- |
+| `anitelos-commons` | The Painted Porch, governance, theory, shared schemas, protocols and cross-ecosystem specifications | CC BY-SA 4.0 prose/diagrams; Apache-2.0 schemas/protocols |
+| `anitelos-harness` | Proposed local execution, update inspection, freeze and rollback reference implementation | AGPL-3.0-only |
+| `anitelos-cosmic-wiki` | Proposed interface for local/public nodes, edges, provenance and knowledge states | AGPL-3.0-only |
+| `anitelos-node-library` | Proposed privacy-minimised aggregate, manifest and permitted edge-exchange reference layer | AGPL-3.0-only code; aggregate data licence unresolved |
+
+Each repository remains independently cloneable and keeps its own history and
+licence boundary. A unified checkout does not merge those legal boundaries.
+
+---
+
+## 2. Unified checkout target
+
+```text
 anitelos / Anikai-Evolution /
-├── README.md                      # Prompt Zero + Unified Architecture Overview
-├── PROMPT-ZERO.md                 # Fast query bypass for reader's local companion
-├── COMMONS-COVENANT.md            # Non-Enclosure, Reciprocity & Anti-Asymmetric Enclosure
-├── GOVERNANCE.md                  # Staged progression: Founder -> Community -> Bicameral
-├── CONTRIBUTING.md                # Drops, RFC formats & security jury audit rules
+├── README.md
+├── PROMPT-ZERO.md
+├── COMMONS-COVENANT.md
+├── GOVERNANCE.md
+├── CONTRIBUTING.md
+├── LICENSING.md
 │
-├── commons/                       # THE COLLABORATIVE COMMONS LAYER
-│   ├── drops/                     # Raw thoughts, intuitions, and analogies (indexed by 2026/)
-│   ├── questions/                 # Open and resolved conceptual inquiries (open/, resolved/)
-│   ├── discussions/               # Active technical discourse & debates (active/)
-│   ├── proposals/                 # RFCs (open/, accepted/, rejected/)
-│   ├── knowledge/                 # Ratified schemas & master specifications (current/)
-│   ├── archive/                   # Superseded proposals & raw chat provenance (superseded/, raw/)
-│   └── indexes/                   # Living cross-reference registries (topics.md, unresolved.md, supersession-map.md)
+├── painted-porch/                 # THE HUMAN COMMONS GATHERING LAYER
+│   ├── README.md                  # Purpose, participation and safety boundary
+│   ├── drops/                     # Raw thoughts, observations and analogies
+│   ├── questions/                 # [PLANNED] Open and resolved inquiries
+│   ├── discussions/               # [PLANNED] Durable deliberation records
+│   ├── proposals/                 # [PLANNED] Open/accepted/rejected RFC records
+│   ├── knowledge/                 # [PLANNED] Current adopted Commons states
+│   ├── archive/                   # [PLANNED] Safe superseded/provenance records
+│   └── indexes/                   # [PLANNED] Topics, unresolved and supersession maps
 │
-├── harness/                       # SUBTREE 1: THE LOCAL NEURAL HARNESS
-│   ├── README.md                  # Ego/Organ KV isolation & execution specs
-│   ├── src/                       # Mojo/MAX/Python bare-metal execution passes
-│   └── adapters/                  # Multi-adapter stubs (llama, vLLM, SGLang, Modular)
+├── schemas/                       # Apache-2.0 shared formats
+├── protocols/                     # Apache-2.0 interoperability specifications
+├── docs/                          # Theory and cross-ecosystem specifications
+├── idea-ingest/                   # [PLANNED] Research/provenance work inside Commons
+├── experiments/                   # [PLANNED] Evidence and reproducible probes
 │
-├── cosmic-wiki/                   # SUBTREE 2: THE INTERACTIVE GRAPH INTERFACE
-│   ├── README.md                  # Visual knowledge graph & scrape explorer (Port :3847)
-│   ├── web/                       # HTMX / frontend UI
-│   └── scraper/                   # Document & paper extraction leaves (Port :3851)
-│
-├── node-library/                  # SUBTREE 3: THE COSMIC NODE LIBRARY
-│   ├── manifests/                 # Public node schemas & community capabilities
-│   ├── graph-edges/               # Public provenance & relationship definitions
-│   └── telemetry-aggregates/      # Anonymous function usage evidence
-│
-├── idea-ingest/                   # THE OPEN RESEARCH LAB & PROVENANCE ENGINE
-│   ├── _physics-card.md           # North stars & core invariants for outside auditors
-│   ├── README.md                  # Ingest charter: Weave & Demote, Research Mandate
-│   ├── AUDITOR_PROMPT.md          # Copy-paste prompt for outside AI auditors
-│   └── v1/                        # Dated versions (sources/, evolved/)
-│
-├── docs/                          # Core Architectural Specifications
-│   ├── ANITELOS-MASTER-THESIS.md  # 73KB Master Thesis & 4-Layer Epistemic Framework
-│   ├── COMMONS-LIFECYCLE.md       # 7-Stage Knowledge Lifecycle & Reconsider-If Framework
-│   ├── GOVERNANCE-AUDIT-GRAPH.md  # Deep Node Linkage & Capability Sandboxing
-│   └── SUBTREE-MONOREPO-SPEC.md   # Monorepo architecture & subtree layout (this spec)
-│
-└── experiments/                   # Code Probes & Reference Implementations
-    ├── kv-surgery-probe/          # Mojo/Python minimal memory test
-    └── colibri-probe/             # Custom runtime probe
+├── harness/                       # SUBTREE: anitelos-harness
+├── cosmic-wiki/                   # SUBTREE: anitelos-cosmic-wiki
+└── node-library/                  # SUBTREE: anitelos-node-library
 ```
 
----
+The current `anitelos-commons` repository contains only paths actually committed
+to it. Planned directories shown above should be created when they receive real
+content, rather than populated with empty placeholders.
 
-## 2. Core Subtree Descriptions
-
-### Subtree 1: `harness/` (The Proposed Local Neural Harness)
-- **Role:** Bare-metal execution layer for LLM inference, dynamic KV cache surgery, and residual attention steering.
-- **Key Invariants:** Protects the central Ego's pinned KV cache slot from being thrashing by background Organ workers or temporary tool calls.
-
-### Subtree 2: `cosmic-wiki/` (The Proposed Interactive Knowledge Graph & Scraper)
-- **Role:** Local-first SQLite graph visualizer (`data/verse.sqlite`) and live paper/video transcript scraper.
-- **Proposed profile:** Candidate development ports are `:3847` (UI) and `:3851` (scraper). A future local-first implementation should permit browsing notes, claims and Drops without automatically transmitting the personal vault.
-
-### Subtree 3: `node-library/` (The Proposed Cosmic Node Library)
-- **Role:** Registry of community manifests, public component schemas, IKEA assembly blueprints, and anonymous telemetry aggregates.
-- **Key Invariants:** Tracks representation and environmental coverage (e.g. Linux, AMD ROCm, integrated APUs) alongside execution volume.
+**The Painted Porch** is the named gathering place of the Commons. Its subfolders
+record how human contributions move from Drops and questions through discussion,
+proposal, decision and later revision. It is not a separate authority and is not
+evidence that a dedicated discussion platform exists.
 
 ---
 
-## 3. Staged Governance Progression
+## 3. Subtree boundaries
 
-1. **Founder Stage (Day 0):** Managed directly from your contributor account (`Anitelos` / `shinobistormjb-tech`) to maintain development velocity.
-2. **Growing Commons Stage:**
-   - AI acts as the **Cosmic Librarian** (flagging duplicates, surfacing contradictions, checking AST invariants), but **cannot self-merge**.
-   - Routine updates require Proof-of-Usage evidence from nodes running that subtree.
-3. **Emergency / Critical Patch Guard:**
-   - `[SPEC]` A patch marked “Critical” should receive independent human review supported by advisory automated checks. Selection, anti-capture properties and audit procedures remain open research.
+### `harness/` — proposed local execution harness
+
+- Canonical source: `Anitelos/anitelos-harness`.
+- Intended scope: local model/organ coordination, inspectable updates,
+  compatibility checks, freeze and rollback.
+- Private user knowledge remains outside the shared repository and is not
+  published merely because the Harness processes it.
+
+### `cosmic-wiki/` — proposed knowledge interface
+
+- Canonical source: `Anitelos/anitelos-cosmic-wiki`.
+- Intended scope: navigation of local and public nodes, typed edges, provenance
+  and declared knowledge states.
+- Local/private and public Commons views must remain visibly distinct.
+
+### `node-library/` — proposed aggregate and exchange layer
+
+- Canonical source: `Anitelos/anitelos-node-library`.
+- Intended scope: privacy-minimised function-use aggregates, public manifests
+  and permitted graph-edge exchange.
+- Raw prompts, chats, private nodes, exact paths and directly identifying event
+  rows are outside the intended public boundary.
+- No dataset licence or claim of legal anonymity has yet been adopted.
+
+---
+
+## 4. Integration rules
+
+1. The three implementation repositories remain canonical for their own code.
+2. A unified checkout may import them as Git subtrees at the matching prefixes.
+3. Subtree imports must preserve upstream licence files and attribution.
+4. Changes intended for an implementation repository should be returned to its
+   canonical history rather than existing only in a combined checkout.
+5. Shared schemas and protocols remain in `anitelos-commons` unless a recorded
+   Commons proposal changes that boundary.
+6. `idea-ingest/` and `experiments/` remain Commons areas until scale or
+   implementation creates a genuine reason for separate repositories.
+
+Illustrative commands—not an assertion that a subtree has already been imported:
+
+```bash
+git subtree add --prefix=harness https://github.com/Anitelos/anitelos-harness.git main --squash
+git subtree add --prefix=cosmic-wiki https://github.com/Anitelos/anitelos-cosmic-wiki.git main --squash
+git subtree add --prefix=node-library https://github.com/Anitelos/anitelos-node-library.git main --squash
+```
+
+Whether to retain full imported history or use `--squash` is an operational
+choice that should be recorded when the first integration occurs.
+
+---
+
+## 5. Governance across repositories
+
+- The founder currently acts as direct maintainer; this is a starting condition,
+  not permanent authority.
+- Work enters shared Anitelos governance when proposed as a canonical component,
+  shared baseline or distributed update.
+- Affected use creates standing to be heard, not automatic linear voting power.
+- AI may surface contradictions, inspect patches and run declared tests, but
+  humans retain binding authority under the current governance specification.
+- Emergency labels do not permit automatic self-merge.

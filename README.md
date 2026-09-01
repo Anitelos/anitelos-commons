@@ -66,19 +66,18 @@ Anitelos is an early-stage open research framework and living RFC. To maintain a
 > Neither means universally true, human-equivalent, safe in every environment,
 > or permanently canonical. Every layer remains challengeable and supersedable.
 
-The first genuine raw conversation is preserved at
-[`commons/drops/2026/raw-chat-001-a-little-idea-for-humanity/`](commons/drops/2026/raw-chat-001-a-little-idea-for-humanity/).
-It remains unverified and requires privacy review before any public release.
 
 ---
 
 ## 📚 Foundational Documentation & Specifications
 
 
-* **[docs/ANITELOS-MASTER-THESIS.md](docs/ANITELOS-MASTER-THESIS.md)** — The 79KB Foundational Master Thesis, Epistemic Framework & Survival Invariants.
-* **[docs/COMMONS-LIFECYCLE.md](docs/COMMONS-LIFECYCLE.md)** — The 7-Stage Knowledge Lifecycle (Drop → Discussion → Proposal → Decision → Current → Superseded → Archive).
+* **[docs/ANITELOS-MASTER-THESIS.md](docs/ANITELOS-MASTER-THESIS.md)** — The Foundational Thesis, Epistemic Framework & Survival Invariants.
+* **The Painted Porch** — The Commons gathering place for discussion, meetings, challenge and collaborative edge-mapping; currently represented through open repository participation and [`painted-porch/`](painted-porch/).
+* **[docs/COMMONS-LIFECYCLE.md](docs/COMMONS-LIFECYCLE.md)** — The 7-Stage Knowledge Lifecycle (Drop → Painted Porch → Proposal → Decision → Current → Superseded → Archive).
 * **[docs/GOVERNANCE-AUDIT-GRAPH.md](docs/GOVERNANCE-AUDIT-GRAPH.md)** — Draft responsibility mapping, security invariants and proposed capability sandboxing.
 * **[docs/SUBTREE-MONOREPO-SPEC.md](docs/SUBTREE-MONOREPO-SPEC.md)** — Subtree Architecture & Monorepo Directory Specification.
+* **[docs/REPOSITORY-MAP.md](docs/REPOSITORY-MAP.md)** — Ecosystem repository, licence, dependency and public/private data boundaries.
 * **[COMMONS-COVENANT.md](COMMONS-COVENANT.md)** — Non-Enclosure Covenant & Non-Adversarial Data Protection Guarantee.
 * **[GOVERNANCE.md](GOVERNANCE.md)** — Founder Progression Roadmap, Anti-Tone-Policing & Sortition Security Audits.
 * **[CONTRIBUTING.md](CONTRIBUTING.md)** — How to submit Drops, analogies, and formal RFC proposals.
@@ -94,6 +93,6 @@ It remains unverified and requires privacy review before any public release.
 
 1. **Sovereign Local Reversion:** Every user retains the immutable right to run, modify, fork, and disconnect their node without remote killswitches.
 2. **Consumer Hardware Parity:** Core runtime specifications remain strictly bounded by consumer hardware (`ANITELOS-CONSUMER-2026`: 16GB VRAM GPU + 32GB System RAM).
-3. **Copyleft Invariance:** Anitelos core engine code is intended to use GNU AGPLv3. Separately distributed schemas and creative modules may declare Apache-2.0 or MIT licensing. Each distributed component must state its licence explicitly; the Covenant is ethical guidance, not a substitute licence.
+3. **Reciprocal Code, Interoperable Schemas:** Anitelos application and reference service code uses AGPL-3.0-only; original schemas and protocol definitions in declared paths use Apache-2.0; original Commons prose and diagrams use CC BY-SA 4.0. Each component states its boundary explicitly, and the Covenant remains ethical guidance rather than a substitute licence.
 4. **Archive, Don't Delete:** Knowledge evolution is additive. Superseded nodes and historical debates remain permanently traversable historic edges.
 5. **Untrusted Sandboxing:** `[SPEC]` Compatible runtimes should execute untrusted external packages with zero capabilities by default and explicit, scoped grants. The reference sandbox is not yet implemented in this repository.

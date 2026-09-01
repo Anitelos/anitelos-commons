@@ -20,7 +20,7 @@
 
 * **Original Thought:** Create a custom "Anitelos Reciprocal Non-Enclosure License" alongside Apache 2.0.
 * **Challenge:** Custom licenses create legal fragmentation, ambiguity, and developer adoption friction.
-* **Evolution:** Core engine and kernels utilize the established **GNU Affero General Public License v3 (AGPLv3)**. User schemas and creative modules utilize permissive **Apache 2.0 / MIT**. The Covenant defines ethical non-enclosure commitments.
+* **Evolution:** Core engine and kernels utilize the established **GNU Affero General Public License v3 (AGPLv3)**. Schemas and protocol definitions use **Apache-2.0** for interoperability; creative modules declare their own licence. The Covenant defines ethical non-enclosure commitments.
 * **Status:** `[INVARIANT]`
 
 ---
