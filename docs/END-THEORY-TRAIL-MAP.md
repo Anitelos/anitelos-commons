@@ -257,6 +257,70 @@ The human correction was essential. Fewer public edges do not make a person smal
 Finally, a personal account of conviction in an unprovable afterlife claim exposed a safety boundary. A belief can cause irreversible consequences without becoming true. Meaningful spiritual experience belongs in the Porch; inability to disprove it cannot promote it to factual knowledge or justify irreversible harm.
 
 > **Preserve tomorrow's ability to reconsider. No unverified promise of continuation may be used to make an irreversible ending appear evidentially safe.**
+## Phase 16 — The open boundary and the paradox of description
+
+Archimedes and Schwarzschild then supplied a historical pairing. Archimedes approached the non-terminating decimal representation of pi through finite geometric bounds. More than two millennia later, Schwarzschild produced an exact solution whose physical interpretation still required later coordinates, collapse theory and observation. One approached the unending through approximation; the other reached an apparent ending through exact mathematics.
+
+The relation was not created by either thinker. Each made part of it reachable from the instruments and concepts available in his time. Later correction did not make the earlier contribution foolish. It exposed how much future remained inside what the earlier work got right.
+
+This produced the **Open Boundary Principle**:
+
+> **A domain may be complete enough for action at its present resolution while remaining incomplete under resolutions created by later evidence, instruments, concepts and relationships.**
+
+The history of the word *paradox* reinforced the point. Its path from Greek *parádoxos*—contrary to expectation or received opinion—through Latin and French into English gradually acquired more specialised logical meanings. No single later meaning erased the earlier path.
+
+END is not formally proved to be a paradox. It begins from an apparent one: domains and carriers end while some consequences continue relationally. Distinguishing carrier, domain, relation and effect dissolves much of the apparent contradiction.
+
+> **The end exists locally. Continuity exists relationally.**
+
+A paradox is therefore not merely an unknown. It is a pressure signal that apparently acceptable premises, definitions or scales do not fit comfortably together. Some paradoxes reveal genuine inconsistency; others disappear when the map improves.
+
+## Phase 17 — The architecture became pi-shaped and discovery became a relay
+
+The four-layer architecture revealed that Anitelos already followed the same pattern. Invariants specify the relation to preserve. Protocols increase descriptive precision. Reference architectures and contemporary implementations are finite approximations under available knowledge and hardware.
+
+A release can end, a model can fail and a stack can become obsolete without exhausting the purpose it attempted to serve.
+
+> **Every implementation is finite. The relation it follows remains unfinished.**
+
+This became the bounded claim that Anitelos is **pi-shaped**: not mathematically identical to pi, but designed so no implementation becomes the final circumference.
+
+The activation-function lineage corrected an exaggerated example of rapid AI progress. ReLU became prominent in deep learning around 2010–2011, GELU was proposed in 2016 and SwiGLU was evaluated for Transformer feed-forward layers in 2020. They did not appear within one AI-boom year. What later accelerated was their movement through papers, code, benchmarks, students, researchers, hardware engineers, model builders and users across the globe.
+
+A PCIe 7.0 question supplied the hardware equivalent. Awareness alone cannot produce adoption: endpoints, controllers, processors, boards, signal integrity, power, cost and useful workloads must align. Faster NVMe can deepen a memory hierarchy but does not become DRAM or VRAM merely through bandwidth; CXL is the closer memory-expansion path. The reusable lesson was to preserve old experiments with their environment because later hardware may alter the result.
+
+Humans also reach ordinary boundaries: tiredness, hunger, boredom, distraction, illness, changing interests and finite lifetimes. The Commons should not interpret a carrier's pause as the death of its question.
+
+This produced the **Relay Principle**:
+
+> **Follow the relation until the current carrier reaches its boundary; preserve enough safe lineage for another carrier to continue.**
+
+## Phase 18 — The crux: curiosity without dogma or evidential collapse
+
+The final turn asked whether the apparent singularity of END was really **dogmatic closure**: the point at which a current description is treated as final because no accepted continuation is available.
+
+The comparison must remain metaphorical. Mathematical singularities, physical anomalies, institutional dogma and science-fiction superintelligence are not one mechanism. Dogma is also not exclusive to religion. Religious, scientific, political, commercial and technical communities can all become dogmatic when a proposition gains authority that is insulated from meaningful challenge.
+
+END therefore does not oppose finite results. Finite measurements, proofs and engineering limits are what make correction possible. It opposes turning a result valid within stated conditions into a prohibition against asking what lies beyond those conditions.
+
+Curiosity alone is not a truth detector. It can expose a missing edge, but it can also generate fantasy, motivated reasoning and conspiracy. The stronger rule is:
+
+> **Keep the question open in proportion to the uncertainty; increase the claim only in proportion to the evidence.**
+
+Religious division then became a test of epistemic plurality. Religions divide and evolve through complex combinations of doctrine, interpretation, culture, language, institutions, politics, geography and lived experience. Anitelos cannot determine which metaphysical account is true, erase those differences or merge people into a hive mind. It can preserve each claim's provenance, distinguish testimony from external evidence, expose shared consequences and allow individuals to revise or retain their own beliefs without forcing consensus.
+
+Extraordinary possibilities—such as spirits being connected to dark matter or dark energy—may enter as speculative Drops. Present physics provides no evidence for that proposed connection. Neither difficulty of disproof nor personal experience can promote it into scientific knowledge. A serious proposal would need defined terms, a mechanism, distinct predictions, controlled observation and a result capable of rejecting it.
+
+The crux was therefore not a final cosmic answer. It was an epistemic posture:
+
+- resist authority that forbids legitimate questions;
+- resist suspicion that treats missing knowledge as proof of a preferred answer;
+- preserve individual domains without ranking human worth by public connectedness;
+- permit belief without converting belief into compulsory fact;
+- and preserve enough lineage for future evidence to correct the present map.
+
+> **Curiosity should prevent premature endings. Evidence should prevent imaginary continuations from masquerading as knowledge.**
+
 ## Where the trail remains open
 
 This reconstruction remains challengeable. Important unresolved questions include:
@@ -267,6 +331,8 @@ This reconstruction remains challengeable. Important unresolved questions includ
 4. How can affected participation resist capture, manipulation and false claims of standing?
 5. What evidence would falsify or materially narrow END Theory?
 6. What independent carriers would be required before Anitelos could safely become unnecessary?
+7. How can the Commons distinguish protective moderation from dogmatic closure?
+8. What evidence-handling process allows spiritual testimony and extraordinary claims to remain discussable without granting them scientific authority?
 
 The trail map is itself a node in that inquiry. Later evidence may correct its chronology, reinterpret its phases or replace its organising model.
 
