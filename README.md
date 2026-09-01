@@ -52,6 +52,8 @@ Anitelos is an early-stage open research framework and living RFC. For transpare
 * **[docs/END-THEORY.md](docs/END-THEORY.md)** — Public-review edition of Edge–Node Domain Theory: relational meaning, continuity, inherited knowledge and Anitelos as a temporary experiment.
 * **[docs/END-THEORY-TRAIL-MAP.md](docs/END-THEORY-TRAIL-MAP.md)** — Public conceptual lineage showing the prototypes, objections and revisions that shaped the proposition.
 * **[docs/EDGE-NODE-UNIVERSE-VISUAL-TREATMENT.md](docs/EDGE-NODE-UNIVERSE-VISUAL-TREATMENT.md)** — Cinematic visual treatment for the theory and Commons.
+* **[docs/experience/](docs/experience/)** — `[PROTOTYPE]` Interactive modular scene player with the Cold Open key art, production states, transcripts and theory links.
+* **[docs/EDGE-NODE-UNIVERSE-PRODUCTION-MAP.md](docs/EDGE-NODE-UNIVERSE-PRODUCTION-MAP.md)** — Replaceable scene order, visual grammar, narration and evidence boundaries.
 * **The Painted Porch** — The Commons gathering place for discussion, meetings, challenge and collaborative edge-mapping; currently represented through open repository participation and [`painted-porch/`](painted-porch/).
 * **[docs/COMMONS-LIFECYCLE.md](docs/COMMONS-LIFECYCLE.md)** — The 7-Stage Knowledge Lifecycle (Drop → Painted Porch → Proposal → Decision → Current → Superseded → Archive).
 * **[docs/GOVERNANCE-AUDIT-GRAPH.md](docs/GOVERNANCE-AUDIT-GRAPH.md)** — Draft responsibility mapping, security invariants and proposed capability sandboxing.

@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#05080d">
+  <meta name="description" content="The Edge-Node Universe — a modular cinematic journey through END Theory and the Anitelos Commons.">
+  <title>The Edge-Node Universe</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#experience">Skip to experience</a>
+
+  <header class="site-header">
+    <a class="wordmark" href="../END-THEORY.md" aria-label="Read END Theory">
+      <span class="node-mark" aria-hidden="true"></span>
+      <span>END THEORY</span>
+    </a>
+    <nav aria-label="Primary">
+      <a href="../END-THEORY.md">Read</a>
+      <a href="../END-THEORY-TRAIL-MAP.md">Trace</a>
+      <a href="../../painted-porch/">Discuss</a>
+    </nav>
+  </header>
+
+  <main id="experience">
+    <section class="intro" aria-labelledby="experience-title">
+      <p class="eyebrow">A modular cinematic proposition</p>
+      <h1 id="experience-title">The Edge-Node Universe</h1>
+      <p class="lede">What should humanity leave connected?</p>
+      <button id="enter-button" class="primary-button" type="button">Enter the first node</button>
+    </section>
+
+    <section class="player-shell" aria-label="Scene player">
+      <div class="stage" id="stage">
+        <video id="scene-video" playsinline preload="metadata" controls hidden>
+          <track id="caption-track" kind="captions" srclang="en" label="English" default>
+        </video>
+        <img id="scene-poster" alt="">
+        <div id="pending-card" class="pending-card" hidden>
+          <span class="pending-node" aria-hidden="true"></span>
+          <p>Production node awaiting its first clip</p>
+        </div>
+        <div class="stage-shade" aria-hidden="true"></div>
+        <div class="stage-copy">
+          <p id="scene-kicker" class="scene-kicker"></p>
+          <h2 id="scene-title"></h2>
+          <p id="scene-question" class="scene-question"></p>
+        </div>
+      </div>
+
+      <div class="controls">
+        <button id="previous-button" type="button" aria-label="Previous scene">← Previous</button>
+        <div class="progress-copy" aria-live="polite">
+          <span id="scene-count"></span>
+          <span id="scene-duration"></span>
+        </div>
+        <button id="next-button" type="button">Next →</button>
+      </div>
+
+      <div class="options">
+        <label class="toggle">
+          <input id="auto-continue" type="checkbox">
+          <span>Continue automatically after each scene</span>
+        </label>
+        <button id="transcript-button" class="text-button" type="button" aria-expanded="false" aria-controls="transcript">Show transcript</button>
+      </div>
+
+      <article id="transcript" class="transcript" hidden>
+        <h3>Scene transcript</h3>
+        <p id="transcript-text"></p>
+        <div class="scene-links">
+          <a id="theory-link" href="../END-THEORY.md">Read the related theory</a>
+          <a id="discussion-link" href="../../painted-porch/">Take this question to the Painted Porch</a>
+        </div>
+      </article>
+    </section>
+
+    <section class="chapters" aria-labelledby="chapters-title">
+      <div class="section-heading">
+        <p class="eyebrow">The cinematic graph</p>
+        <h2 id="chapters-title">Choose a node</h2>
+      </div>
+      <ol id="scene-list" class="scene-list"></ol>
+    </section>
+  </main>
+
+  <footer>
+    <p>A proposition. An experiment. A commons.</p>
+    <p><a href="https://github.com/Anitelos/anitelos-commons">View the public repository</a></p>
+  </footer>
+
+  <noscript>This experience requires JavaScript for scene navigation. The complete treatment remains available in the repository documentation.</noscript>
+  <script src="player.js" defer></script>
+</body>
+</html>
