@@ -183,6 +183,38 @@ These principles contain unresolved tensions: privacy versus provenance, preserv
 
 Those tensions should remain visible. Hiding them would recreate the problem in a new costume.
 
+## Against the final singularity
+
+The conventional technological singularity imagines intelligence concentrating until it crosses a threshold beyond ordinary human prediction or control. END Theory does not treat that condition as a prize.
+
+A sufficiently dominant AI, company, state or platform can become a practical singularity in a more immediate sense: decisions, memory, infrastructure and permission bend toward one centre. Surrounding domains lose independent carriers, become harder to challenge and gradually grey—not because every centre is malicious, but because fewer outside paths remain capable of evolving without it.
+
+Human history contains political versions of this structure. Kings, oligarchies and monopolies concentrate consequential choice in a small domain while treating many affected lives as inputs. The analogy is structural, not a claim that every government, company or model is identical.
+
+> **A singular centre may become more capable while making everything around it less able to become.**
+
+Anitelos therefore does not seek one global Ego, one final model or one institution entrusted with humanity's memory. A global hive mind would contradict the same role hygiene proposed at the personal scale: many sources may influence thought, but no unaccountable Organ should seize the Mouth.
+
+## Plural Genesis: billions of beginnings
+
+A different cosmic image fits the proposition better: not all knowledge collapsing into one singularity, but knowledge undergoing **Plural Genesis**.
+
+In cosmology, the Big Bang describes the early expansion of one observable universe. END borrows the image poetically, not as a scientific equivalence. In the knowledge analogy, every lived domain has distinct initial conditions. When a consequential node arrives, it can become a new local origin from which questions, interpretations, experiments and relationships expand.
+
+The same Drop therefore does not produce the same universe everywhere. A software update may connect in one person's domain to accessibility, in another to security, in another to old hardware, in another to creative freedom, and in another to labour or law. When those expansions meet in the Painted Porch, they may form a node none of the domains could have produced alone.
+
+Even a word can undergo this expansion. Its written form may remain stable while etymology, translation, technical use, irony, affection and slang accumulate around it. A community may invert its meaning; another may turn it into a verb; later generations may inherit associations its earlier speakers could not predict. The node did not merely acquire more definitions. Its relational universe expanded.
+
+Anything—a person, word, objection, experiment or overlooked contribution—may become a **genesis node** if later relationships begin expanding from it. Popularity does not determine when this happens, and no genesis node becomes owner of the domains it influences.
+
+The phrase **distributed singularities** can describe these local thresholds poetically, but the intended direction is not multiplication of rulers. It is multiplication of beginnings:
+
+> **Not one mind becoming infinitely powerful, but humanity becoming harder to make forget.**
+
+> **Perhaps knowledge did not need one final singularity. Perhaps it needed billions of beginnings.**
+
+Plural Genesis does not promise infinite growth or automatic prosperity. New domains can spread falsehood, exclusion and harm as well as insight. The Commons exists to preserve provenance, enable contradiction and permit revision—not to sanctify everything that expands.
+
 ## Anitelos as an experiment inside the theory
 
 Anitelos is not proof of END Theory and is not presented as humanity's final answer. It is one attempt to make parts of the proposition inspectable through architecture, experiments and governance.

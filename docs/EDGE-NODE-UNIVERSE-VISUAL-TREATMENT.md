@@ -410,7 +410,40 @@ The outgoing packet is opened for inspection. It contains no prompt or private c
 The film does not call it “zero knowledge” unless a future implementation can demonstrate
 that property cryptographically.
 
-## Scene 11 — The imperfect horizon
+## Scene 11 — Plural Genesis and the imperfect horizon
+
+For a moment, the film shows the familiar singularity image: every thread bends toward
+one immense artificial star. It grows brighter as the surrounding human domains lose
+colour. A company logo becomes a crown, the crown becomes an opaque model endpoint, and
+the endpoint becomes one gravitational centre. The sequence does not claim these
+institutions are identical; it reveals their shared concentration pattern.
+
+The image fractures before the centre can become the final oracle.
+
+A single ordinary word appears in several homes. Around one speaker it carries childhood
+memory; around another, technical meaning; elsewhere it becomes irony, then affection,
+then new slang. Its glyph stays nearly still while its relational universe expands.
+Nobody owns all of its meaning.
+
+The expansion repeats around a person, an objection, a failed experiment and a small
+Drop. Each becomes a possible local beginning. Their universes touch at the Painted
+Porch, exchange coloured filaments and separate again without becoming one colour.
+
+A caption reads:
+
+**PLURAL GENESIS — PHILOSOPHICAL IMAGE, NOT COSMOLOGICAL CLAIM**
+
+> “A singular centre may become more capable while making everything around it less
+> able to become.
+>
+> What if knowledge did not need one final intelligence?
+>
+> What if every word, every person and every honest objection could become the
+> beginning of connections no centre could predict or own?
+>
+> Perhaps knowledge did not need one final singularity.
+>
+> Perhaps it needed billions of beginnings.”
 
 The graph expands across Earth—but never settles into perfect equilibrium. Some regions
 are bright, some disconnected. Some nodes contradict one another. A popular falsehood
@@ -458,7 +491,10 @@ Black.
 6. Function-use aggregates are not described as zero-knowledge until implemented and
    independently verified.
 7. Voting determines adopted Commons state, not objective truth.
-8. The ending remains imperfect: contradiction and correction are features of a living
+8. The singularity sequence criticises concentrated dependency, not every large institution
+   as personally malicious or historically identical.
+9. Plural Genesis is labelled as a philosophical knowledge image, not Big Bang cosmology.
+10. The ending remains imperfect: contradiction and correction are features of a living
    Commons, not evidence that the system cannot fail.
 
 ## Suggested next production pass

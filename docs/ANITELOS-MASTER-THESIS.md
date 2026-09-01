@@ -669,6 +669,29 @@ The principles of Anitelos extend beyond conversational AI into software engines
 3. **Phase 3 — The Decentralized Persistent Multiverse Engine:** A collaborative world-building and simulation canvas operating across four modes (Offline Dev, Offline Beta, Online Beta, and Online Main Canon) where destruction demands physical reconstruction effort.
 4. **Phase 4 — The Sovereign OS & Civic Commons (The Generational Seed):** The long-term horizon where the companion becomes the primary computational shell, and decentralized consensus logic expands into physical civic and economic life.
 
+### 6.1.1 `[HYPOTHESIS]` Plural Genesis and the Knowledge Pluriverse
+
+Anitelos rejects a **final singularity** as its design telos. In this context, singularity means the concentration of machine intelligence, civic authority, memory or infrastructure into a centre whose decisions make surrounding domains dependent and less able to evolve independently. Large models, companies, states and founders are not interchangeable, but each can create this structural risk when alternative carriers and meaningful refusal disappear.
+
+The alternative proposition is **Plural Genesis**: many sovereign domains remain capable of becoming origins of further knowledge expansion.
+
+A node may reach a local threshold where newly accumulated edges generate vocabulary, experiments, communities or implementations that did not previously exist. This may be described poetically as a *distributed singularity*, but it grants no universal authority. The more precise architectural term is **genesis node**.
+
+A word demonstrates the mechanism at small scale. Its token or glyph may remain materially similar while its relational neighbourhood changes through:
+
+- etymological ancestry and translation;
+- specialist definitions;
+- lived and cultural associations;
+- metaphor, irony and semantic inversion;
+- slang, abbreviation and conversion into new grammatical uses;
+- later disputes over who may use it and what consequences it carries.
+
+The word's “universe” is its evolving relational domain, not a physical cosmos. Different people can carry non-identical projections of that domain while still exchanging enough provenance to learn from one another.
+
+At global scale, Anitelos does not propose one planetary Ego. It proposes interoperable local continuities and a Commons through which authorised knowledge nodes can travel, branch, collide, contradict and be superseded. Increasing collective capability must not require individual identity to dissolve into a central Mouth.
+
+This hypothesis requires social and technical testing. Greater connectivity can amplify propaganda, inherited bias, spam and power as readily as insight. Success therefore depends on plural carriers, provenance, refusal, contestability and archive—not expansion alone.
+
 ### 6.2 Civic Knowledge, Social Disappointments, and Economic Accountability
 In modern life, ordinary people experience profound, systemic disappointments: artificial price inflation, hidden corporate markups, declining service quality, and the crushing feeling of being an unheard number in an algorithmic spreadsheet.
 
