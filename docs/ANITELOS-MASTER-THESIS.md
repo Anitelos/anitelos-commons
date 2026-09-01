@@ -346,6 +346,21 @@ Human memory does not work by flat semantic matching; it navigates a **Heterogen
         └── `CHALLENGES` / `OBSERVED_BY` (Epistemic provenance)
 ```
 
+### 4.0.1 `[HYPOTHESIS]` The Strong END Proposition
+
+The strongest metaphysical proposition explored by END is that **knowledge is the most consequential transferable continuity in existence**. The architecture separates four layers so that this claim remains falsifiable rather than tautological:
+
+| Layer | Meaning |
+|---|---|
+| **Relation** | A distinguishable entity exists under conditions and interactions |
+| **Information** | A difference constrains possibilities or indicates another state |
+| **Knowledge** | A node or system registers, preserves, interprets or acts upon information within a domain |
+| **Shared knowledge** | An interpretation becomes communicable, attributable, challengeable and revisable |
+
+Not every relation is therefore declared knowledge, and no claim is made that atoms, stones or databases are conscious. The hypothesis is that creation is relationally structured and that knowledge permits some relational consequences to travel beyond their originating encounter, carrier or generation.
+
+Fossils, starlight, genetic inheritance and built tools illustrate different forms of persistent, interpretable structure; they do not prove a single metaphysical substance. Information, knowledge, truth, consciousness and existence remain distinct terms.
+
 ### 4.1 Schema Definition: The Living Verse
 `[SPEC]` Proposed local SQLite/`sqlite-vec` schema for epistemological uncertainty, personal mastery, and provenance. It is not implemented in this repository:
 
@@ -385,8 +400,8 @@ CREATE TABLE graph_edge (
 ### 4.2 "Everything is Flawed When It's Proven" (Resolved Disagreements as First-Class Knowledge)
 A foundational epistemic rule of Anitelos is that **an adopted knowledge node remains open to challenge**. This does not mean every fact inevitably changes. It means the Commons records the evidence, scope and uncertainty behind its current position rather than treating acceptance as infallibility.
 
-Therefore, the graph operates on **Archive, Don't Delete**:
-- When new evidence invalidates an old belief (e.g., discovering SageAttention v2 supersedes SageAttention v1), the system normally preserves a safe historical node or tombstone, subject to privacy, consent, safety, legal duties and withdrawal.
+Therefore, the shared knowledge graph operates on **Preserve the Path; Compact the Exhaust**:
+- When new evidence invalidates an old belief (e.g., discovering SageAttention v2 supersedes SageAttention v1), the system normally preserves a safe historical node, supersession path or tombstone, subject to privacy, consent, safety, legal duties, storage policy and withdrawal.
 - It creates an explicit `SUPERSEDES` edge linking the old node to the new discovery.
 - **Preserving Resolved Conflicts:** If an engineering proposal A defeats proposal B (83% to 17%), the system does not assert $A = \text{Absolute True}$. It preserves proposal B, the counter-evidence, the benchmark friction, and the specific historical conditions under which B was defeated. If future hardware pivots (e.g., memory bandwidth triples), the historical reasoning against B is instantly re-evaluable.
 
@@ -418,6 +433,26 @@ To prevent individual machines from needing to hoard petabytes of data while gua
 ```
 - Retrieval priority may decay when a node is not presently relevant, but low present salience does not establish low future value. Archival retention and active recall are separate policies.
 - Authorised primary-source snapshots may be cached locally where rights, storage and safety permit. Replication reduces dependence on one host; it cannot guarantee immunity from loss, corruption or lawful removal.
+
+### 4.3.1 `[SPEC + RESEARCH]` Vault Half-Life and Storage Singularities
+
+A single lifelong `vault.sqlite` that accumulates every raw transcript, intermediate inference, embedding and tool event would eventually become a practical storage singularity. Database engine limits are not the only concern: indexes, backups, migrations, corruption domains, retrieval noise, privacy exposure and dependence on one historical object all grow with accumulation.
+
+The proposed retention planes are:
+
+| Plane | Typical contents | Default |
+|---|---|---|
+| **Pinned originals** | User-selected files, conversations, legal or creative records | Retain until explicit user action or applicable obligation |
+| **Active continuity** | Recent transcripts, current tasks and live relationship context | Full detail inside a rolling, inspectable budget |
+| **Distilled continuity** | Episodes, commitments, decisions, lessons and causal edges | Longer half-life; periodically review and supersede |
+| **Ephemeral exhaust** | Raw tool logs, classifier scaffolds, duplicate chunks, rebuildable embeddings and temporary reasoning | Short half-life; compact or remove first |
+| **Archive catalogue** | Lightweight pointers, provenance, shard manifests, tombstones and supersession paths | Durable and portable where lawful and safe |
+
+A future implementation may shard cold material by time, domain or retention class while keeping a small active index. A cold shard can return to active orbit when a relevant edge appears. Embeddings and other derived indexes should be reproducible from authorised sources where possible rather than treated as sacred originals.
+
+Half-life changes **detail before meaning**. It is governed by explicit user pins, uniqueness, causal value, reproducibility, sensitivity, legal constraints, available capacity and local policy—not age or popularity alone. Every compaction should be previewable, auditable and reversible while the source still exists.
+
+No retention process may silently convert a summary into a claim that the removed transcript said more than the preserved provenance supports.
 
 ### 4.4 Non-Academic Epistemology: Personal Knowledge as Relational Truth
 Conventional institutions gatekeep truth behind formal academic titles, peer-review monopolies, and paywalled journals. Anitelos rejects the dogma that only credentialed elites can author meaningful knowledge:
@@ -689,6 +724,8 @@ A word demonstrates the mechanism at small scale. Its token or glyph may remain 
 The word's “universe” is its evolving relational domain, not a physical cosmos. Different people can carry non-identical projections of that domain while still exchanging enough provenance to learn from one another.
 
 At global scale, Anitelos does not propose one planetary Ego. It proposes interoperable local continuities and a Commons through which authorised knowledge nodes can travel, branch, collide, contradict and be superseded. Increasing collective capability must not require individual identity to dissolve into a central Mouth.
+
+This is **connection without compression**. Humanity need not become one mind to think together. The system opposes one model becoming intelligence, one company becoming infrastructure, one founder becoming governance, or one monoculture becoming the permitted future. Unity is valuable only while meaningful plurality, refusal and independent evolution remain possible.
 
 This hypothesis requires social and technical testing. Greater connectivity can amplify propaganda, inherited bias, spam and power as readily as insight. Success therefore depends on plural carriers, provenance, refusal, contestability and archive—not expansion alone.
 

@@ -420,6 +420,22 @@ institutions are identical; it reveals their shared concentration pattern.
 
 The image fractures before the centre can become the final oracle.
 
+A transparent sphere appears around a central pivot like an origin marker in a 3D
+viewport. The mesh contracts toward it. At zero scale, the coordinate picture can show
+nothing further—but a caption refuses to equate the limit of the transform with proof
+that every underlying possibility has ceased:
+
+**THE MAP STOPS HERE. WHAT FOLLOWS IS UNKNOWN.**
+
+The image briefly evokes a black hole, then withdraws before depicting a bounce, white
+hole or new universe as fact. The narration states:
+
+> “A centre can be a reference point. A singularity can mark the failure of a
+> description. Neither gives this film permission to invent what lies beyond it.
+>
+> But apparent finality leaves a question: did possibility end—or did this domain
+> lose the language required to follow it?”
+
 A single ordinary word appears in several homes. Around one speaker it carries childhood
 memory; around another, technical meaning; elsewhere it becomes irony, then affection,
 then new slang. Its glyph stays nearly still while its relational universe expands.
@@ -494,7 +510,9 @@ Black.
 8. The singularity sequence criticises concentrated dependency, not every large institution
    as personally malicious or historically identical.
 9. Plural Genesis is labelled as a philosophical knowledge image, not Big Bang cosmology.
-10. The ending remains imperfect: contradiction and correction are features of a living
+10. The 3D-origin and black-hole images distinguish a coordinate reference, a classical
+    theory boundary and speculative continuation; no bounce or multiverse is asserted.
+11. The ending remains imperfect: contradiction and correction are features of a living
    Commons, not evidence that the system cannot fail.
 
 ## Suggested next production pass
