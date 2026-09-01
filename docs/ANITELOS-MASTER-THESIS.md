@@ -561,6 +561,10 @@ The contrast is useful: one thinker approached a non-terminating representation 
 
 The disciplined claim is not that prior thinkers were simply wrong. A result can remain valid within its assumptions while later knowledge redraws the domain in which those assumptions sit. The future may outdate an interpretation without erasing the discovery that enabled it.
 
+As a bounded design analogy, Anitelos is **pi-shaped**. Its invariants define a relation to preserve; protocols increase descriptive precision; reference architectures and implementations provide finite approximations under contemporary constraints. No release is the final circumference. A model or stack reaching failure should trigger measurement, revision and supersession rather than conversion of the current implementation into dogma.
+
+> **Every implementation is finite. The relation it follows remains unfinished.**
+
 Anitelos should therefore preserve assumptions, evidence, environment and supersession paths—not only conclusions. A future contributor should be able to discover why a node once looked sufficient and which new edge made it incomplete.
 
 #### 4.8.2 Layer Three as a falsifiable research programme

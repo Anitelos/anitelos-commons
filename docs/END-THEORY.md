@@ -394,6 +394,14 @@ Neither produced reality itself. Each produced a description through which part 
 
 > **The relation was not made by the thinker. The thinker made it reachable.**
 
+### An architecture that follows pi
+
+Anitelos can be understood through the same pattern—not as a mathematical identity, but as a design analogy. Its invariants establish the relation it intends to preserve. Its protocols describe that relation more precisely. Each reference architecture and implementation is a finite approximation made with the instruments, hardware and knowledge available at that moment.
+
+A release may end. A model may fail. A storage strategy may become obsolete. None should be mistaken for the last possible expression of the underlying purpose. When an implementation reaches its boundary, its evidence and lineage should help the next generation draw a better one.
+
+> **Anitelos does not complete the circle. It preserves the method by which each generation may draw closer. In that sense, the architecture is itself pi: finitely expressed at every moment, never finally exhausted.**
+
 The same should apply to END Theory and Anitelos. Their value would not lie in being the last description. It would lie in leaving enough reasoning, provenance and challengeable structure for later contributors to outdate them intelligently.
 
 ### Hard questions without hidden answers
