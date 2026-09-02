@@ -6,7 +6,7 @@
 >
 > END Theory is a philosophical and architectural proposition, not an established physical or mathematical theory. This edition is being shared to invite lived experience, criticism, evidence and better alternatives before formal publication.
 >
-> Intended licence on approved release: **CC BY-SA 4.0**.
+> licence: **CC BY-SA 4.0**.
 
 ## The question beneath it
 
