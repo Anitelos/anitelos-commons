@@ -478,6 +478,32 @@ The contributor previews and edits the summary, subject links, source pointer, a
 
 The complete proposal and its unresolved platform, consent, context, deletion, spam and provenance questions are defined in [External Drop Bridge](EXTERNAL-DROP-BRIDGE.md).
 
+### 4.5.2 `[SPEC + RESEARCH]` Personal Curiosity Trail
+
+The External Drop Bridge is not the same system as personal research continuity. A
+proposed local-only browser companion may turn explicitly authorised pages, selections,
+questions and tentative relationships into lightweight nodes in the user's own SQLite
+Vault and Cosmic Wiki. It would use information already available under browser and user
+permissions until a purpose-built interface becomes justified; this does not broaden the
+right to collect or transmit that information.
+
+The design separates three authorities:
+
+1. the browser retains its own history under the person's browser settings;
+2. the local Curiosity Trail retains only authorised derivatives under local retention,
+   dormancy and deletion rules; and
+3. the Painted Porch receives nothing until a separate reviewed publication action.
+
+A small question may remain dormant and reappear when a later source supplies a plausible
+edge. The interface must explain why it resurfaced and permit **Connect**, **Not related**,
+**Keep dormant** or **Forget**. Relatedness is a suggestion, not a psychological profile or
+knowledge verdict.
+
+`[INVARIANT]` Browsing history, URLs, page titles, inferred interests, personal questions
+and local graph edges are not functional telemetry. The fuller boundary and unresolved
+evaluation questions are specified in
+[Personal Curiosity Trail](PERSONAL-CURIOSITY-TRAIL.md).
+
 ### 4.6 The Personalized Research Substrate: Cognitive Mastery & "Repetitive Stickiness"
 Beyond a static repository of facts, the Heterogeneous Salience Graph functions as an **Active Personalized Research and Learning Substrate**:
 

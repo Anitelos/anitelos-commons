@@ -16,9 +16,10 @@ experiment derived from it—not proof of the theory and not a completed answer.
 5. Enter the **[master thesis](docs/ANITELOS-MASTER-THESIS.md)** for the deeper architecture, hypotheses and open engineering work.
 6. Use **[Ego, Mouth, Organs and Familiars](docs/EGO-ORGAN-FAMILIAR-ROLE-HYGIENE.md)** for the role boundary and proposed Organ interruption mechanism.
 7. Read **[External Drop Bridge](docs/EXTERNAL-DROP-BRIDGE.md)** for the proposed `@anitelos` path from ordinary web discussion into the seven-stage lifecycle.
-8. Challenge **[Proof, Model, Metaphor & Myth](docs/COSMOLOGY-PROOF-MODEL-METAPHOR-MYTH.md)** where END touches cosmology without claiming scientific proof.
-9. Explore **[Layer Three — From Possibility to Consequence](docs/LAYER-THREE-POSSIBILITY-TO-CONSEQUENCE.md)** for the proposed bridge from private possibility and fiction to shared representation, testing and material consequence.
-10. Use the **[Current Knowledge Snapshot Protocol](docs/CURRENT-KNOWLEDGE-SNAPSHOT-PROTOCOL.md)** to preserve raw questions, sourced corrections, remaining uncertainty and revision paths without turning a dated review into permanent truth.
+8. Read **[Personal Curiosity Trail](docs/PERSONAL-CURIOSITY-TRAIL.md)** for the separate local-only path from authorised browsing moments into a private Vault/Wiki graph.
+9. Challenge **[Proof, Model, Metaphor & Myth](docs/COSMOLOGY-PROOF-MODEL-METAPHOR-MYTH.md)** where END touches cosmology without claiming scientific proof.
+10. Explore **[Layer Three — From Possibility to Consequence](docs/LAYER-THREE-POSSIBILITY-TO-CONSEQUENCE.md)** for the proposed bridge from private possibility and fiction to shared representation, testing and material consequence.
+11. Use the **[Current Knowledge Snapshot Protocol](docs/CURRENT-KNOWLEDGE-SNAPSHOT-PROTOCOL.md)** to preserve raw questions, sourced corrections, remaining uncertainty and revision paths without turning a dated review into permanent truth.
 
 For an agent-assisted audit, use **[Prompt Zero](PROMPT-ZERO.md)**. It instructs
 the reviewing system to separate evidence, specification, hypothesis and

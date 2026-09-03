@@ -9,6 +9,12 @@ A video, article, forum thread, game community or ordinary comment section can c
 
 The external page remains the place where the statement was made. Anitelos creates a **provenance bridge**, not a silent copy of the surrounding platform.
 
+This bridge is distinct from the proposed
+[Personal Curiosity Trail](PERSONAL-CURIOSITY-TRAIL.md). The Curiosity Trail may use
+explicitly authorised browser context entirely on the person's machine to build their
+private Vault/Wiki graph. `@anitelos` adds a second decision: whether to prepare a bounded
+derivative for publication. Neither lane converts browsing history into telemetry.
+
 ```mermaid
 flowchart TB
     C["Contributor writes @anitelos"] --> L["Local extension reads permitted context"]
@@ -43,6 +49,7 @@ The summary must remain editable. Automatic classification is a suggestion, not 
 - A public comment is not automatic consent to place its author in another permanent database.
 - The system must not imply endorsement by the video creator, platform or nearby commenters.
 - No hidden advertising profile, cross-site behavioural dossier or sale of personal browsing history.
+- No browsing history, inferred interest graph or private Curiosity Trail in functional telemetry.
 - No pay-to-rank path may turn advertising money into epistemic weight, voting power or privileged truth status.
 - Platform APIs, rate limits, copyright, deletion signals and terms must be checked per connector rather than assumed away.
 
@@ -80,6 +87,10 @@ Privacy, safeguarding, security and lawful deletion can still require removal. W
 ## Recall and personal relevance
 
 When a contributor later encounters a related subject, their local graph may suggest the earlier Drop, its later discussion or the superseding knowledge. This recall must happen locally by default. The public Commons does not need a complete record of what that person watches or reads.
+
+The local graph may also hold questions that were never published. Their dormancy,
+resurfacing and deletion remain under the person's authority; a later relationship does
+not retroactively turn private browsing into public provenance.
 
 Relatedness may be proposed through typed edges such as:
 

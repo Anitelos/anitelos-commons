@@ -175,6 +175,31 @@ The Painted Porch therefore treats a research trail as:
 
 This is not a claim of ownership over every term the trail encounters. END's possible contribution lies in its synthesis, its challengeable definitions and the method through which later knowledge may outdate them.
 
+### Seven: cosmic constant or inherited cultural node?
+
+The recurrence of seven supplies a useful boundary test. Seven appears in calendars,
+religions, education, stories, games and everyday ideas of luck or completion. That does
+not establish that physical reality is governed by seven. Many appearances may descend
+from shared cultural ancestors, while others are convenient classifications,
+coincidences or later reinterpretations.
+
+The number nevertheless has a real human domain. The glyph `7` can remain stable while
+its relational neighbourhood accumulates astronomy, ritual, mathematics, schooling,
+fiction and private memory. Different people inherit different projections of that
+domain. A pattern may therefore be real in the cultural graph without being a law of
+nature.
+
+The fingers-and-gaps question makes the distinction visible. Three raised fingers create
+four visible intervals when the two outer gaps are included. Discovering the gaps can
+produce new analytical nodes, but it does not prove that every system unfolds according
+to a privileged sequence of three and seven. The useful proposition is narrower:
+
+> **Adding or recognising nodes can expose previously unrepresented relationships; those
+> relationships can then become objects of inquiry in their own right.**
+
+END treats recurrence as a prompt to investigate lineage, independent convergence,
+selection effects and causal influence—not as automatic confirmation.
+
 ## Tomorrow inherits today
 
 Cause and consequence are understood instinctively, yet downstream influence remains difficult to see while it is forming.
@@ -361,6 +386,16 @@ A future browser extension or share interface could let a contributor deliberate
 A video could therefore become the location of a discussion; a comment could become the seed of a proposal; testing and disagreement could create further nodes. Only after the seven-stage lifecycle would a proposition become provisional shared knowledge.
 
 The full mechanism is specified as an open research proposal in [External Drop Bridge](EXTERNAL-DROP-BRIDGE.md). It must solve consent, context, deletion, copyright, platform rules, spam, identity and capture before deployment.
+
+Before that public bridge is a private continuity problem. A proposed
+[Personal Curiosity Trail](PERSONAL-CURIOSITY-TRAIL.md) would allow explicitly authorised
+pages, selections and questions to form lightweight local Vault/Wiki nodes. Ordinary
+browser history records where someone went; the trail would preserve why a moment mattered
+and which later encounter changed its relevance. It remains private by default, may become
+dormant under local half-life rules, and must never be treated as diagnostic telemetry.
+
+Publication is a separate act. A one-year-old question can resurface locally without
+being exposed, or the person can deliberately prepare a reviewed Drop for the Porch.
 
 The Archive is intended to be the **stickiest knowledge layer**: decisions, supersession paths, safe reasoning and reconsideration conditions receive the strongest portability and preservation effort. “Sticky” does not mean immortal and does not override privacy or lawful removal. When content must disappear, a safe tombstone may preserve the shape of the decision without preserving the person or withdrawn material.
 

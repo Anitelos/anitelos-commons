@@ -342,6 +342,42 @@ This phase produced the [Current Knowledge Snapshot Protocol](CURRENT-KNOWLEDGE-
 
 The trail therefore makes no blanket claim to have invented the terms it encounters. Established language is credited; adapted vocabulary is declared; project shorthand remains shorthand; and proposed definitions remain open to prior-art review and replacement.
 
+## Phase 20 — Seven became a cultural-lineage test and browsing split into two lanes
+
+The recurrence of seven initially appeared to mirror the seven-stage Commons lifecycle,
+religious symbolism and the seven liberal arts. The correction was not to discard the
+recognition or promote it into numerology. It was to ask whether the appearances were
+independent, inherited from shared cultural ancestors, produced by convenient human
+classification or noticed selectively after the pattern became salient.
+
+The resulting distinction sharpened END:
+
+> **A pattern can be real in humanity's shared knowledge graph without being a fundamental
+> pattern of physical reality.**
+
+The fingers-and-gaps example was retained in bounded form. Three raised fingers can present
+four intervals when the outer gaps are counted. The new gaps are analytical objects created
+by a chosen representation, not proof that three and seven possess privileged cosmic
+status. The exercise still demonstrates how recognising a relationship creates a new node
+that can gather further meaning.
+
+That insight returned to implementation through the browser. A browser already records
+locations, but not necessarily the question that made one page matter or the later source
+that changed its meaning. The proposed Personal Curiosity Trail therefore became a private,
+local-first layer capable of holding lightweight questions, tentative edges and dormant
+nodes inside the user's Vault/Wiki.
+
+This required a second correction: the private trail is not `@anitelos` publication and is
+never ordinary telemetry. `@anitelos` is a proposed explicit export bridge through which a
+person may review a bounded derivative before offering it as a Drop. A private question may
+resurface a year later, be rejected as unrelated, remain dormant or be forgotten without
+ever leaving the device.
+
+The implementation proposition became:
+
+> **Browser history remembers where a person went. A sovereign curiosity trail may help
+> them remember why—without making that history public.**
+
 ## Where the trail remains open
 
 This reconstruction remains challengeable. Important unresolved questions include:
