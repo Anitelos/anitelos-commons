@@ -157,6 +157,24 @@ Its earlier form should not simply vanish. The objection, evidence, failed test 
 
 A vote can establish what a community proceeds with. It cannot compel reality to agree. The objection that loses today may contain the warning everyone needs tomorrow.
 
+### Correction is a continuity event
+
+A correction does not merely remove an error. It creates a typed relationship between what was first believed, what challenged it and what can now be asked more precisely.
+
+Consider a person who describes a solitary pivot as “one-dimensional.” Elementary geometry supplies an immediate correction: a point is zero-dimensional, while a line is one-dimensional. END need not resist that correction or claim a new physical dimension. A node is an analytical distinction, not a statement about physical size; an edge represents a relation selected for examination.
+
+The useful question can nevertheless survive: under what conditions can spatial, informational or conceptual structure emerge from relations among simpler distinctions? That question already touches established work across mathematics, physics and philosophy. END's responsibility is to find and cite that work, state where its vocabulary overlaps, and preserve only the uncertainty that remains after the correction.
+
+> **A correction need not end a line of thought. It may reveal that the line began from the wrong coordinate while still pointing toward a worthwhile question.**
+
+Search engines and AI systems can help uncover terminology, sources and objections. Their fluent answers are not evidence by themselves. The underlying paper, dataset, standard or institutional account must remain reachable, and an overconfident machine explanation should be preserved as a correction opportunity rather than laundered into authority.
+
+The Painted Porch therefore treats a research trail as:
+
+> **raw question → initial interpretation → current knowledge → correction → remaining uncertainty → revised proposition**
+
+This is not a claim of ownership over every term the trail encounters. END's possible contribution lies in its synthesis, its challengeable definitions and the method through which later knowledge may outdate them.
+
 ## Tomorrow inherits today
 
 Cause and consequence are understood instinctively, yet downstream influence remains difficult to see while it is forming.
@@ -553,4 +571,3 @@ Responses may become Drops in the Painted Porch only with the contributor's know
 
 ---
 Knowledge is everything—and nothing. So don’t stress. Life goes on.
-

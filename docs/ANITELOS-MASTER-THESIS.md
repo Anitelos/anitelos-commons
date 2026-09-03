@@ -77,6 +77,8 @@ To prevent confusion between timeless principles, code prototypes, and open rese
 | **`[VERIFIED]`** | Reproduced against a stated test or benchmark | None in the current documentation-only snapshot |
 | **`[LEGACY-EVIDENCE]`** | Reported or locally preserved work outside this repository; awaiting archival and reproducibility metadata | Anikai/Media Magic branches, commits, probes and application code |
 
+Research summaries additionally use a dated **Current Knowledge Snapshot** rather than a new truth-status label. A snapshot records the strongest account found during a stated review, its source quality, corrections and unresolved boundary. It remains subject to the lifecycle states above. See [`CURRENT-KNOWLEDGE-SNAPSHOT-PROTOCOL.md`](CURRENT-KNOWLEDGE-SNAPSHOT-PROTOCOL.md).
+
 > **Evidence boundary:** The `harness/`, `cosmic-wiki/`, `node-library/`,
 > `idea-ingest/`, and `experiments/` directories are placeholders in this snapshot.
 > Anikai/Media Magic work, native-binary runs, and historical commits belong to a
@@ -618,6 +620,27 @@ The Commons should neither confuse status with truth nor suspicion with evidence
 10. Will Anitelos publish a decisive negative result that makes one of its own central mechanisms unnecessary?
 
 The purpose of Anitelos is not to preserve a founder's interpretation. It is to preserve enough safe lineage that later contributors can outdate it without repeating its entire path from zero.
+
+#### 4.8.5 `[SPEC + RESEARCH]` Current Knowledge Snapshots
+
+Anitelos SHOULD be able to preserve a question and its correction without presenting either as final authority. A research snapshot records:
+
+1. the safe, consented raw question;
+2. its initial interpretation;
+3. the strongest current account supported by inspected sources;
+4. corrections, competing explanations and category errors;
+5. the uncertainty that remains;
+6. the relevance to END or an Anitelos decision;
+7. direct sources, review date and source quality; and
+8. conditions that should reopen or supersede the record.
+
+Search engines, language models and research agents are discovery and synthesis aids, not primary evidence. The provenance path SHOULD identify when an assistant suggested a term or source and SHOULD cite the underlying paper, standard, dataset or responsible institution actually inspected.
+
+Terminology MUST distinguish established terms, adapted terms, project shorthand, proposed definitions, possible prior overlap and retracted wording. Anitelos does not claim originality merely by connecting existing concepts. Its contribution, where one survives review, lies in the synthesis, testable design consequences and inspectable correction process.
+
+The zero-dimensional point supplies the minimal worked example. Elementary geometry treats a point as 0D and a line as 1D. END nodes are analytical units and do not inherit a physical dimension from their drawn glyph. The correction supersedes the inaccurate wording while retaining the deeper research question: when, if ever, can dimensional or spatial behaviour be shown to emerge from relations under an established formal model?
+
+The complete record format is specified in [Current Knowledge Snapshot Protocol](CURRENT-KNOWLEDGE-SNAPSHOT-PROTOCOL.md).
 
 ## 5. The Sovereign Commons: Governance & Anti-Monopoly Architecture
 

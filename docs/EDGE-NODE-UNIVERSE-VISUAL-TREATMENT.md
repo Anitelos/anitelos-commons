@@ -86,6 +86,20 @@ culture, tools, forgotten encounters and other lives. The label changes:
 
 **LOCAL ORIGIN — NOT ABSOLUTE BEGINNING**
 
+For one beat, the point is incorrectly labelled **ONE DIMENSION**. A clean annotation
+arrives from outside the frame:
+
+**CORRECTION: A MATHEMATICAL POINT IS 0D. A LINE IS 1D.**
+
+The mistaken label is not erased. It dims, receives a `CORRECTED_BY` edge and remains
+reachable behind the new description. A source marker and review date appear beside the
+correction. The point then changes scale—standing first for an event, then a person, an
+atom and a galaxy—showing that an END node is a chosen unit of analysis, not a claim
+about physical size or dimensionality.
+
+> “The correction does not humiliate the question. It changes the coordinate from
+> which the question can continue.”
+
 Parallel graphs appear. The same event bends each differently. The planes separate into
 depth, revealing many partially overlapping experiential domains. A node on one graph
 becomes the camera's new centre; its ancestry has another geometry entirely.
@@ -702,6 +716,11 @@ Black.
    cosmology is asserted.
 16. A smaller, brighter node represents retained evidence, provenance and purpose—not
    the automatic superiority of compression, popularity or minimalism.
+17. Search and AI assistance may appear as routes to candidate sources, never as the
+   authority underneath a scientific claim. The inspected source, date and correction
+   remain visible.
+18. Mathematical points, drawn nodes and physical entities are not treated as identical.
+   The 0D correction is preserved as provenance, not used to imply a new dimension.
 
 ## Suggested next production pass
 

@@ -321,6 +321,27 @@ The crux was therefore not a final cosmic answer. It was an epistemic posture:
 
 > **Curiosity should prevent premature endings. Evidence should prevent imaginary continuations from masquerading as knowledge.**
 
+## Phase 19 — The correction became a first-class node
+
+A later dialogue began with time relative to a “pivot” and travelled through atomic clocks, causal reach, dimensionality, fictional futures, historical recordings and domain fade. Its value was not that every step was correct. Several machine-generated replies promoted analogies into claims of established physics, used speculative theories as confirmation and treated absence of disproof as positive evidence.
+
+The zero-dimensional point made the corrective structure visible. The originating intuition described a solitary pivot as one-dimensional. Elementary geometry corrected it: a point is 0D; a line is 1D. The question did not have to be discarded with the wording. It became narrower: END nodes are analytical units rather than physical dimensions, and any claim that space or dimensionality emerges from relations must be compared with existing formal research and expose a possible test.
+
+Other parts of the dialogue survived the same separation:
+
+- relativity supplied a bounded analogy for viewpoint but did not make each observer the source of cosmic expansion;
+- a 1920 recording showed how a past action can become causally available to a later mind without requiring block-universe metaphysics;
+- *The Terminator* showed that a fictional referent can still become a cultural cause through human interpretation and action;
+- fingers and gaps suggested that adding nodes creates further relationships and unknowns, while combinatorics supplied a more precise language;
+- biological turnover suggested continuity through organised transformation, not immortality or escape from thermodynamics; and
+- the mortality of SQLite, Anitelos and the Porch clarified that a scaffold may succeed by making its own carrier unnecessary.
+
+This phase produced the [Current Knowledge Snapshot Protocol](CURRENT-KNOWLEDGE-SNAPSHOT-PROTOCOL.md): raw question, initial interpretation, current sourced account, correction, remaining uncertainty, project relevance, dated sources and a revision path.
+
+> **The original question is provenance. The correction is an edge. The refined question is a new node.**
+
+The trail therefore makes no blanket claim to have invented the terms it encounters. Established language is credited; adapted vocabulary is declared; project shorthand remains shorthand; and proposed definitions remain open to prior-art review and replacement.
+
 ## Where the trail remains open
 
 This reconstruction remains challengeable. Important unresolved questions include:
@@ -333,6 +354,7 @@ This reconstruction remains challengeable. Important unresolved questions includ
 6. What independent carriers would be required before Anitelos could safely become unnecessary?
 7. How can the Commons distinguish protective moderation from dogmatic closure?
 8. What evidence-handling process allows spiritual testimony and extraordinary claims to remain discussable without granting them scientific authority?
+9. Which END terms duplicate established work, and which—if any—support a distinct, testable synthesis?
+10. Can dated Current Knowledge Snapshots remain useful without hardening a temporary literature review into canonical truth?
 
 The trail map is itself a node in that inquiry. Later evidence may correct its chronology, reinterpret its phases or replace its organising model.
-
